@@ -1,0 +1,405 @@
+<s id=10000>
+Mark Zuckerberg khoe công_nghệ dùng trong metaverse 
+</s>
+<s id=10001>
+CEO và CTO tương_lai của Facebook khoe các nguyên_mẫu kính thực_tế_ảo mới có_thể được sử_dụng trong vũ_trụ_ảo metaverse . 
+</s>
+<s id=10002>
+" Tôi đã dành cả ngày với nhóm kỹ_sư trong Phòng nghiên_cứu thực_tế_ảo để giới_thiệu công_nghệ VR , AR và AI thế_hệ tiếp_theo . 
+</s>
+<s id=10003>
+Đây là một mẫu thử_nghiệm ' độ_phân_giải retina ' ban_đầu . 
+</s>
+<s id=10004>
+Tương_lai hứa_hẹn có nhiều điều tuyệt_vời hơn " , Mark Zuckerberg viết trên Facebook hôm 14/10 . 
+</s>
+<s id=10005>
+Cùng thời_điểm , Andrew Bosworth , người sẽ là CTO của Facebook vào năm tới , cũng đăng hình_ảnh tại phòng nghiên_cứu với một kính thực_tế_ảo khác . 
+</s>
+<s id=10006>
+Cả hai không mô_tả chi_tiết về thiết_bị , nhưng khẳng_định đây là bước_tiến mới trong tham_vọng xây_dựng metaverse của Facebook . 
+</s>
+<s id=10007>
+Dù không nhắc đến việc thương_mại_hóa , hai mẫu kính cho thấy những điều thú_vị trong phòng nghiên_cứu thực_tế_ảo của Facebook . 
+</s>
+<s id=10008>
+Thiết_bị mà Zuckerberg đeo trông giống kính Oculus hiện_tại của công_ty . 
+</s>
+<s id=10009>
+Ông gọi đây là " retina resolution " ( độ_phân_giải retina ) , cụm_từ vẫn được Apple dùng để chỉ màn_hình độ_phân_giải cao . 
+</s>
+<s id=10010>
+CEO Facebook muốn ám_chỉ màn_hình này có mật_độ điểm_ảnh cao đến mức mắt thường khó phân_biệt các điểm_ảnh riêng_lẻ ở khoảng_cách hoạt_động bình_thường . 
+</s>
+<s id=10011>
+Trong khi đó , chiếc kính Bosworth đeo có thiết_kế mới_lạ hơn . 
+</s>
+<s id=10012>
+Theo The Verge , thiết_bị trông như bản dựng dựa trên tin_đồn về kính VR của Apple . 
+</s>
+<s id=10013>
+Dù Facebook đã hợp_tác với Ray Bans để cho ra_đời kính thông_minh Stories , phòng_thí_nghiệm VR của hãng vẫn vấp phải nhiều hoài_nghi về khả_năng có_thể hiện_thực_hóa viễn_cảnh metaverse . 
+</s>
+<s id=10014>
+Một_số nguồn tin cho biết , Facebook đang đặt_cược vào phần_cứng khi bổ_nhiệm Andrew Bosworth - người đang chịu trách_nhiệm về công_nghệ thực_tế_ảo - làm CTO thay_thế cho Mike Schroepfer . 
+</s>
+<s id=10015>
+Ông chủ Facebook tin rằng (S siêu_vũ_trụ_ảo sẽ là bước_tiến tiếp_theo của Internet . 
+</s>
+<s id=10016>
+Trên thị_trường , không nhiều hãng công_nghệ tham_gia sản_xuất thiết_bị phần_cứng dùng cho thực_tế_ảo . 
+</s>
+<s id=10017>
+Một trong những mẫu kính VR đáng chú_ý nhất hiện_nay là Vive Flow của HTC . 
+</s>
+<s id=10018>
+Trên bài đăng của Bosworth , CEO Vive hỏi ông có muốn đổi một chiếc kính mô_hình để lấy một sản_phẩm vừa xuất_xưởng không . 
+</s>
+<s id=10019>
+Bosworth đã lập_tức từ_chối lời đề_nghị . 
+</s>
+<s id=10020>
+Trong vài năm qua , dưới sự lãnh_đạo của Bosworth , bộ_phận phần_cứng với hơn 10.000 nhân_viên của Facebook đã tung ra thị_trường hàng_loạt sản_phẩm . 
+</s>
+<s id=10021>
+Trong số đó , ba sản_phẩm điện_tử nổi_bật là kính Oculus , loa thông_minh Portal và kính thông_minh hợp_tác với Ray-Ban . 
+</s>
+<s id=10022>
+Ngoài_ra , Facebook cũng đang phát_triển kính thực_tế tăng_cường tích_hợp màn_hình hiển_thị . 
+</s>
+<s id=10023>
+Zuckerberg cho biết việc điều_chỉnh nhân_sự đặt nền_móng mới , thúc_đẩy dự_án tạo ra vũ_trụ metaverse của hãng . 
+</s>
+<s id=10024>
+Ông cũng đặt nhiều kỳ_vọng vào kính AR và tin đây sẽ là thiết_bị điện_toán cá_nhân phổ_biến sau kỷ_nguyên smartphone . 
+</s>
+<s id=10025>
+LinkedIn rút khỏi Trung Quốc 
+</s>
+<s id=10026>
+LinkedIn , mạng_xã_hội việc_làm lớn nhất thế_giới , dự_kiến ngừng hoạt_động ở Trung Quốc do yêu_cầu kiểm_duyệt ngày_càng cao từ nước này . 
+</s>
+<s id=10027>
+Trong thông_báo hôm 14/10 , LinkedIn cho biết việc đóng_cửa sẽ được thực_hiện vào cuối năm , sau hơn bảy năm tồn_tại . 
+</s>
+<s id=10028>
+Hiện LinkedIn - mạng_xã_hội việc_làm thuộc sở_hữu của Microsoft , là nền_tảng hiếm_hoi có xuất_xứ Mỹ còn hoạt_động tại quốc_gia đông dân nhất thế_giới . 
+</s>
+<s id=10029>
+Công_ty này thừa_nhận đang đối_mặt với " môi_trường hoạt_động ngày_càng thách_thức với các yêu_cầu tuân_thủ ngày_càng cao hơn " từ phía Trung Quốc . 
+</s>
+<s id=10030>
+" Dù chúng_tôi đã thành_công trong việc giúp các thành_viên Trung Quốc tìm được việc_làm và cơ_hội kinh_tế , nhưng chúng_tôi không có được sự thành_công như vậy trong khía_cạnh chia_sẻ và cập_nhật thông_tin " , thông_báo viết . 
+</s>
+<s id=10031>
+Để tồn_tại , phiên_bản " bản_địa_hóa " của LinkedIn có bộ quy_tắc riêng , được thiết_lập theo các yêu_cầu của chính_phủ Trung Quốc trong lĩnh_vực Internet . 
+</s>
+<s id=10032>
+Theo SCMP , trong những năm gần đây , LinkedIn bản Trung Quốc liên_tục bị chỉ_trích vì việc kiểm_duyệt các bài đăng nhạy_cảm về chính_trị . 
+</s>
+<s id=10033>
+Tháng trước , trang này chặn người_dùng truy_cập tài_khoản của nhiều nhà_báo , học_giả từ Mỹ . 
+</s>
+<s id=10034>
+Điều này khiến LinkedIn bị các nhà lập_pháp tại Mỹ phản_đối . 
+</s>
+<s id=10035>
+Mạng_xã_hội này cũng khẳng_định họ ủng_hộ quyền tự_do ngôn_luận , nhưng vẫn chấp_nhận các điều_kiện để có_thể hoạt_động và tạo ra giá_trị cho người_dùng tại Trung Quốc của mình . 
+</s>
+<s id=10036>
+Trong thông_báo , LinkedIn cho biết sẽ tạo ra một ứng_dụng độc_lập có tên InJobs để thay_thế . 
+</s>
+<s id=10037>
+Ứng_dụng này tập_trung vào kết_nối việc_làm , không cung_cấp tính_năng chia_sẻ bài viết và bảng tin như hiện_tại . 
+</s>
+<s id=10038>
+Một_số dịch_vụ Internet khác của Mỹ như Google đã rút khỏi Trung Quốc từ 2010 , trong khi Facebook bị chặn từ năm 2009 . 
+</s>
+<s id=10039>
+Các mạng_xã_hội phổ_biến thế_giới như Pinterest , YouTube đều bị cấm tại nước này . 
+</s>
+<s id=10040>
+Google từng lên kế_hoạch phát_triển một công_cụ tìm_kiếm để hoạt_động tại Trung Quốc , nhưng bị hủy_bỏ sau khi bị rò_rỉ . 
+</s>
+<s id=10041>
+Trung Quốc cũng thực_hiện chiến_dịch ngăn_chặn các dịch_vụ VPN có tính_năng vượt qua " Great Firewall " của nước này . 
+</s>
+<s id=10042>
+Vì_sao giới trẻ Việt tìm đến thiền 
+</s>
+<s id=10043>
+HÀ NỘI - 20h tối một ngày chủ_nhật , thay_vì xem phim như mọi_khi , Ngô Minh Ngọc mở Zoom , chuẩn_bị tham_gia một lớp thiền online . 
+</s>
+<s id=10044>
+Ngọc chưa tập thiền bao_giờ , cô tham_gia vì bị một người bạn rủ . 
+</s>
+<s id=10045>
+Ức_chế do hai tháng trời luẩn_quẩn trong căn_hộ tập_thể và thường_xuyên bất_hoà với gia_đình , cô gái 30 tuổi làm trong lĩnh_vực marketing muốn tìm một chỗ giải_toả tinh_thần . 
+</s>
+<s id=10046>
+" Lớp này còn miễn_phí nên tôi thử luôn " , Ngọc , trú tại quận Cầu Giấy , nói . 
+</s>
+<s id=10047>
+Cùng lúc , trên tầng ba căn nhà tại quận Đống Đa , Nguyễn Thuỳ Dung , bạn của Ngô Minh Ngọc , cũng đã chuẩn_bị xong_xuôi , chờ đến giờ vào lớp . 
+</s>
+<s id=10048>
+Đây là lớp thiền thứ ba Dung tham_gia trong một năm trở_lại đây . 
+</s>
+<s id=10049>
+Nữ nhân_viên IT muốn chữa lành tổn_thương do mối quan_hệ với đồng_nghiệp . 
+</s>
+<s id=10050>
+20h15 , lớp thiền online có khoảng 15 người . 
+</s>
+<s id=10051>
+Đến 8h30 , lúc buổi học chính_thức bắt_đầu , sĩ_số tăng lên gần 200 . 
+</s>
+<s id=10052>
+Tất_cả đều tắt camera và micro , hít thở nghe tiếng người dẫn thiền . 
+</s>
+<s id=10053>
+Lớp thiền mà Ngọc và Dung tham_gia do Minh Đào , nhà_văn sinh năm 1993 , tổ_chức . 
+</s>
+<s id=10054>
+Minh tập thiền từ năm 2015 và mở lớp thiền " như một món quà dành tặng tất_cả mọi người trong bối_cảnh Covid-19 " . 
+</s>
+<s id=10055>
+Có nhiều cách định_nghĩa thiền . 
+</s>
+<s id=10056>
+Theo từ_điển Cambridge , thiền_định là hướng sự chú_ý của mình vào một điều duy_nhất và bị dùng như một hành_động tôn_giáo hoặc một phương_tiện để giúp lấy lại sự bình_tĩnh và làm thư_giãn cơ_thể . 
+</s>
+<s id=10057>
+Một định_nghĩa khác lại cho rằng , thiền_định là bất_cứ hành_động nào nhằm giữ sự chú_ý một_cách thoải_mái vào giây_phút hiện_tại . 
+</s>
+<s id=10058>
+Khi tâm an_tịnh và chú_ý vào giây_phút hiện_tại thì ta sẽ không còn có các phản_ứng đối_với các sự_việc quá_khứ hoặc tương_lai , hai nguyên_nhân chính gây căng_thẳng thần_kinh . 
+</s>
+<s id=10059>
+Theo tiến_sĩ Nguyễn Cao Minh , giảng_viên Đại_học Giáo_dục - Đại_học Quốc_gia Hà Nội , người bị đào_tạo chuyên_sâu về sử_dụng chánh_niệm và thiền để giải_quyết các vấn_đề tâm_lý , thiền có_thể hiểu đơn_giản là tập_trung vào hiện_tại và chấp_nhận mọi thứ đang xảy ra , bao_gồm suy_nghĩ cùng cảm_xúc , một_cách không phán_xét , kể_cả những trải_nghiệm tiêu_cực . 
+</s>
+<s id=10060>
+Một_số người cho rằng (S ngồi yên , không suy_nghĩ gì là thiền song thực_chất , đó chỉ là một dạng bài_tập , công_cụ để học thiền . 
+</s>
+<s id=10061>
+Người_ta có_thể thiền trong lúc làm các việc khác . 
+</s>
+<s id=10062>
+Ví_dụ , khi uống một cốc trà , nếu bạn hoàn_toàn chú_tâm , dùng cả năm giác_quan để cảm_nhận thì đó cũng là thiền . 
+</s>
+<s id=10063>
+Ở Việt Nam , thiền có giá_trị tinh_thần , tâm_linh và văn_hoá nên từ lâu đã bị quan_tâm . 
+</s>
+<s id=10064>
+Tuy_nhiên , gần đây , thiền trở_nên đặc_biệt phổ_biến với các bạn trẻ . 
+</s>
+<s id=10065>
+" Trước_kia , người_ta thường quan_tâm đến thiền khi đã 40-45 tuổi . 
+</s>
+<s id=10066>
+Ngày_nay , độ tuổi này trẻ hơn hẳn , chủ_yếu từ 30 trở xuống " , tiến_sĩ Minh cho biết . 
+</s>
+<s id=10067>
+Minh Đào ước_tính 80% người tham_gia lớp thiền của mình trong độ tuổi 18-35 . 
+</s>
+<s id=10068>
+Huynh Nguyễn , chủ một thư_viện thiền tập trên đường Nguyễn Du ( quận Hai Bà Trưng ) , cũng nhận thấy xu_hướng trẻ_hoá về độ tuổi học_viên sau ba năm tổ_chức các lớp thiền . 
+</s>
+<s id=10069>
+" Đối_tượng tìm đến thiền khá đa_dạng nhưng đông nhất là người từ 22 đến dưới 40 tuổi " , Huynh tiết_lộ . 
+</s>
+<s id=10070>
+Người trẻ Việt hay biết đến các lớp thiền qua Internet và Thuỳ Dung là một ví_dụ . 
+</s>
+<s id=10071>
+Một lần lướt mạng_xã_hội , cô gõ cụm_từ " thiền " , nhờ đó có thông_tin về lớp thiền của Minh Đào và Huynh Nguyễn . 
+</s>
+<s id=10072>
+Một_số người như Minh Ngọc thì bị bạn_bè giới_thiệu . 
+</s>
+<s id=10073>
+Vì_sao giới trẻ tìm đến thiền nhiều hơn trước ? 
+</s>
+<s id=10074>
+Theo tiến_sĩ Minh , có hai lý_do chính là nhu_cầu phát_triển bản_thân và giải_quyết các căng_thẳng tâm_lý . 
+</s>
+<s id=10075>
+Cả hai nhu_cầu này đều tăng cao ở giới trẻ , song nhu_cầu giải_quyết các căng_thẳng tâm_lý phổ_biến hơn nhiều . 
+</s>
+<s id=10076>
+So với các thế_hệ trước , giới trẻ ngày_nay đặc_biệt quan_tâm đến sức_khoẻ tinh_thần nên chủ_động tìm cách phòng_ngừa , giải_quyết . 
+</s>
+<s id=10077>
+Thực_tế , xã_hội càng phát_triển thì càng nhiều yếu_tố căng_thẳng , từ đó nảy_sinh các vấn_đề tâm_lý . 
+</s>
+<s id=10078>
+Huynh Nguyễn cho biết học_viên của anh thường gặp các vấn_đề như căng_thẳng , mệt_mỏi , mất_ngủ . 
+</s>
+<s id=10079>
+Đối_với lớp thiền của Minh Đào , phần_lớn học_viên gặp tình_trạng " quá nhiều suy_nghĩ và cảm_xúc tiêu_cực " . 
+</s>
+<s id=10080>
+" Nội_tâm giới trẻ đang bị tàn_phá bởi mạng_xã_hội . 
+</s>
+<s id=10081>
+Chưa kể , thời_gian giãn_cách xã_hội khiến họ có thời_gian nhìn lại bản_thân và nhận ra không phải lúc nào vấn_đề cũng do thế_giới bên ngoài mà đôi_khi xuất_phát từ chính mình " , Minh Đào nhận_định . 
+</s>
+<s id=10082>
+Bên_cạnh đó , tại Việt Nam , thiền tương_đối dễ tiếp_cận với giá_cả phải_chăng . 
+</s>
+<s id=10083>
+Một khoá thiền cơ_bản kéo_dài năm tuần do Huynh Nguyễn tổ_chức dao_động từ 1,5 đến 2 triệu đồng . 
+</s>
+<s id=10084>
+Mùa dịch , anh duy_trì lớp qua Internet , để người tham_gia đóng tiền tuỳ khả_năng . 
+</s>
+<s id=10085>
+Minh Đào thì không thu khoản phí nào . 
+</s>
+<s id=10086>
+Nếu kết_hợp với kiến_thức về tâm_bệnh , thiền có_thể trở_thành một hình_thức trị_liệu vì nó tác_động vào stress , thứ tỷ_lệ_thuận với các vấn_đề tâm_lý . 
+</s>
+<s id=10087>
+Tuy_nhiên , các chương_trình trị_liệu sử_dụng thiền phải được thiết_kế cẩn_thận và logic để người học cảm thấy vừa sức . 
+</s>
+<s id=10088>
+" Ví_dụ , người trầm_cảm đã suy_nghĩ rất tiêu_cực về bản_thân , chúng_ta không muốn họ cảm thấy thất_bại hơn nữa " , tiến_sĩ Minh nói . 
+</s>
+<s id=10089>
+Chuyên_gia cũng nhấn_mạnh thiền không phải là liều thuốc tiên cho mọi vấn_đề tâm_lý . 
+</s>
+<s id=10090>
+Với người mắc các chứng hoang_tưởng hay loạn_thần , tâm_trí không còn tỉnh_táo , thiền thậm_chí còn khá nguy_hiểm . 
+</s>
+<s id=10091>
+" Khi thực_hành thiền , chúng_ta quay vào bên trong , phát_triển niềm tin vào trải_nghiệm của mình . 
+</s>
+<s id=10092>
+Nếu trải_nghiệm của mình bị sai thì không nên làm việc đó " , ông Minh phân_tích . 
+</s>
+<s id=10093>
+Nhìn_chung , thiền giúp giải_toả stress và hiểu bản_thân mình hơn nên có_ích cho mọi người , trừ nhóm đối_tượng đặc_biệt tiến_sĩ Minh đã nêu . 
+</s>
+<s id=10094>
+Các lớp thiền của Minh Đào và Huynh Nguyễn cũng hướng tới mục_đích này . 
+</s>
+<s id=10095>
+Với họ , thiền cho giới trẻ thêm công_cụ để sống bình_an và " chạm đến cảm_xúc " . 
+</s>
+<s id=10096>
+Sau buổi thiền của Minh Đào , một_số người chia_sẻ đã bật khóc khi nhớ về những sự_kiện gây khó_chịu và liên_hệ chúng với quá_khứ . 
+</s>
+<s id=10097>
+Ngô Minh Ngọc thì " tỉnh như sáo " . 
+</s>
+<s id=10098>
+" Có_lẽ do tôi chưa quen " , cô nói . 
+</s>
+<s id=10099>
+Ngọc sẽ tham_dự thêm một buổi thiền nữa , sau đó thì không chắc . 
+</s>
+<s id=10100>
+Nguyễn Thuỳ Dung " mơ_hồ nhận ra điều gì đó " , nhưng thấy mình bình_tĩnh hơn . 
+</s>
+<s id=10101>
+Cô sẽ tiếp_tục đăng_ký các lớp thiền , bởi với cô , thiền là cơ_hội để sắp_xếp những suy_nghĩ hỗn_loạn và chữa lành tinh_thần . 
+</s>
+<s id=10102>
+" Thực_hành thiền rất khó . 
+</s>
+<s id=10103>
+Đọc sách , nghe giảng từ người khác chỉ có ý_nghĩa dẫn_dắt khai_phá . 
+</s>
+<s id=10104>
+Sau_cùng , mỗi cá_nhân phải lắng_nghe bản_thân , phát_triển niềm tin vào những trải_nghiệm của mình rồi từ đó hiểu rõ hơn về bản_chất của thiền " , tiến_sĩ Minh kết_luận . 
+</s>
+<s id=10105>
+Người Hà Nội chơi đào rừng nở sớm 
+</s>
+<s id=10106>
+Nhiều gia_đình sẵn_sàng chi cả triệu đồng để mua cành đào rừng nở trái_mùa , khi còn hơn ba tháng nữa mới đến Tết . 
+</s>
+<s id=10107>
+Đầu tháng 10 , trên thị_trường buôn_bán hoa tại Hà Nội xuất_hiện các cành đào rừng chi_chít nụ , hoa và lộc , có giá bán từ vài trăm nghìn cho đến hơn một triệu đồng mỗi cành . 
+</s>
+<s id=10108>
+Ngạc_nhiên vì hoa đào nở trái_mùa , nhiều gia_đình đã săn_lùng để cắm . 
+</s>
+<s id=10109>
+Ba ngày trước , chị Kim Oanh , ở Đống Đa bất_ngờ khi thấy rao bán cành đào rừng nở sớm trên chợ hoa online . 
+</s>
+<s id=10110>
+Chị đã đặt mua một cành nhỏ phù_hợp với không_gian phòng khách , giá 300.000 đồng . 
+</s>
+<s id=10111>
+Nhiều người chơi hoa nhận_xét , so với hoa đào chính_vụ , các cành đào này ít nụ hơn , cánh hoa mỏng , thân không mập bằng . 
+</s>
+<s id=10112>
+Mức giá bán cũng cao hơn . 
+</s>
+<s id=10113>
+" Nhưng trong những ngày dịch_bệnh , cảm_giác được ngắm cành đào nở vào thời_tiết thu se lạnh , tâm_hồn thoải_mái đôi phần . 
+</s>
+<s id=10114>
+Chưa kể , có cành đào trong nhà cũng thấy ấm_cúng như xuân đang về " , chị Oanh nói . 
+</s>
+<s id=10115>
+Hiện_tượng hoa đào nở trước Tết vài tháng từng xuất_hiện cuối tháng 10/2020 . 
+</s>
+<s id=10116>
+Một_số người trồng đào có kinh_nghiệm ở Sơn La phỏng_đoán nguyên_nhân do thời_tiết lạnh sớm các loại cây như đào , lê ra hoa sớm . 
+</s>
+<s id=10117>
+Chủ một vườn đào ở Lạng Sơn lại cho rằng , những cây ra hoa sớm do không được chăm_sóc tốt , rụng lá nên gây ức_chế mầm hoa và nở trái_vụ . 
+</s>
+<s id=10118>
+Là người duy_nhất kinh_doanh cành đào rừng trái_mùa tại huyện Thanh Trì , chị Nguyễn Hoài An , chủ cửa_hàng hoa tại xã Vĩnh Quỳnh bắt_đầu bán từ đầu tháng 10 . 
+</s>
+<s id=10119>
+Những cành đào rừng được chị mua trong bản người Mông , người Thái ở Sơn La . 
+</s>
+<s id=10120>
+Chị An cho biết , ban_đầu người dân Sơn La không muốn bán vì (S cây đã trồng lâu năm , quả cho trái ngọt . 
+</s>
+<s id=10121>
+Nhưng thấy đào nở trước vụ gần 3 tháng , mong có hàng " độc " phục_vụ khách , chị An phải nhờ người thuyết_phục , chủ vườn mới đồng_ý . 
+</s>
+<s id=10122>
+" Nhiều người Hà Nội nghi_ngờ là hoa giả . 
+</s>
+<s id=10123>
+Chỉ đến khi đến tận nơi xem , được tận_tay sờ vào nụ , bấm cành còn tươi mọi người mới đặt mua " , chị kể . 
+</s>
+<s id=10124>
+Mỗi cành đào dài từ 1,5 m đến 4 m , chủ_yếu là đào_phai 5 cánh , hoa có màu phớt hồng . 
+</s>
+<s id=10125>
+Tuy không có nụ nhiều như chính_vụ nhưng các cành đều sai hoa . 
+</s>
+<s id=10126>
+Có_thể chơi từ 1 đến 2 tháng . 
+</s>
+<s id=10127>
+Là hàng cồng_kềnh , chi_phí vận_chuyển cao , lại đảm_bảo tiêu_chí có hoa tươi giao khách , mỗi đợt hàng chỉ về được 20-25 cành , nhiều nhất được 30 cành , nhưng đến đâu hết đến đó . 
+</s>
+<s id=10128>
+" Từ ngày đăng bán khách hỏi nhiều , nhưng mình không có sẵn hàng bán . 
+</s>
+<s id=10129>
+Ai muốn mua phải đặt trước . 
+</s>
+<s id=10130>
+Nhất_là những đợt (S Sơn La mưa lớn , người dân không_thể tự đi cắt , khách phải đợi vài ngày " , chị An kể . 
+</s>
+<s id=10131>
+Từ đầu tháng 10 đến nay , cửa_hàng của chị An đã bán được 90 cành đào các loại . 
+</s>
+<s id=10132>
+Giá dao_động từ 350.000 đồng đến 1,5 triệu đồng . 
+</s>
+<s id=10133>
+" Đa_số khách_hàng đều phản_hồi hoa nở đẹp , ngoài những cành đào_phai còn có cành đào trắng đột_biến . 
+</s>
+<s id=10134>
+Nhiều chị_em mua về cắm , đến khi bung nụ mới phát_hiện hoa màu trắng , nhìn như hoa mận , khiến ai_nấy đều thích_thú " , chị An nói . 
+</s>

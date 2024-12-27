@@ -1,0 +1,3057 @@
+<s id=1>
+Dân văn_phòng coi_chừng ' chết sớm ' vì thứ ai cũng đang mắc này 
+</s>
+<s id=2>
+Các nhà_khoa_học cho rằng , nếu dân văn_phòng cứ ngồi lì làm_việc suốt 8 tiếng sẽ có nguy_cơ chết sớm hơn rất nhiều so với người khác . 
+</s>
+<s id=3>
+Chia_sẻ Các nhà_khoa_học cho rằng , nếu dân văn_phòng cứ ngồi lì làm_việc suốt 8 tiếng sẽ có nguy_cơ chết sớm hơn rất nhiều so với người khác . 
+</s>
+<s id=4>
+Các nhà_khoa_học cho biết lối sống ít vận_động này là một mối đe_doạ lớn đối_với sức_khoẻ cộng_đồng . 
+</s>
+<s id=5>
+Tác_hại của nó được ví tương_đương việc hút thuốc_lá . 
+</s>
+<s id=6>
+Thậm_chí , ngồi nhiều có_thể gây tử_vong sớm hơn cả bệnh béo phì . 
+</s>
+<s id=7>
+Nghiên_cứu được thực_hiện trên 1 triệu người trưởng_thành chỉ ra rằng ngồi nhiều hơn 8 tiếng mỗi ngày có_thể làm tăng 60% nguy_cơ tử_vong sớm . 
+</s>
+<s id=8>
+Đối_tượng có nguy_cơ nhiều nhất là nhân_viên văn_phòng và công_nhân sản_xuất , những người phải làm_việc với máy_tính hay máy_móc cả ngày . 
+</s>
+<s id=9>
+Sẽ rất khó để tránh khỏi việc họ phải ngồi trong suốt thời_gian dài . 
+</s>
+<s id=10>
+Nhưng các nhà_khoa_học nói rằng mọi người phải cố_gắng hết_sức để phá vỡ khoảng thời_gian này . 
+</s>
+<s id=11>
+Ít_nhất thì cũng đứng lên một_chút và đi bộ từng quãng ngắn . 
+</s>
+<s id=12>
+Ngồi lì một chỗ làm_việc suốt cả ngày sẽ có_thể chết sớm . 
+</s>
+<s id=13>
+Tiến_sĩ Pedro Hallal đến từ Đại_học Pelotas , Brazil cho biết : “ Ngồi quá nhiều trong ngày cộng với ít hoạt_động cho kết_quả bằng một cái chết ” . 
+</s>
+<s id=14>
+Mặc_dù nghiên_cứu chưa_thể chỉ ra chính_xác lí_do tại_sao việc ngồi trong thời_gian dài là một mối đe_doạ đối_với tính_mạng con_người , các nhà_khoa_học nhận thấy xu_hướng này liên_quan đến quá_trình chuyển_hoá của cơ_thể . 
+</s>
+<s id=15>
+Thời_gian ít vận_động cũng ảnh_hưởng đến các hooc-môn nhất_định , ví_dụ như leptin , gây ảnh_hưởng đến mức cân_bằng năng_lượng . 
+</s>
+<s id=16>
+Trong nghiên_cứu , các nhà_khoa_học tuyển_chọn những người tham_gia từ độ tuổi 45 trở_nên . 
+</s>
+<s id=17>
+Họ được phân_loại theo hai chỉ_số : Một là mức_độ hoạt_động thể_chất , từ nhóm những người chỉ tập_thể_dục 5 phút một ngày cho đến hơn 1 tiếng . Hai là thời_gian giành cho việc ngồi một chỗ . 
+</s>
+<s id=19>
+Theo đó , những người ngồi nhiều hơn 8 tiếng một ngày nhưng chỉ tập_luyện dưới 5 phút có tỷ_lệ tử_vong là 9.9% . 
+</s>
+<s id=20>
+Tuy_nhiên , vẫn những người ngồi nhiều như vậy mà tăng mức_độ hoạt_động thể_chất lên 1 tiếng mỗi ngày , tỷ_lệ tử_vong của họ sẽ giảm xuống còn 6.2% . 
+</s>
+<s id=21>
+Nguyên_nhân gây ra tử_vong phổ_biến trong trường_hợp này là ung_thư và bệnh tim_mạch . 
+</s>
+<s id=22>
+Trong một nghiên_cứu tương_tự , các nhà_khoa_học xem_xét nguy_cơ tử_vong của 500.000 người gắn với thói_quen xem tivi của họ . 
+</s>
+<s id=23>
+Những người xem tivi nhiều hơn 3 tiếng mỗi ngày sẽ làm tăng nguy_cơ tử_vong sớm . 
+</s>
+<s id=24>
+Nhưng chỉ bằng cách tập_thể_dục 1 tiếng bù vào đó , nguy_cơ tử_vong lập_tức giảm trở_lại . 
+</s>
+<s id=25>
+Trên toàn_cầu , mỗi năm có khoảng 5 triệu cái chết có liên_quan đến mức_độ hoạt_động thể_chất thấp . 
+</s>
+<s id=26>
+Con_số này tương_đương với số người chết do hút thuốc_lá và cao hơn cả số cái chết liên_quan đến béo phì . 
+</s>
+<s id=27>
+Trong khi đó , những thăm_dò ý_kiến trên đối_tượng nhân_viên văn_phòng chỉ ra rằng cứ 5 người mới có 1 người rời khỏi bàn làm_việc của họ để đi ăn trưa . 
+</s>
+<s id=28>
+Cũng chỉ có khoảng 3% nhân_viên văn_phòng thường_xuyên tới phòng tập_thể_dục . 
+</s>
+<s id=29>
+Đây quả_thực là một tình_trạng đáng báo_động . 
+</s>
+<s id=30>
+Do_đó , nếu những nhân_viên văn_phòng muốn bù lại những ảnh_hưởng gây ra bởi việc ngồi nhiều trước bàn làm_việc , họ phải tăng gấp đôi thời_gian tập_luyện thể_dục khuyến_cáo bởi những cơ_quan y_tế Anh . 
+</s>
+<s id=31>
+Các nhà_nghiên_cứu cũng kêu_gọi người sử_dụng lao_động thoải_mái hơn với những công_nhân_viên của họ . 
+</s>
+<s id=32>
+Khuyến_khích nhân_viên tập_luyện thể_dục nhiều hơn , cung_cấp những dịch_vụ như phòng tắm hoặc phòng gym , cho_phép họ có những giờ giải_lao dài . 
+</s>
+<s id=33>
+Không nhịn được cười với các mẹo ' đánh_lừa ' trẻ_con làm việc nhà 
+</s>
+<s id=34>
+Làm cha_mẹ không còn khó_khăn và căng_thẳng nữa với những mẹo hài_hước được các ông bố , bà mẹ chia_sẻ trên Twitter . 
+</s>
+<s id=35>
+Những ' mẹo ' làm cha_mẹ do các ông bố bà mẹ chia_sẻ khiến chúng_ta phải bật cười . 
+</s>
+<s id=36>
+Tôi bảo con_gái 8 tuổi là tôi ghét tiếng máy_hút_bụi , thế_là bây_giờ mỗi lần nó tức tôi nó sẽ đi hút bụi 
+</s>
+<s id=37>
+Nếu con bạn đang ở nhà mà bạn không tìm thấy nó đâu , hãy tắt Wi-Fi. Không lâu sau con sẽ đi tìm bạn 
+</s>
+<s id=38>
+Mẹo làm cha_mẹ : biến mọi thứ thành một cuộc đua . 
+</s>
+<s id=39>
+Hai đứa con 4 tuổi của tôi tự mặc xong quần_áo trong vòng chưa đến 50 giây 
+</s>
+<s id=40>
+- Khi con đã chán đồ_chơi cũ ... hãy cho tất_cả vào thùng để mang đi làm từ_thiện ! 
+</s>
+<s id=41>
+Tụi nhỏ sẽ chỉ chơi với giày_dép , thức_ăn cho mèo , bát uống nước cho thú cưng , rổ đựng quần_áo mà thôi 
+</s>
+<s id=42>
+Khiến con nghĩ rằng gãi lưng cho bạn và nghịch tóc bạn rất vui 
+</s>
+<s id=43>
+Đồ_chơi bị gãy cần sửa ... đôi_khi có_thể cho gãy luôn bên còn lại , vậy là nó sẽ trông như không bị hỏng 
+</s>
+<s id=44>
+Chúng sẽ không làm , nhưng sẽ biến mất và để bạn bình_yên trong chốc_lát . 
+</s>
+<s id=45>
+( Còn nếu chúng không bỏ đi thì sẽ phải ở lại làm việc nhà , đằng nào cũng thắng ) 
+</s>
+<s id=46>
+Khi trẻ trốn làm việc nhà , chỉ cần phát tiếng của xe bán kem ; chúng sẽ lao ra ngay 
+</s>
+<s id=47>
+Còn nếu bạn mở_miệng bắt chúng ăn rau , chúng sẽ gào lên như bị tra_tấn . 
+</s>
+<s id=48>
+Tôi : dọn phòng đi con Con : * ngồi và than_vãn cả tiếng đồng_hồ * Tôi : Mẹ có_thể làm nhanh hơn con ! 
+</s>
+<s id=49>
+Con : * nhặt hết đồ_chơi trong 10 phút * 
+</s>
+<s id=50>
+Thỉnh_thoảng đi qua phòng con gái tôi giả_vờ đeo tai nghe nhưng không nối vào thiết_bị nào hết , và chúng nghĩ tôi không nghe được chúng 
+</s>
+<s id=51>
+Khi bạn hỏi con ' Hôm_nay con học cái gì ? ' mà con trả_lời ' Con không biết ' , hãy bảo rằng bố sẽ gọi cho cô_giáo của con để hỏi xem tại_sao cô lại không dạy gì hết 
+</s>
+<s id=52>
+( bình_luận : bố_mẹ ở Ấn Độ và Sri Lanka chuyên làm như vậy ) 
+</s>
+<s id=53>
+Nỗi đau của gã đại_gia lấy vợ xinh_đẹp , 3 lần phải mang con đi xét_nghiệm ADN 
+</s>
+<s id=54>
+Ngày đó , vì ham lấy vợ chân dài anh đã dốc tài_sản , cung_phụng người đẹp và chứng_minh cho cô ấy hay , (S anh giàu_có cỡ nào , anh xứng_đáng làm chồng của cô ấy ra sao . 
+</s>
+<s id=55>
+Mỗi ngày trôi qua , anh đều vò đầu bứt tai vì những suy_nghĩ đau_khổ “ Liệu đó có phải là con mình hay không ? ” . 
+</s>
+<s id=56>
+Người ta nhìn vào nghĩ anh là người sung_sướng , có vợ đẹp con ngoan , cuộc_sống sung_túc . 
+</s>
+<s id=57>
+Nhưng chẳng ai có_thể ngờ , cuộc_đời anh lại trải qua những ngày_tháng bi_thương như vậy . 
+</s>
+<s id=58>
+Ngày đó , vì ham lấy vợ chân dài anh đã dốc tài_sản , cung_phụng người đẹp và chứng_minh cho cô ấy hay , (S anh giàu_có cỡ nào , anh xứng_đáng làm chồng của cô ấy ra sao . 
+</s>
+<s id=59>
+Sau hơn 1 năm cung_phụng người đẹp , nào_là mua nhà , mua xe đẹp và quà_cáp là các món hàng_hiệu sang_trọng , anh đã được gật đầu đồng_ý ngày tỏ_tình . 
+</s>
+<s id=60>
+Sau_này anh mới biết , thật_ra , cô ấy làm màu làm mè với anh thôi chứ chẳng có gã đàn_ông nào bên cạnh , giàu_có tán_tỉnh cô ấy như cô ấy vẫn nói . 
+</s>
+<s id=61>
+Nhưng lấy vợ rồi thì phải làm_sao , đã hết_lòng yêu rồi thì đành chấp_nhận . 
+</s>
+<s id=62>
+Anh là giám_đốc một công_ty lớn , có tiếng trên thương_trường . 
+</s>
+<s id=63>
+Bố_mẹ anh cũng rất coi_trọng nề_nếp gia_phong . 
+</s>
+<s id=64>
+Nên với anh , danh_dự là thứ không mua được bằng tiền . 
+</s>
+<s id=65>
+Sau_này , khi phát_hiện 2 con trai của anh không giống bố , anh đã mang con đi xét_nghiệm ADN . 
+</s>
+<s id=66>
+Điều khiến anh đau_khổ nhất chính là , 2 đứa con sinh_đôi đó không phải là con anh . 
+</s>
+<s id=67>
+Mỗi đêm về nhìn ngắm khuôn_mặt xinh_đẹp của vợ , cái miệng dẻo như kẹo lúc_nào cũng nói yêu_thương bố_con anh mà anh sợ . 
+</s>
+<s id=68>
+Rồi vì quá cẩn_thận và không dám tin vào kết_quả ấy , anh lại sang tận nước_ngoài xét_nghiệm bằng chuyến công_tác dài ngày với hi_vọng sẽ thay_đổi được mọi thứ . 
+</s>
+<s id=69>
+Anh câm_nín vì sợ bố_mẹ nhục_nhã , coi như đó là con của mình , với hi_vọng sau_này vợ anh sẽ hối_hận mà sinh cho anh đứa con khác . 
+</s>
+<s id=70>
+Có_lẽ cũng vì quá_khứ mà cô ấy đã hối_cải chăng . 
+</s>
+<s id=71>
+Nhưng , lần này , không như anh dự_định . 
+</s>
+<s id=72>
+Vợ mang thai , con càng_ngày_càng lớn cũng càng không giống bố . 
+</s>
+<s id=73>
+Đại_gia đau_khổ mang con đi xét_nghiệm lần nữa và kết_quả là … 
+</s>
+<s id=74>
+Anh khóc_lóc như một đứa trẻ , cứ ngồi mà khóc trong phòng xét_nghiệm giống như địa_ngục đang đến vậy . 
+</s>
+<s id=75>
+Anh sợ_hãi , hốt_hoảng , không tin rằng mình có_thể gặp phải bi_kịch này . 
+</s>
+<s id=76>
+Sao ông trời lại có_thể hành_hạ anh như_thế . 
+</s>
+<s id=77>
+Tại_sao người đàn_bà vô_liêm_sỉ ấy lại hết lần này đến lần khác lừa anh . 
+</s>
+<s id=78>
+Cô ta có con với ai rồi trút lên đầu anh ? 
+</s>
+<s id=79>
+Anh biết , (S mình phải giải_quyết chuyện này cho bằng xong chứ không_thể “ nuôi_ong_tay_áo ” , không_thể để cho người đàn_bà đó cướp mất gia_sản này . 
+</s>
+<s id=80>
+Không_thể để cô ta tự_đắc đã lừa được anh . 
+</s>
+<s id=81>
+Nhưng điều đó cũng đồng_nghĩa với việc , anh sẽ mất tất_cả danh_dự , tiếng_tăm . 
+</s>
+<s id=82>
+Đúng là , có ai ngờ “ người giàu cũng khóc ” . 
+</s>
+<s id=83>
+Vì anh giàu mà anh không tìm được người chân_tình với mình . 
+</s>
+<s id=84>
+Cũng vì ngày đó ham sắc mà nhận quả_báo như ngày hôm_nay . 
+</s>
+<s id=85>
+Anh sẽ lại quay về là anh của ngày_xưa , đơn_độc và chắc_chắn , anh sẽ đuổi người đàn_bà đó ra khỏi nhà . 
+</s>
+<s id=86>
+Chỉ là , anh thương đứa trẻ đã từng gọi anh là ... bố . 
+</s>
+<s id=87>
+Từ chuyện Selena Gomez được hiến thận : Bạn_bè xung_quanh nhiều vô_kể nhưng bạn chân_thành có được mấy người ? 
+</s>
+<s id=88>
+Người ta nói đừng nhìn bìa mà đoán nội_dung cuốn sách , muốn biết đó có phải là cuốn sách hay hay không , hãy đọc nội_dung bên trong . 
+</s>
+<s id=89>
+Đối_với một người cũng vậy , đừng đánh_giá họ qua vẻ bề_ngoài , hãy trò_chuyện để hiểu họ nhiều hơn . 
+</s>
+<s id=90>
+Có bao_giờ bạn tự hỏi tại_sao mình có nhiều bạn nhưng đến khi đau_buồn hoạn_nạn lại chỉ có một_mình ? 
+</s>
+<s id=91>
+Nếu vấn_đề không phải do bạn thì có_lẽ do mối quan_hệ của bạn có vấn_đề . 
+</s>
+<s id=92>
+Những người mà bạn coi là bạn , thậm_chí là bạn thân thực_chất lại chẳng hề coi_trọng bạn . 
+</s>
+<s id=93>
+Wikipedia định_nghĩa : ' Tình bạn là tình_cảm của một người biết quan_tâm , giúp_đỡ , đồng_cảm , một người mình có_thể tin_tưởng để chia_sẻ những niềm vui , nỗi buồn . 
+</s>
+<s id=94>
+Một người bạn luôn ở cạnh , động_viên và nhắc_nhở , giúp_đỡ những lúc mình sai ... 
+</s>
+<s id=95>
+( nhưng không phải có quan_hệ máu_mủ ) ' . 
+</s>
+<s id=96>
+Còn trang từ_điển Wikitionary định_nghĩa bạn thân là ' bạn gần_gũi , gắn_bó , có_thể trao_đổi tâm_tình và giúp_đỡ lẫn nhau ' . 
+</s>
+<s id=97>
+Vậy bạn hãy xem_lại mình có nhiều bạn hay ít bạn ? 
+</s>
+<s id=98>
+Trong số bạn_bè của mình có bao_nhiêu người là bạn thân ? 
+</s>
+<s id=99>
+Họ có đối_xử với bạn bằng tình_cảm chân_thành không ? 
+</s>
+<s id=100>
+Chắc_chắn số bạn thân của mỗi người chỉ đếm trên đầu ngón tay mà không phải ai cũng có được một người bạn chân_thành . 
+</s>
+<s id=101>
+Gần đây Selena Gomez đã khiến (NP-SUB fans và dư_luận thế_giới bàng_hoàng khi chia_sẻ hình_ảnh của mình nằm trên giường_bệnh sau ca ghép thận . 
+</s>
+<s id=102>
+Hoá_ra căn_bệnh trầm_trọng của cô ấy là thật , việc cô ấy từng bị trầm_cảm cũng là thật chứ không như những lời đồn đoán . 
+</s>
+<s id=103>
+Thế_nhưng bên cạnh thông_tin về bệnh_tình của Selena , người ta còn cảm_động trước tình bạn giữa cô và người bạn thân_thiết , diễn_viên Francia Raisa – người đã hiến thận cho cô . 
+</s>
+<s id=104>
+Ai cũng biết trong showbiz Selena có nhiều bạn_bè là người nổi_tiếng , có những người được coi là chị_em thân_thiết . 
+</s>
+<s id=105>
+Thế_nhưng khi cô ốm_đau nằm một chỗ liệu có được mấy người ở bên cạnh ? 
+</s>
+<s id=106>
+Selena đã rất may_mắn khi có được một người bạn như Francia . 
+</s>
+<s id=107>
+Francia đã không ngại_ngần hiến tặng một bên thận dù điều này khiến sức_khoẻ của cô giảm_sút và tăng nguy_cơ mắc các bệnh về Hthận sau_này . 
+</s>
+<s id=108>
+phải thân_thiết và yêu_thương nhau đến nhường nào mới có_thể tặng cho bạn một phần cơ_thể mình như Francia đã làm . 
+</s>
+<s id=109>
+Francia không nổi_tiếng bằng những người bạn khác của Selena trong showbiz như Taylor Swift , Demi Lovato , Vanessa Hudgens , ... nên tình bạn của họ ít được truyền_thông chú_ý tới *T . 
+</s>
+<s id=110>
+Không cần phô_diễn bằng sự hào_nhoáng bên ngoài , họ âm_thầm trao cho nhau tình_cảm chân_thành nhất . 
+</s>
+<s id=111>
+Tôi vô_tình đọc được câu : ' (S Khi bạn đứng lên , bạn_bè sẽ biết bạn là ai nhưng khi bạn ngã xuống , bạn sẽ biết ai mới là bạn ' . 
+</s>
+<s id=112>
+Đúng như_vậy , khi gặp hoạn_nạn mới hiểu rõ lòng bạn_bè . 
+</s>
+<s id=113>
+Dù bạn có hàng nghìn bạn ngoài xã_hội cũng không đáng quý bằng việc có một người bạn chân_thành . 
+</s>
+<s id=114>
+Người bạn đó không cần phải là một người quyền_thế , giàu_có hay nổi_tiếng . 
+</s>
+<s id=115>
+Chỉ cần họ luôn bên ta , chia_sẻ những vui_buồn , bên ta những khi đau_ốm và không bỏ mặc ta trong bất_kỳ hoàn_cảnh nào . 
+</s>
+<s id=116>
+Tôi chắc rằng trong cuộc_đời mỗi người đều có cho mình ít_nhất một người bạn chân_thành . 
+</s>
+<s id=117>
+Người ấy khiến bạn tốt hơn , sẵn_sàng giúp_đỡ bạn khi bạn gặp khó_khăn , hoạn_nạn . 
+</s>
+<s id=118>
+Người ấy không có quan_hệ huyết_thống nhưng lại gắn_bó với bạn hơn cả anh_chị_em ruột . 
+</s>
+<s id=119>
+Mỗi người đều có một trải_nghiệm , một cảm_nhận khác nhau và tự rút ra cho mình định_nghĩa về một người bạn thân . 
+</s>
+<s id=120>
+Đối_với tôi , bạn thân là người có_thể nhìn thấu trong nội_tâm mình những điều mà người khác không_thể thấy . 
+</s>
+<s id=121>
+Dù biết rõ về mình nhưng họ vẫn yêu_quý mình . 
+</s>
+<s id=122>
+Dù thời_gian và khoảng_cách có xa thế_nào , khi gặp lại vẫn cảm_giác thân_quen ấy , vẫn ngồi kể cho nhau nghe đủ thứ chuyện trên đời . 
+</s>
+<s id=123>
+Khi ở bên một người bạn thân , bạn được sống với con_người thật của mình . 
+</s>
+<s id=124>
+Rất khó để tìm được một người bạn như thế ! 
+</s>
+<s id=125>
+Có nhiều người bước qua cuộc_đời bạn nhưng không phải ai cũng ở lại bên bạn . 
+</s>
+<s id=126>
+Nếu cố lấy_lòng tất_cả mọi người thì cũng không chắc_chắn rằng bạn sẽ tìm thấy một người bạn tốt . 
+</s>
+<s id=127>
+Tình bạn đến một_cách tự_nhiên , có cơ_duyên gặp_gỡ , chia_sẻ , thấu_hiểu và trở_nên thân_thiết . 
+</s>
+<s id=128>
+Không phải cứ dính lấy nhau , nói_chuyện thâu đêm suốt sáng , sở_thích chung cực_kỳ nhiều thì được coi là bạn thân đâu . 
+</s>
+<s id=129>
+Một người có phải là bạn thân hay không phải cần thời_gian kiểm_chứng . 
+</s>
+<s id=130>
+Sự chân_thành không nằm ở lời_nói mà được thể_hiện qua hành_động . 
+</s>
+<s id=131>
+Có bao_giờ bạn phải thốt lên : ' Tôi cô_độc quá ! 
+</s>
+<s id=132>
+Tại_sao Tôi không có nổi một người bạn chân_thành ? ' 
+</s>
+<s id=133>
+Có_thể bạn sẽ ngồi gặm_nhấm nỗi cô_đơn , tự dằn_vặt bản_thân rằng mình là người kém_cỏi , không có ưu_điểm gì , không có ai muốn thân_thiết với bạn . 
+</s>
+<s id=134>
+Bạn nên nhớ rằng không có ai có toàn ưu_điểm cũng không có ai có toàn nhược_điểm , bạn có những thế mạnh của mình , hãy tự_tin về những điều đó và bắt_đầu tìm cho mình một người bạn chân_thành nào . 
+</s>
+<s id=135>
+Hãy mở lòng với người khác thay_vì ngồi đợi người khác tìm đến mình . 
+</s>
+<s id=136>
+Để tìm một người bạn , hãy mở_rộng phạm_vi giao_tiếp , bạn sẽ gặp được những người thú_vị và biết_đâu sẽ tìm thấy một người bạn chân_thành . 
+</s>
+<s id=137>
+Hãy thật_sự quan_tâm đến người khác , điều này sẽ giúp bạn hiểu rõ về họ hơn và tìm thấy điểm chung của cả hai . 
+</s>
+<s id=138>
+Khi trò_chuyện , đừng chỉ chăm_chăm nói về bản_thân mà hãy lắng_nghe nhiều hơn . 
+</s>
+<s id=139>
+Đừng nói quá nhiều về những phiền_muộn trong lòng bạn . 
+</s>
+<s id=140>
+Vẫn biết bạn_bè là phải chia_sẻ những vui_buồn , người bạn ấy cũng sẵn_sàng lắng_nghe và an_ủi bạn nhưng bạn cũng_nên biết phạm_vi của mình . 
+</s>
+<s id=141>
+Lúc_nào cũng kể_lể , than_vãn sẽ không tốt cho tình bạn chút nào . 
+</s>
+<s id=142>
+Người ta nói đừng nhìn bìa mà đoán nội_dung cuốn sách , muốn biết đó có phải là cuốn sách hay hay không , hãy đọc nội_dung bên trong . 
+</s>
+<s id=143>
+Đối_với một người cũng vậy , đừng đánh_giá họ qua vẻ bề_ngoài , hãy trò_chuyện để hiểu họ nhiều hơn . 
+</s>
+<s id=144>
+Có những người bị người khác đánh_giá không tốt như thảo mai , giả_tạo , khiến họ mang_tiếng xấu nhưng bạn cũng đừng vì_thế mà xa_lánh họ . 
+</s>
+<s id=145>
+Tôi từng đọc ở đâu_đó rằng , ' một người tốt hay xấu không nằm ở cái tính mà ở cái tình của mối quan_hệ ' . 
+</s>
+<s id=146>
+Có_thể với người khác họ xấu nhưng đối_với bạn họ tốt , chuyện đó hết_sức bình_thường . 
+</s>
+<s id=147>
+Đừng hùa theo ghét ai khi họ chẳng làm gì tổn_hại đến bạn . 
+</s>
+<s id=148>
+Ngạn_ngữ Pháp có câu : ' Hãy cho tôi biết bạn của anh là ai , tôi sẽ nói cho anh biết anh là người thế_nào ' . 
+</s>
+<s id=149>
+Những người mà bạn thân_thiết sẽ phần_nào phản_ánh con_người bạn , Thế_nên cổ_nhân đã dạy phải ' chọn bạn mà chơi ' . 
+</s>
+<s id=150>
+Thà có một người bạn tốt còn hơn có 100 người bạn giả_tạo . 
+</s>
+<s id=151>
+Bạn có_thể kết_giao với nhiều người nhưng không phải ai cũng có_thể trở_nên thân_thiết . 
+</s>
+<s id=152>
+Đừng chỉ vì sợ cô_đơn mà phải cố_gắng chơi với những người mà bạn cảm thấy không hợp . 
+</s>
+<s id=153>
+Khi bạn đã quen_biết họ một thời_gian nhưng vẫn không_thể hiểu họ , cũng không có cảm_giác gần_gũi thì bạn cũng không cần phải cố_gắng trở_nên thân_thiết với họ đâu . 
+</s>
+<s id=154>
+Đừng chỉ chăm_chăm tìm bản_sao của mình , bạn hoàn_toàn có_thể thân_thiết với những người có sở_thích , tính_cách khác bạn . 
+</s>
+<s id=155>
+Họ sẽ khiến cuộc_sống của bạn thêm nhiều màu_sắc hơn . 
+</s>
+<s id=156>
+Bạn có biết hai cục nam_châm trái dấu thường hút nhau , quy_luật bù_trừ luôn tồn_tại trong các mối quan_hệ tình bạn hay tình_yêu . 
+</s>
+<s id=157>
+Đừng ngại_ngần kết_giao với những người hơn hay kém tuổi bạn , thậm_chí hơn hoặc kém nhiều tuổi cũng không sao . 
+</s>
+<s id=158>
+Ở những người lớn_tuổi bạn sẽ học được những kinh_nghiệm quý_giá , còn những người trẻ_trung lại mang đến cho bạn sự tươi_trẻ , năng_động . 
+</s>
+<s id=159>
+Nhưng dù tuổi_tác , tính_cách , gốc văn_hoá có khác nhau thế_nào , một người bạn thật_sự phải có tiêu_chuẩn đạo_đức_cao , là một người mà bạn có_thể tin_tưởng được . 
+</s>
+<s id=160>
+Bạn có cơ_hội tiếp_xúc với nhiều người nhưng chính bạn phải quyết_định ai sẽ là bạn của mình . 
+</s>
+<s id=161>
+Bạn từng có những người bạn thân nhưng vì hoàn_cảnh nên cách xa về địa_lý , không có nhiều cơ_hội gặp_gỡ nữa . 
+</s>
+<s id=162>
+Việc xa một người bạn thân_thiết chắc_chắn là rất buồn và hụt_hẫng nhưng cũng đừng vì_thế mà khép lòng mình . 
+</s>
+<s id=163>
+Hãy giữ liên_lạc và quan_tâm đến bạn_bè đúng lúc , nhưng cũng đừng ngần_ngại tìm_kiếm và phát_triển một mối quan_hệ mới . 
+</s>
+<s id=164>
+Đến và đi là chuyện bình_thường ở đời . 
+</s>
+<s id=165>
+Bạn nên chung_thuỷ với một người bạn_đời nhưng bạn hoàn_toàn có_thể kết_thân với nhiều người bạn mới . 
+</s>
+<s id=166>
+Hãy luôn đồng_cảm với bạn_bè của mình , đặt mình vào vị_trí của họ để hiểu họ . 
+</s>
+<s id=167>
+Kể_cả khi họ có quan_điểm trái với mình cũng đừng vội phản_bác mà hãy kiên_nhẫn lắng_nghe . 
+</s>
+<s id=168>
+Hãy sẵn_sàng tha_thứ cho lỗi_lầm của bạn_bè và không nhắc lại quá_khứ . 
+</s>
+<s id=169>
+Để tìm_kiếm một tình bạn chân_thành không quá khó nhưng cũng không dễ . 
+</s>
+<s id=170>
+Quan_trọng là bạn có thật_sự nỗ_lực vun_xới cho tình bạn hay không mà thôi . 
+</s>
+<s id=171>
+Hãy trao đi chân_thành và bạn sẽ nhận về điều tương_tự . 
+</s>
+<s id=172>
+Mâm cơm thừa nhà chồng để_phần khiến chị_em ứa nước_mắt 
+</s>
+<s id=173>
+Với chỉ vài cọng rau , đôi miếng trứng vụn , mâm cơm thừa nhà chồng để_phần đã khiến (NP-SUB chị_em cũng như cư_dân mạng phải cảm_nhận sự ấm_ức . 
+</s>
+<s id=174>
+Các cụ thường dạy con_cháu rằng " Chớ eo_xèo khi đãi khách , đừng hậm_hực lúc ăn cơm " là nhắc_nhở phép_tắc cư_xử khi ngồi bên mâm cơm nhà . 
+</s>
+<s id=175>
+Tuy_nhiên , mọi việc xảy ra ngoài ý_muốn cũng xuất_phát từ mâm cơm mà ra . 
+</s>
+<s id=176>
+Mới_đây , những hình_ảnh và dòng trạng_thái " đắng lòng " của một thành_viên mạng xã_hội về mâm cơm thừa nhà chồng để lại cho con dâu phần khiến chị_em khó tránh được cảm_giác tủi_thân . 
+</s>
+<s id=177>
+Cụ_thể , trong bức ảnh được đăng_tải , trên mâm cơm thừa để_phần lộn_xộn thức_ăn , chỉ có bát canh cặn , hai miếng trứng “ đầu thừa đuôi thẹo ” , đĩa rau ăn dở , cùng đống bát đũa bẩn . 
+</s>
+<s id=178>
+Việc để_phần mâm cơm như vậy khiến nhiều dân mạng mà đặc_biệt là các chị_em phải bày_tỏ quan_điểm cực phẫn_nộ . 
+</s>
+<s id=179>
+Thành_viên có nickname Tu_Dinh_Huong chia_sẻ : " trần_đời ai_oán mới thấy có thể_loại bố_mẹ chồng đối_xử với con dâu như con vật . 
+</s>
+<s id=180>
+Đã xác_định để_phần thì để cho đàng_hoàng và để hẳn riêng ra chứ không phải cái kiểu có cái gì ăn nốt cái đó " . 
+</s>
+<s id=181>
+Bày_tỏ quan_điểm cũng bực_tức như Tu_Dinh_Huong , thành_viên Pymini tiếp_lời : " Nhà mình mà phần cho người sau thì còn chọn toàn cái ngon để phần , chứ không có chuyện ăn_uống bày bừa , mặc_kệ người ăn sau như thế_này ” . 
+</s>
+<s id=182>
+Cũng theo chia_sẻ của nhiều người , đây không phải là trường_hợp đầu_tiên mà con dâu bị bố_mẹ chồng phần cơm thừa canh cặn mà nhiều nàng dâu cùng hoàn_cảnh , không khỏi chạnh_lòng khi thấy hình_ảnh này . 
+</s>
+<s id=183>
+Họ cũng từng được nhà chồng phần cho mâm cơm “ thịnh_soạn ” quá mức , đến_nỗi vừa ăn vừa nghẹn đắng trong lòng . 
+</s>
+<s id=184>
+Trước đó , cũng trên mạng xã_hội , hội chị_em từng phẫn_nộ khi nghe một cô gái vốn xuất_thân giàu_có , gia_giáo chấp_nhận từ_bỏ nơi phố_thị phồn_hoa về quê sống chung với nhà chồng và bị đối_xử tệ_bạc . 
+</s>
+<s id=185>
+Chung_quy lại , miếng ăn là chuyện tế_nhị nhưng trong đó thể_hiện cả tình yêu_thương , sự tôn_trọng và phép lịch_sự cơ_bản cần có . 
+</s>
+<s id=186>
+Có nàng dâu nào không đau_lòng khi thấy mâm cơm được nhà chồng để_phần như vậy . 
+</s>
+<s id=187>
+Tuy_nhiên , ngoài những mâm cơm thừa như trên thì cũng có nhiều nàng dâu hãnh_diện lên mạng khoe những bữa cơm được chính tay mẹ chồng chuẩn_bị cẩn_thận . 
+</s>
+<s id=188>
+Trong ảnh là phần cơm ở_cữ gọn_nhẹ , tinh_tươm do mẹ chồng chuẩn_bị được một nàng dâu chia_sẻ , dù rất đơn_giản nhưng khá tâm_lý và ấm tình gia_đình . 
+</s>
+<s id=189>
+Chồng mải kiếm tiền , vợ tìm niềm vui nơi chiếu bạc , con vào quán net 
+</s>
+<s id=190>
+Khi Tôi vắng nhà , vợ đã tìm thấy niềm vui ở chiếu bạc , vũ_trường . 
+</s>
+<s id=191>
+Còn các con tôi thì trốn học , thường_xuyên có_mặt ở quán “ net ” , đến cuối năm_học không đủ điểm lên_lớp thì mẹ nó lại cuống_cuồng đem “ phong_bì ” đi cậy_cục , xin_xỏ . 
+</s>
+<s id=192>
+Đồng_tiền bản_thân nó không gây nên tội_lỗi , là do con_người sử_dụng nó như thế_nào thôi . 
+</s>
+<s id=193>
+Anh kiếm tiền như con ong siêng_năng , cần_mẫn để vợ_con được sung_sướng cũng hoàn_toàn chính_đáng và không có tội_lỗi gì . 
+</s>
+<s id=194>
+Anh chỉ có một thiếu_sót là không quan_tâm đúng_mức đến đời_sống tinh_thần , tình_cảm của vợ_con , để Vân tự đi tìm niềm vui ở những nơi đầy cám_dỗ , “ thả_nổi ” cho con_cái sống theo bản_năng , ham chơi , lười học thành hư_hỏng . 
+</s>
+<s id=195>
+Rất mừng là bản_thân anh cũng đã nhận ra thiếu_sót của mình . 
+</s>
+<s id=196>
+Trước_hết là giải_quyết hậu_quả của thời_gian buông_lỏng gia_đình . 
+</s>
+<s id=197>
+Các con cũng nên được biết về thực_trạng gia_đình để tự ý_thức thay_đổi để tự cứu lấy bản_thân chúng . 
+</s>
+<s id=198>
+Tiền cần được quản_lý chặt_chẽ , khoa_học hơn , cương_quyết với những đòi_hỏi là thói_quen của vợ_con . 
+</s>
+<s id=199>
+Tôi tin , người cha hết_lòng vì vợ_con như anh sẽ khiến vợ_con bừng tỉnh và thay_đổi . 
+</s>
+<s id=200>
+Khói thuốc_lá bám trên đồ_đạc làm tăng rủi_ro tổn_thương gan , tiểu_đường 
+</s>
+<s id=201>
+Sau nghiên_cứu được thực_hiện ở chuột , các nhà_khoa_học cảnh_báo , phơi nhiễm “ khói thuốc lần 3 ” - tức tàn_dư của khói thuốc_lá bám trên quần_áo và đồ_đạc , có_thể làm tăng rủi_ro tổn_thương gan và bệnh tiểu_đường . 
+</s>
+<s id=202>
+" Khói thuốc lần 3 ” cũng nguy_hiểm như hút thuốc và hít ngửi khói thuốc 
+</s>
+<s id=203>
+Những tàn_dư của khói thuốc_lá khiến một hỗn_hợp chất_độc tích_tụ trên các bề_mặt và quần_áo . 
+</s>
+<s id=204>
+Những chất_độc như thế được cho là có_thể chống lại việc “ truy_quét ” của các thiết_bị làm sạch công_nghiệp . 
+</s>
+<s id=205>
+Theo trang tin New_Scientist , nhằm điều_tra những rủi_ro sức_khoẻ tiềm_tàng của “ khói thuốc_lá lần 3 ” , chuyên_gia Manuela Martins-Green thuộc Đại_học California , Riversid ( Mỹ ) và các cộng_sự đã cho màn cửa , bàn_ghế và thảm phơi nhiễm những mức khói thuốc tương_tự mức mà Cơ_quan Bảo_vệ Môi_trường Mỹ tìm thấy trong nhà của những người hút thuốc . 
+</s>
+<s id=206>
+Sau đó , họ cho các con chuột bị nhốt trong cũi tiếp_xúc với những vật_dụng trên trong sáu tháng và lấy mẫu não , gan và máu của chúng vào những khoảng thời_gian khác nhau . 
+</s>
+<s id=207>
+Sau một tháng , những con chuột này đã phải gánh_chịu một sự gia_tăng khoảng 50% các phân_tử gây viêm trong máu và gan so với những con chuột đối_chứng không được cho tiếp_xúc với các vật_dụng . 
+</s>
+<s id=208>
+Hai tháng sau , nhóm nghiên_cứu phát_hiện sự gia_tăng tổn_thương tế_bào trong gan và não của các con chuột . 
+</s>
+<s id=209>
+Ở thời_điểm bốn tháng , mức cortisol đã tăng 45% so với nhóm chuột đối_chứng . 
+</s>
+<s id=210>
+Các mức cortisol cao đã được chứng_minh có liên_quan đến sự tăng cân và suy_giảm hệ_miễn_dịch . 
+</s>
+<s id=211>
+Cũng ở thời_điểm bốn tháng , những con chuột tiếp_xúc với đồ_đạc ám khói thuốc_lá có sự gia_tăng 30% mức glucose trong máu lúc đói và insulin . 
+</s>
+<s id=212>
+Cả hai yếu_tố này đều làm tăng nguy_cơ tiểu_đường ở các con chuột . 
+</s>
+<s id=213>
+Các mức này thậm_chí cao hơn mức đo vào thời_điểm sáu tháng . 
+</s>
+<s id=214>
+Tờ Newsweek dẫn lời chuyên_gia Martins-Green cho biết bà tin việc phơi nhiễm “ khói thuốc lần 3 ” là một dạng chất_độc tàng_hình , là sát_thủ thầm_lặng . 
+</s>
+<s id=215>
+Chúng_ta có_thể hấp_thu các chất_độc thông_qua da và hoạt_động thở mà không biết đang đặt mình vào nguy_cơ bị tổn_hại . 
+</s>
+<s id=216>
+“ Dù nghiên_cứu của chúng_tôi không được tiến_hành trên người nhưng mọi người nên biết rằng các phòng khách_sạn , xe_hơi và nhà có người hút thuốc sử_dụng dễ có nguy_cơ bị ô_nhiễm bởi " khói thuốc lần 3 ” , chuyên_gia trên nói . 
+</s>
+<s id=217>
+Đồng_thời , bà khẳng_định “ khói thuốc lần 3 ” cũng nguy_hiểm như hút thuốc và hít ngửi khói thuốc . 
+</s>
+<s id=218>
+Mẹo rửa rau nhiễm thuốc_trừ_sâu : chị_em cần bỏ_túi ngay_lập_tức 
+</s>
+<s id=219>
+Không phải ai cũng kiếm được nguồn rau sạch và an_toàn trong bối_cảnh hiện_nay , đa_số các bà nội_trợ đều mua rau ở chợ và không_thể chắc_chắn được các loại rau này có bị “ dính ” thuốc_trừ_sâu , chất kích_thích , chất bảo_quản hay không . 
+</s>
+<s id=220>
+Việc tích_tụ các hoá_chất độc_hại từ thực_phẩm như thế trong thời_gian dài có_thể làm tăng nguy_cơ ung_thư và các bệnh mạn_tính khác . 
+</s>
+<s id=221>
+Tuy_nhiên theo các chuyên_gia , việc rửa rau đúng cách có_thể cũng giúp loại_bỏ một lượng không nhỏ hoá_chất tồn_dư trong rau củ . 
+</s>
+<s id=222>
+- Rau ăn lá : Rửa riêng_biệt các loại rau ăn lá . 
+</s>
+<s id=223>
+Đầu_tiên ngâm rau vài phút trong nước lạnh , Sau đó rửa từng lá một . nếu rau ăn lá nhỏ như rau muốn thì rửa từng nắm nhỏ dưới vòi_nước . 
+</s>
+<s id=224>
+Để đảm_bảo hơn , hãy pha một phần giấm , ba phần nước , ngâm một_vài phút rồi rửa sạch . 
+</s>
+<s id=225>
+Cách này đã được chứng_minh loại_bỏ vi_khuẩn tốt hơn nhiều so với dùng nước rửa bán trên thị_trường . 
+</s>
+<s id=226>
+- Đối_với khoai_tây , củ_cải , cà_rốt , táo , dưa_chuột : Rửa sạch , có_thể dùng bàn_chải để chải sạch đất bám trên vỏ . 
+</s>
+<s id=227>
+Sau đó gọt vỏ và rửa lại với nước để đảm_bảo không dính vi_sinh_vật , giun_sán từ phần vỏ vào bên trong . 
+</s>
+<s id=228>
+- Các loại quả mọng : Rửa sạch với nước lạnh trong một cái rổ thưa . 
+</s>
+<s id=229>
+- Rau quả có vỏ dày ( bí , dưa_hấu ) hoặc không ăn vỏ ( cam , bơ ) : Thường thì không mấy_ai rửa dưa_hấu khi cắt nhưng đây là sai_lầm bởi vi_khuẩn có_thể theo dao vào bên trong thịt dưa . 
+</s>
+<s id=230>
+Vì_vậy bạn hãy ghi_nhớ nguyên_tắc rửa sạch tất_cả những gì bạn cắt . 
+</s>
+<s id=231>
+- Rau quả có nhiều nhánh ( bông cải xanh , súp_lơ ) : Ngâm vài phút trước khi cắt , Sau đó rửa sạch trong một cái rổ thưa . 
+</s>
+<s id=232>
+Thay_vì mua nước rửa rau bên ngoài , bạn có_thể tự chế nước rửa rau bằng các nguyên_liệu đơn_giản trong nhà_bếp . 
+</s>
+<s id=233>
+Trước_tiên , bạn hãy lấy 1 chậu nước và đổ nước vào . 
+</s>
+<s id=234>
+Sau đó , đổ thêm giấm táo với tỷ_lệ 1:10 ( 5 lít nước , nửa -Hlít giấm táo ) . 
+</s>
+<s id=235>
+Để yên khoảng 10-15 phút ở nhiệt_độ phòng . 
+</s>
+<s id=236>
+Tiếp_theo , bạn hãy rửa lại bằng nước . 
+</s>
+<s id=237>
+Bạn sẽ thấy dung_dịch nước / giấm táo đổi màu trong quá_trình này . 
+</s>
+<s id=238>
+Tất_cả hoá_chất , thuốc_trừ_sâu , vi_khuẩn và chất bẩn khác sẽ ở lại trong nước và rau quả của bạn sẽ hoàn_toàn sạch . 
+</s>
+<s id=239>
+Quá_trình này cũng có_thể kéo_dài thời_hạn sử_dụng của nhiều loại trái_cây vốn mau hỏng , chẳng_hạn dâu_tây , quả mọng và chuối . 
+</s>
+<s id=240>
+Bạn có_thể dùng dung_dịch này vài lần trong ngày rồi Sau đó đổ đi . 
+</s>
+<s id=241>
+Kể từ bây_giờ , hãy áp_dụng phương_pháp này để bảo_vệ sức_khoẻ của bạn và nhé . 
+</s>
+<s id=242>
+Ngoài_ra , bạn cũng có_thể tự chế nước rửa rau với 1 trong 3 công_thức sau : Cách 1 ( cho rau xanh ) - Một bát nước_lớn - 4 muỗng canh muối - Nước_cốt của 1/2 quả chanh hoà tất_cả trong một bát lớn . 
+</s>
+<s id=243>
+Ngâm rau trong vài phút rồi rửa lại với nước_sạch . 
+</s>
+<s id=244>
+Cách 2 ( cho rau xanh ) - (NP-PRD 3 chén nước - 1 chén giấm - 1 muỗng canh muối Trộn đều với nhau rồi ngâm rau từ 30 giây đến 2 phút , rửa sạch . 
+</s>
+<s id=245>
+Cách 3 ( cho hoa_quả tươi ) - 4 chén nước - 1-2 muỗng canh giấm trắng Pha các dung_dịch với nhau trong một cái bát lớn rồi ngâm hoa_quả ( không quá 5 phút ) . 
+</s>
+<s id=246>
+Nếu chưa chế_biến luôn , bạn không nên rửa rau trước khi cho vào tủ_lạnh , vì có_thể tạo điều_kiện cho vi_khuẩn sinh_sôi nảy_nở . 
+</s>
+<s id=247>
+Cắt bỏ lá ngoài , ngọn của các loại rau_diếp , bắp_cải , cần_tây và các loại rau khác có_thể loại_bỏ được dư_lượng thuốc_trừ_sâu và vi_khuẩn bám ở bề_mặt bên ngoài . 
+</s>
+<s id=248>
+Rửa rau ngay dưới dòng nước chảy sẽ giúp cuốn trôi hoá_chất tồn_dư dễ_dàng hơn . 
+</s>
+<s id=249>
+Nước vo gạo có tác_dụng trung_hoà độc_tính của các tàn_dư trong thuốc_trừ_sâu . 
+</s>
+<s id=250>
+Vì_thế , ngâm trước các loại thực_phẩm trong nước vo gạo cũng là một_cách hay hạn_chế bớt độc_tố . 
+</s>
+<s id=251>
+Tự chế công_thức nước rửa an_toàn : Chuẩn_bị nửa chén giấm trắng , một thìa baking soda , và 20 giọt tinh_dầu hạt bưởi hoặc nước_cốt chanh , pha cùng nước lạnh , sạch để rửa rau của bạn . 
+</s>
+<s id=252>
+Cắt bỏ lá ngoài , ngọn của các loại rau_diếp , bắp_cải , cần_tây và các loại rau khác có_thể loại_bỏ được dư_lượng thuốc_trừ_sâu và vi_khuẩn bám ở bề_mặt bên ngoài . 
+</s>
+<s id=253>
+Đọc thêm : Biết vận_hành hệ_thống thải độc cơ_thể , giảm_thiểu tối_đa nguy_cơ mắc ung_bướu 
+</s>
+<s id=254>
+Trái_tim đập ngoài lồng_ngực của cô bé người Nga 
+</s>
+<s id=255>
+Mỗi khi Virsaviya Borun cười , trái_tim được bọc bởi một lớp da mỏng của em như_thể rơi khỏi lồng_ngực . 
+</s>
+<s id=256>
+Thoạt nhìn , Virsaviya Borun chẳng khác gì những cô bé đồng trang_lứa . 
+</s>
+<s id=257>
+Thế_nhưng , đằng sau lớp áo , một trái_tim đang đập ngoài lồng_ngực . 
+</s>
+<s id=258>
+Virsaviya bị dị_tật tim lạc chỗ hay còn gọi là ngũ chứng Cantrell . 
+</s>
+<s id=259>
+Đây là căn_bệnh hiếm gặp , chỉ ảnh_hưởng đến 5% dân_số thế_giới . 
+</s>
+<s id=260>
+Nó khiến Virsaviya không có xương ngực , bị mất một phần cơ_hoành và cơ bụng còn trái_tim chỉ được bao_bọc bởi một lớp da mỏng . 
+</s>
+<s id=261>
+Ngày Virsaviya chào_đời , các bác_sĩ thông_báo với mẹ em là Dari Borun chuẩn_bị tinh_thần cho tình_huống xấu nhất . 
+</s>
+<s id=262>
+Tuy_nhiên , bảy năm trôi qua , Virsaviya vẫn sống lạc_quan , thậm_chí nhảy_múa năng_động như người khoẻ_mạnh . 
+</s>
+<s id=263>
+" Cháu biết tại_sao trái_tim của mình nằm ở ngoài " , cô bé chia_sẻ . 
+</s>
+<s id=264>
+" Đó là vì chúa Jesus muốn chứng_tỏ ngài có_thể tạo ra những điều đặc_biệt giống như cháu " . 
+</s>
+<s id=265>
+Sau khi nhiều cơ_sở y_tế địa_phương từ_chối can_thiệp cho Virsaviya vì đánh_giá ca bệnh quá rủi_ro , gia_đình bé gái bảy tuổi đã chuyển tới Florida ( Mỹ ) . 
+</s>
+<s id=266>
+Hiện Virsaviya được uống thuốc giảm huyết_áp để chờ phẫu_thuật . 
+</s>
+<s id=267>
+Cách làm giảm đau lưng cho bà bầu khi mang thai 
+</s>
+<s id=268>
+Phụ_nữ trong thời_kì mang thai cũng được xem là đối_tượng dễ mắc bệnh đau lưng nhất , do cách giảm đau lưng cho bà bầu là điều vô_cùng quan_trọng để mẹ bầu luôn có sức_khoẻ và tâm_lý thoải_mái nhất để nuôi_dưỡng thai_nhi . 
+</s>
+<s id=269>
+Đau lưng trong thời_kỳ mang thai khiến phụ_nữ gặp khó_khăn trong di_chuyển và sinh_hoạt hàng ngày . 
+</s>
+<s id=270>
+Vậy cách làm giảm đau lưng cho bà bầu hiệu_quả nhất như thế_nào ? 
+</s>
+<s id=271>
+Cùng Phununews tìm_hiểu qua bài viết dưới đây 
+</s>
+<s id=272>
+- Khi mang thai , cơ_thể thai_phụ sản_sinh ra nhiều loại hormon , dưới tác_dụng của hormon , dây_chằng xương_chậu lỏng rồi mềm ra , làm cho khớp xương của xương_cùng , liên_hợp xương mu lỏng đi , kết_cấu ở phần lưng cũng lỏng . 
+</s>
+<s id=273>
+Hiện_tượng biến_đổi dây_chằng xương_chậu này ở thai_phụ có_thể trợ_giúp sinh thai_nhi thuận_lợi hơn . 
+</s>
+<s id=274>
+Nhưng , nếu dây_chằng xương_chậu quá lỏng , có_thể làm cho khớp xương đau_nhức , sự tách rời của liên_hợp xương mu có_thể làm cho thai_phụ đi_đứng khó_khăn . 
+</s>
+<s id=275>
+- Ngoài_ra , trong giai_đoạn cuối thai kì , tử_cung lớn ra , trọng_lượng tăng lên ( lúc này toàn_bộ trọng_lượng của tử_cung khoảng 6000 g ) , trọng_tâm cơ_thể của thai_phụ di_chuyển về phía trước . 
+</s>
+<s id=276>
+Để giữ cơ_thể thăng_bằng , đầu và vai thai_phụ di_chuyển về phía sau , tăng độ cong phần lưng , tổ_chức lưng ở vào trạng_thái kích_ứng dễ làm cho lưng bị đau_nhức . 
+</s>
+<s id=277>
+- Nếu thai_phụ không chú_ý kết_hợp cân_bằng giữa ăn_uống , lao_động và nghỉ_ngơi , mệt_mỏi quá_sức hoặc ăn_uống thiếu canxi thì những triệu_chứng này sẽ tăng rõ_rệt . 
+</s>
+<s id=278>
+Nếu trước_kia thai_phụ đã có những bệnh cột_sống , xương_chậu , khớp xương đùi , lưng ... thì những triệu_chứng này càng rõ_ràng hơn . 
+</s>
+<s id=279>
+Vì_vậy , thai_phụ đau lưng khi mang thai là hiện_tượng sinh_lý bình_thường , không nên quá lo_lắng về việc này . 
+</s>
+<s id=280>
+Sau khi bé chào_đời , vấn_đề đau lưng sẽ tự_nhiên giảm bớt . 
+</s>
+<s id=281>
+Trong khi mang thai , thai_phụ nên chú_ý vận_động thường_xuyên , làm cho những triệu_chứng nói trên giảm bớt . 
+</s>
+<s id=282>
+Khi thai_nhi dần phát_triển , trọng_tâm của cơ_thể bà bầu dồn về phía trước nên thai_phụ thường ưỡn ngực về phía sau để cơ_thể không bị chồm trước quá nhiều . 
+</s>
+<s id=283>
+Điều này có_thể làm phần cơ ở vùng phía dưới lưng bị kéo căng gây đau . 
+</s>
+<s id=284>
+Do_vậy , bà bầu cần chỉnh_sửa tư_thế đúng bằng cách hạ mông xuống , kéo thẳng hai vai về phía sau và đứng thẳng , vươn người lên cao . 
+</s>
+<s id=285>
+Massage vùng lưng dưới cũng làm dịu cảm_giác đau và mỏi . 
+</s>
+<s id=286>
+Bà bầu có_thể ngồi áp mặt vào lưng ghế hoặc nằm nghiêng và nhờ người_thân massage các cơ chạy dọc hai bên cột_sống hoặc tập_trung vào vùng lưng dưới . 
+</s>
+<s id=287>
+Tắm nước ấm , chườm khăn nóng hay sử_dụng các tia nước ấm của vòi_hoa_sen xịt vào những vùng bị đau giúp giảm bớt cơn đau . 
+</s>
+<s id=288>
+Đắp miếng dán nhiệt nóng lạnh luân_phiên là cách giảm đau lưng đơn_giản nhất . 
+</s>
+<s id=289>
+Bạn hãy đắp miếng dán nhiệt lạnh lên vùng lưng đau khoảng 20 phút mỗi ngày , liên_tục 2-3 ngày . 
+</s>
+<s id=290>
+Sau đó , đổi sang miếng dán nhiệt nóng , đắp lên ở cùng vị_trí đó . 
+</s>
+<s id=291>
+Lưu_ý , không được đắp miếng dán nhiệt nóng lên vùng bụng khi đang mang thai . 
+</s>
+<s id=292>
+Khi ngủ nên nằm nghiêng , tốt nhất nghiêng sang trái , không được nằm ngửa khi ngủ . 
+</s>
+<s id=293>
+Có_thể đặt thêm gối ở giữa hai đầu_gối và vùng xung_quanh bụng hoặc sử_dụng gối ôm dài . 
+</s>
+<s id=294>
+Biện_pháp này giúp bạn giảm cơn đau lưng khá hiệu_quả . 
+</s>
+<s id=295>
+Bạn cũng_nên kiểm_tra xem tấm nệm đang nằm có hỗ_trợ tư_thế ngủ không . 
+</s>
+<s id=296>
+Nếu nệm lún và không_thể giữ cột_sống bạn thẳng_thớm thì nên đổi tấm nệm khác . 
+</s>
+<s id=297>
+Hoặc bạn có_thể đặt dưới nệm tấm gỗ phẳng để hỗ_trợ . 
+</s>
+<s id=298>
+Khi mang thai , xương_sống của bạn sẽ chịu thêm áp_lực do cân nặng tăng lên . 
+</s>
+<s id=299>
+Vì_vậy , khi ngồi , bạn hãy đặt một chiếc khăn bông ở lưng và cố_gắng ngồi thẳng để giữ tư_thế đúng , giảm áp_lực lên cột_sống , từ đó giảm được cơn đau vùng lưng sau một ngày dài . 
+</s>
+<s id=300>
+Khi mang thai , bà bầu nên tránh mặc quần_áo , trang_phục chật hoặc bó . 
+</s>
+<s id=301>
+Thay vào đó , có_thể lựa_chọn quần_áo đúng kích Cỡ , đặc_biệt là áo ngực nên chọn loại áo có site rộng sẽ giúp cơ_thể thoải_mái , từ đó giảm bớt áp_lực lên vai và lồng_ngực , cũng có tác_dụng giảm đau lưng . 
+</s>
+<s id=302>
+Bà bầu đừng quên việc khám thai định_kỳ , và thực_hiện theo hướng_dẫn của bác_sĩ chuyên_khoa , điều này giúp bảo_vệ sức_khoẻ của cả người mẹ và sự phát_triển tốt nhất của thai_nhi . 
+</s>
+<s id=303>
+Ngoài_ra , để tránh (NP-PRD những trường_hợp đau lưng quá nghiêm_trọng và các biện_pháp trên không giúp_ích , bạn cần đi khám bác_sĩ để được kiểm_tra sức_khoẻ cho cả mẹ và bé . 
+</s>
+<s id=304>
+Với những cách làm giảm đau lưng cho bà bầu trên đây , hi_vọng rằng các bạn sẽ có một thời_kì mang thai thật thoải_mái vui_vẻ , hạn_chế tối_đa được căn_bệnh đau lưng . 
+</s>
+<s id=305>
+7 cách làm cho tình_yêu không bị nhàm_chán 
+</s>
+<s id=306>
+Nếu tình_yêu đã đủ lâu và bạn luôn có cảm_giác sợ một ngày nào đó người kia sẽ chán mình bạn phân_vân “ cách làm cho tình_yêu không bị nhàm_chán ? ” ... thì có_lẽ bạn nên đọc bài viết này . 
+</s>
+<s id=307>
+Khi mới bắt_đầu yêu , lúc_nào bạn cũng cảm_thấy hạnh_phúc , vui_vẻ , và khát_khao . 
+</s>
+<s id=308>
+Nhưng rồi theo thời_gian , tình_cảm đó dần trở_nên quá đơn_điệu , mệt_mỏi , nhàm_chán và đôi_khi mâu_thuẫn với cá_tính cũng như mong_muốn của bản_thân bạn thì đây chính là lúc bạn cần tham_khảo ngay cách làm cho tình_yêu không bị nhàm_chán dưới đây rồi . 
+</s>
+<s id=309>
+Những điều mới_mẻ luôn có những sức hút kỳ_lạ và có không ít các chàng trai sẵn_sàng từ_bỏ bạn gái vì nhận thấy cô nàng không biết cách làm mới chính bản_thân mình . 
+</s>
+<s id=310>
+Chính vì_vậy hãy F5 lại bản_thân mình , chỉ cần thay_đổi phong_cách ăn_mặc , thỉnh_thoảng hãy làm một kiểu tóc mới , sử_dụng một mùi nước_hoa mới ... sẽ khiến các chàng có một ấn_tượng mới về bạn đấy . 
+</s>
+<s id=311>
+Bạn hãy thử_nghiệm xem sao , điều này chỉ đem cái lợi cho bạn mà thôi , bởi chắc_chắn sự mới_mẻ ấy sẽ mang đến cho tình_yêu cũng như con_người của bạn một làn gió mới . 
+</s>
+<s id=312>
+Trong buổi hẹn_hò đó , tuyệt_đối không nắm tay , không ôm_ấp hay quấn_quýt . 
+</s>
+<s id=313>
+Chỉ đơn_giản là hai bạn ngồi đối_diện và chia_sẻ cho nhau nghe về suy_nghĩ , quan_niệm của mỗi người . 
+</s>
+<s id=314>
+Khi bạn nói , người_yêu phải lắng_nghe và ngược_lại . 
+</s>
+<s id=315>
+Có_thể cùng trao_đổi , tranh_luận , chia_sẻ hoặc phản_biện . 
+</s>
+<s id=316>
+Chắc_chắn sau buổi hẹn đó , cả hai đều được “ nhẹ_nhõm ” vì đã bộc_lộ những điều thầm_kín nhất mà bấy_lâu này mình chưa_thể giãi_bày . 
+</s>
+<s id=317>
+Chủ_đề trò_chuyện có_thể về sở_thích , cuộc_sống thường_nhật , hoặc một bài viết trên báo . 
+</s>
+<s id=318>
+Giao_tiếp là một điều không_thể thiếu trong tình_yêu . 
+</s>
+<s id=319>
+Giao_tiếp với người_yêu sẽ khác với người bình_thường , vì_vậy bạn đừng nên " bình_dân " quá . 
+</s>
+<s id=320>
+Hãy gọi nhau bằng những nickname , những lời ngọt_ngào âu_yếm để cả hai cùng cảm_nhận yêu và được yêu . 
+</s>
+<s id=321>
+Chỉ có như_vậy mới khiến tình_yêu của hai người vững_bền và được thắp lửa . 
+</s>
+<s id=322>
+Bạn không tự_tin vào khả_năng của mình trong tình_yêu ? 
+</s>
+<s id=323>
+Bạn luôn sợ người ấy hơn mình sẽ có người lấy đi mất ? 
+</s>
+<s id=324>
+Do_đó bạn hay ghen , dằn_vặt quá_khứ và tra_hỏi đay_nghiến người ấy ? 
+</s>
+<s id=325>
+Vậy_thì bạn đã tự tay giết chết người_yêu của mình . 
+</s>
+<s id=326>
+Tình_yêu không có chỗ cho những nghi_ngờ và ghen_tuông , hãy tin_tưởng tuyệt_đối vào tình_yêu và bạn sẽ được đáp lại . 
+</s>
+<s id=327>
+Còn nếu không , thì bạn cũng có_thể tự_tin rằng , mình đã yêu hết_mình , yêu bằng cả trái_tim và không có gì phải hối_tiếc . 
+</s>
+<s id=328>
+Nam và nữ vốn rất khác nhau trong việc chia_sẻ cảm_xúc và những mong_muốn của mình đối_với một mối quan_hệ . 
+</s>
+<s id=329>
+Đa_số một trong hai người sẽ muốn kiểm_soát hành_động và bắt đối_phương phải làm những điều mà mình thích . 
+</s>
+<s id=330>
+Điều này là một sai_lầm vô_cùng nghiêm_trọng mà sẽ khiến cho đối_phương của bạn cảm_thấy nặng_nề và khó_chịu . 
+</s>
+<s id=331>
+Bạn hãy thừa_nhận rằng đối_phương của bạn không phải là vật sở_hữu và để phản_ánh những điều mong_muốn của bạn . 
+</s>
+<s id=332>
+Điều cơ_bản là mỗi người đều có những nhu_cầu và mong_muốn của bản_thân mình . 
+</s>
+<s id=333>
+Vậy_nên bạn phải chấp_nhận và tôn_trọng điều đó để cả hai luôn không có cảm_giác gò_bó trong chính mối quan_hệ của mình . 
+</s>
+<s id=334>
+Mọi mối quan_hệ tốt_đẹp đều được xây_dựng dựa trên sự tôn_trọng lẫn nhau . 
+</s>
+<s id=335>
+Sự tôn_trọng sẽ thể_hiện được bạn có cảm_giác và đánh_giá giá_trị của đối_phương như thế_nào . 
+</s>
+<s id=336>
+Chính vì_vậy bạn cần thể_hiện điều đó qua cả lời_nói , tôn_trọng ý_kiến và quyết_định của đối_phương dù bạn có đồng_ý hay không . 
+</s>
+<s id=337>
+Ngoài_ra , cũng cũng phải tôn_trọng bạn_bè và gia_đình của đối_phương kể_cả đôi_khi có những điều ở họ khiến bạn không mấy hài_lòng . 
+</s>
+<s id=338>
+Đôi_khi , cuộc_sống lại thường quá khắt_khe và mệt_mỏi để tìm ra thời_gian dành riêng cho bản_thân và những người_thân xung_quanh chúng_ta . 
+</s>
+<s id=339>
+Những công_việc , " lối mòn " hằng ngày làm cho mối quan_hệ đi vào " chiến_tranh_lạnh " . 
+</s>
+<s id=340>
+Hãy cùng nhau tạo ra những ký_ức cho mối quan_hệ của cả 2 . 
+</s>
+<s id=341>
+Cùng nhau tận_hưởng chương_trình TV vào buổi chiều , hay cùng nhau thưởng_thức một buổi tối lãng_mạn vào buổi tối là một ý_kiến không tồi . 
+</s>
+<s id=342>
+Hãy cố_gắng tạo bất_ngờ cho " nửa kia " . 
+</s>
+<s id=343>
+Không cần điều gì quá to_tát , đôi_khi chỉ cần những điều nhỏ_nhặt lại có_thể đi_sâu vào ký_ức của " đối_tác " . 
+</s>
+<s id=344>
+Tình_yêu không mất đi , (S-CNC người trong cuộc không có “ đối_tượng mới ” nhưng tình_cảm dành cho nhau không còn dạt_dào như trước . 
+</s>
+<s id=345>
+Vì_vậy hãy áp_dụng ngay cách làm cho tình_yêu không bị nhàm_chán để tình_yêu của bạn luôn được thăng_hoa . 
+</s>
+<s id=346>
+Bí_mật đàn_ông không muốn cho ai biết 
+</s>
+<s id=347>
+Đừng tưởng đàn_ông đơn_giản mà không bí_ẩn , họ cũng có rất nhiều điều thầm_kín mà phụ_nữ không hề hay_biết . 
+</s>
+<s id=348>
+Nếu bạn hiếu_kì muốn biết đó là gì thì đáp_án là đây . 
+</s>
+<s id=349> 
+Nếu nói về sự bí_ẩn thì người_ta sẽ ngay_lập_tức nghĩ đến phụ_nữ , bởi so ra thì đàn_ông vẫn có phần đơn_giản và dễ hiểu hơn . 
+</s>
+<s id=350>
+Nhưng sự_thật thì nam_giới vẫn có nhiều thứ muốn che_giấu người phụ_nữ của mình ( mặc_dù không thành_công ) . 
+</s>
+<s id=351>
+Đàn_ông thường cố che_giấu một_số điều nhất_định trong cuộc_sống hoặc những phẩm_chất , thói_quen thông_thường bởi họ lo_lắng phụ_nữ có_thể nhìn_nhận và đánh_giá những điều này bằng một góc_độ khác gây “ bất_lợi ” cho họ . 
+</s>
+<s id=352>
+Dù_cho có là người đàn_ông thành_đạt và giỏi_giang đến mấy , cũng có lúc đàn_ông phạm sai_lầm trong cách chi_tiêu , xử_lí tài_chính . 
+</s>
+<s id=353>
+Và họ rất sợ việc này bại_lộ sẽ khiến vợ thất_vọng về bản_thân , nhìn_nhận họ như một kẻ ngốc vậy . 
+</s>
+<s id=354>
+Do_đó , đàn_ông thường che_giấu các vấn_đề liên_quan đến tài_chính , đơn_giản nhất là họ luôn nói thấp hơn mức thu_nhập của mình với vợ và giữ cho mình một khoản riêng để tiện chi_tiêu , sinh_hoạt . 
+</s>
+<s id=355>
+Ai cũng có lúc bị lùi lại phía sau và nằm ngoài bức tranh lớn . 
+</s>
+<s id=356>
+Khi mọi thứ tốt_đẹp , chúng_ta thấy mình tự_tin hẳn trước mọi người . 
+</s>
+<s id=357>
+Nhưng khi mọi thứ xảy ra không như_ý , bạn chán_nản nơi làm_việc , bạn ước mình có_thể mua nhà thay_vì đi thuê , có ôtô hơn là đi xe_máy hoặc đảm_nhận vị_trí khác trong công_ty ... 
+</s>
+<s id=358>
+Đôi_khi cảm_giác này khiến bạn thấy ngộp thở khi ai đó hỏi " dạo này cậu thế_nào " . 
+</s>
+<s id=359>
+Thừa_nhận rằng mình đang không có những thứ mình cần thật khó nhưng đó thường là bước đầu_tiên để cải_thiện bản_thân . 
+</s>
+<s id=360>
+Trong quá_khứ , người đàn_ông của bạn chắc_chắn đã trải qua không ít mối tình và có_lẽ cũng bị không ít phụ_nữ từ_chối . 
+</s>
+<s id=361>
+Nhưng anh ấy sẽ không bao_giờ kể điều này với bạn mà chỉ nói về “ thành_tích ” của mình như_thế_nào thôi . 
+</s>
+<s id=362>
+Sĩ_diện đàn_ông khiến anh ấy muốn mình trở_thành một người thật “ oai ” trong mắt người mình yêu chứ không phải kẻ thất_bại . 
+</s>
+<s id=363>
+“ Thật có lỗi với bản_thân nếu_như phụ_nữ đi ngang mà không ngắm nhìn ” – đàn_ông nghĩ như vậy . 
+</s>
+<s id=364>
+Do_đó , bạn đừng ghen_tuông chi cho mệt vì đó hầu_như là bản_năng của phái_mạnh rồi , họ lúc_nào cũng muốn chiêm_ngưỡng những cô gái đẹp đi ngang mà không hề nảy_sinh tình_cảm gì với những cô nàng đó đâu . 
+</s>
+<s id=365>
+Có nhiều lý_do đàn_ông cảm thấy cô_đơn . 
+</s>
+<s id=366>
+Có_thể là họ vừa chuyển tới một thành_phố mới , nơi không có bạn_bè . 
+</s>
+<s id=367>
+Có_thể họ còn độc_thân khi những người khác đã có đôi_lứa . 
+</s>
+<s id=368>
+Có_thể bạn đang trong một mối quan_hệ nhưng lại chẳng tìm được tiếng_nói chung . 
+</s>
+<s id=369>
+Dù_vậy , đàn_ông thường ngại đối_mặt với cảm_xúc này và càng không muốn thừa_nhận nó với người khác . 
+</s>
+<s id=370>
+Không giỏi chuyện chăn_gối là một nỗi đau mà đàn_ông không bao_giờ nói đến trong những cuộc chuyện với bạn_bè . 
+</s>
+<s id=371>
+Thay vào đó , họ thường vẽ ra những điều viển_vông về khả_năng của bản_thân để " lấy le " với cánh chiến_hữu nếu phải nói về chuyện này . 
+</s>
+<s id=372>
+(S-CNC Họ luôn khao_khát được hỗ_trợ về mặt tình_cảm và đời_sống nhưng không tiện mở_miệng nhờ giúp_đỡ . 
+</s>
+<s id=373>
+Nếu bạn tinh_ý thì hãy chủ_động đề_nghị được trợ_giúp chàng trong một_số việc , nhất_định anh ấy sẽ rất vui_mừng . 
+</s>
+<s id=374>
+Thế mới thấy , đàn_ông cũng có những bí_mật , những tâm_tư mà không phải phụ_nữ nào cũng hiểu thấu . 
+</s>
+<s id=375>
+Và để hiểu được những bí_mật thầm_kín ấy của chàng không phải đơn_giản , đôi_khi là cả một nghệ_thuật đấy ! 
+</s>
+<s id=376>
+Bé sơ_sinh nhiễm_trùng , vàng da được người_nhà đưa vào viện rồi bỏ mặc 
+</s>
+<s id=377>
+Sau khi đưa bé xuống bệnh_viện điều_trị sinh non , nhiễm_trùng và vàng da , người_nhà đã biến mất . 
+</s>
+<s id=378>
+Các bác_sĩ đã liên_lạc nhưng vẫn không được nên đành chăm_sóc bé tại bệnh_viện . 
+</s>
+<s id=379>
+Ngày 22/9 , bác_sĩ Đỗ Đức Thọ , Phó trưởng khoa Nhi ( BV Đa_khoa Hà Đông ) cho biết , BV đang điều_trị cho bệnh_nhi sơ_sinh bị bỏ_rơi . 
+</s>
+<s id=380>
+Ngoài_ra , bệnh_nhi còn bị nhiễm_trùng , vàng da do sinh non . 
+</s>
+<s id=381>
+Hiện_tại , bệnh_nhi đang được các y_bác_sĩ BV thay nhau chăm_sóc . 
+</s>
+<s id=382>
+Bé sơ_sinh bị bỏ_rơi đang được chăm_sóc tại BV 
+</s>
+<s id=383>
+Trước đó , bệnh_nhi được chuyển từ BV Đa_khoa Chương Mỹ trong tình_trạng tím môi , đầu chi , thở rên , sùi bọt cua . 
+</s>
+<s id=384>
+Tại đây , các bác_sĩ chẩn_đoán bệnh_nhi bị suy hô_hấp , sinh non , vàng da . 
+</s>
+<s id=385>
+BV đã tiến_hành ủ ấm , hút thông đường thở , thở oxy qua sonde và truyền dịch nuôi tĩnh_mạch . 
+</s>
+<s id=386>
+Sau khi được điều_trị , bệnh_nhi đã tỉnh_táo , môi hồng , không dị_tật . 
+</s>
+<s id=387>
+Theo hồ_sơ bệnh_án , ngày 13/9 , người_nhà đưa bệnh_nhi đến BV đa_khoa Chương Mỹ điều_trị . 
+</s>
+<s id=388>
+Trong hồ_sơ , người_nhà bệnh_nhi khai ở bản Phiêng Pen ( xã Mường Lạn , huyện Sốp Cộp , Sơn La ) . 
+</s>
+<s id=389>
+Tuy_nhiên , sau khi đưa bé xuống BV , người_nhà đã biến mất . 
+</s>
+<s id=390>
+Do bệnh_nhân dấu_hiệu nặng nên đã được chuyển đến BV Đa_khoa Hà Đông . 
+</s>
+<s id=391>
+Các bác_sĩ đang chăm_sóc cho bệnh_nhi 
+</s>
+<s id=392>
+Theo bác_sĩ , hiện_tại , các bác_sĩ khoa Nhi chăm_sóc và cho bé ăn_uống . 
+</s>
+<s id=393>
+BV đã liên_lạc với số điện_thoại của người_nhà bé nhưng không được . 
+</s>
+<s id=394>
+Vì_vậy , khi sức_khoẻ bệnh_nhi đã ổn_định , nhưng (S-CND BV không liên_lạc được với người_nhà thì sẽ làm thủ_tục bàn_giao bệnh_nhi cho các cơ_sở tiếp_nhận trẻ bị bỏ_rơi của Sở LĐTB & XH . 
+</s>
+<s id=395>
+Chuyên_gia khuyến_cáo bạn không nên ăn hoa_quả sấy khô vì lý_do này ! 
+</s>
+<s id=396>
+Hoa_quả sấy khô là món khoái_khẩu của nhiều người , tuy_nhiên món ăn này lại hoàn_toàn không tốt cho sức_khoẻ . 
+</s>
+<s id=397>
+Chia_sẻ Hoa quả sấy khô là món khoái_khẩu của nhiều người , tuy_nhiên món ăn này lại hoàn_toàn không tốt cho sức_khoẻ . 
+</s>
+<s id=398>
+Hoa_quả sấy khô được biết đến là món ăn vặt được rất nhiều người yêu thích , đặc_biệt là phái nữ . 
+</s>
+<s id=399>
+Các trái_cây như mít , mơ , mận , nho , cà_rốt .. sau khi được loại_bỏ nước thì tập_trung nhiều chất xơ và giàu dinh_dưỡng . 
+</s>
+<s id=400>
+Đây cũng là nguồn thực_phẩm giàu chất oxy_hoá và vitamin B-folate . 
+</s>
+<s id=401>
+Tuy_nhiên , về mặt_trái của những hoa_quả này , tờ Dân trí dẫn nguồn tin từ trang CNN phân_tích , hoa_quả sấy khô có_thể là một bữa ăn nhẹ giàu dinh_dưỡng , tiện_lợi đặc_biệt là khi trộn với các loại hạt . 
+</s>
+<s id=402>
+Tuy_nhiên , các loại đường tự_nhiên trong hoa_quả khô có hàm_lượng cao . 
+</s>
+<s id=403>
+Điều này có_thể không gây ra mối lo_ngại cho người dân nói_chung và thậm_chí có_thể hữu_ích cho các vận_động_viên những người cần nạp nhanh nhiên_liệu . 
+</s>
+<s id=404>
+Chia_sẻ về mối nguy_hại của hoa_quả sấy khô trên tờ Zing.vn , PGS.TS Nguyễn Thị Lâm – Phó Viện_trưởng Viện Dinh_dưỡng quốc_gia cho biết , về bản_chất , hoa_quả sấy vẫn cung_cấp năng_lượng , chất bột đường . 
+</s>
+<s id=405>
+Năng_lượng nhiều sẽ không tốt cho các đối_tượng thừa cân , béo phì , đái_tháo đường . 
+</s>
+<s id=406>
+Điều này càng nguy_hiểm khi trái_cây sấy có khối_lượng nhẹ trong khi năng_lượng vẫn nhiều khiến người ăn khó kiểm_soát lượng nạp vào dạ_dày . 
+</s>
+<s id=407>
+Tuy_nhiên , nhiều quảng_cáo hiện_nay lại lan_truyền về tác_dụng tốt cho tim_mạch cũng như giảm béo của món ăn vặt này . 
+</s>
+<s id=408>
+PGS Lâm khẳng_định , điều này hoàn_toàn mâu_thuẫn . 
+</s>
+<s id=409>
+“ Nếu nói về tác_dụng giảm béo và tốt cho hệ tim_mạch của trái_cây sấy có_thể chỉ đúng một phần ở khía_cạnh cung_cấp chất xơ . 
+</s>
+<s id=410>
+Nhưng kèm theo lượng chất xơ đó là chất đường bột . 
+</s>
+<s id=411>
+Chẳng_hạn một quả chuối_tiêu bình_thường 100 g sẽ cung_cấp 100 kcal , tương_đương 30 phút đi bộ mới có_thể tiêu_hao chừng ấy năng_lượng , song khi ăn bạn dễ_dàng ăn một lúc hết vài quả chuối khô , chưa kể việc chúng được tẩm thêm đường . 
+</s>
+<s id=412>
+Do_đó , trái_cây sấy thực_sự rất nhiều năng_lượng . 
+</s>
+<s id=413>
+Ăn không cẩn_thận có_thể gây thừa cân , béo phì . 
+</s>
+<s id=414>
+Khi đó , cơ_thể lại phát_sinh bệnh tim_mạch ” , PGS Lâm phân_tích . 
+</s>
+<s id=415>
+PGS Lâm cho biết thêm , khi sấy khô , các loại vitamin như vitamin C , vitamin B1 , B2 có trong trái_cây gần như biến mất hoàn_toàn . 
+</s>
+<s id=416>
+Cách làm_quen bạn trai khiến đối_phương dễ xiêu_lòng nhất ! 
+</s>
+<s id=417>
+Đôi_khi việc " tia " thấy một anh_chàng siêu dễ_thương và việc mở lời bắt_chuyện là một khoảng_cách xa không_tưởng . 
+</s>
+<s id=418>
+Sao bạn không thử một_vài cách làm_quen bạn trai dưới đây . 
+</s>
+<s id=419>
+Khi bạn rơi vào lưới tình với một chàng trai hoặc chỉ đơn_giản là thích anh ấy , điều quan_trọng là cư_xử đúng để thu_hút sự chú_ý của anh ta . 
+</s>
+<s id=420>
+Cùng tham_khảo ngay 6 cách làm_quen bạn trai hiệu_quả khiến chàng đổ gục ngay trước bạn . 
+</s>
+<s id=421>
+Giao_tiếp bằng mắt là cách hiệu_quả nhất để thể_hiện sự quan_tâm của bạn với một anh_chàng . 
+</s>
+<s id=422>
+Nếu bạn thích anh ấy , bạn nên để cho anh ta biết tình_cảm đó bằng cách nhìn trực_tiếp vào mắt anh ta . 
+</s>
+<s id=423>
+Đôi mắt có_thể nói với người khác hơn cả lời_nói . 
+</s>
+<s id=424>
+Nghe có_vẻ khó tin , nhưng đàn_ông thường dè_dặt trong bước đầu_tiên . 
+</s>
+<s id=425>
+Hơn_nữa , ánh mắt vừa bộc_lộ tình_cảm , vừa có_thể khơi dậy cảm_xúc yêu_thương . 
+</s>
+<s id=426>
+Trong các thí_nghiệm vào cuối thập_niên 80 thế_kỷ trước , các học_giả đã tiến_hành nghiên_cứu tác_động của ánh mắt . 
+</s>
+<s id=427>
+Trong thí_nghiệm đó , một người đàn_ông và một người phụ_nữ phải nhìn vào mắt nhau một khoảng thời_gian . 
+</s>
+<s id=428>
+Kết_quả là , 1-2 phút là đủ để họ rơi vào tình_yêu . 
+</s>
+<s id=429>
+Một_cách cổ_điển và hiệu_quả của việc sử_dụng giao_tiếp bằng mắt là nhìn về phía anh ta vài lần . 
+</s>
+<s id=430>
+Khi bạn đang nói_chuyện với ai đó , hãy vô_tình nhìn thẳng vào mắt anh ta trong một giây như_thể tình_cờ . 
+</s>
+<s id=431>
+Lặp lại nó vài lần , và bạn sẽ thấy anh ta chú_ý đến bạn như_thế_nào . 
+</s>
+<s id=432>
+Là một người biết lắng_nghe là cách tuyệt_vời giúp bạn thu_hút các chàng trai . 
+</s>
+<s id=433>
+Bạn cần phải lắng_nghe anh ta thật chăm_chú . 
+</s>
+<s id=434>
+Tuy_nhiên , đừng như_thể bạn đang nuốt từng lời anh ta nói . 
+</s>
+<s id=435>
+Bạn chỉ cần chú_ý đến những chi_tiết nhỏ và tỏ_vẻ quan_tâm đến nó , sớm_muộn gì chàng cũng sẽ tò_mò về bạn . 
+</s>
+<s id=436>
+Nếu trong một_vài tháng sau lần nói_chuyện đó , khi gặp lại mà bạn vẫn có_thể nhớ được một_số chi_tiết , chàng sẽ vô_cùng ấn_tượng bởi sự quan_tâm của bạn dành cho anh ta . 
+</s>
+<s id=437>
+Để nhấn_mạnh mối quan_tâm của bạn về vấn_đề mà anh ta đang nói , bạn có_thể yêu_cầu anh ta một_số câu hỏi , nhưng không được tranh_cãi với anh ta vì nó sẽ chỉ khiến anh ta tránh xa bạn . 
+</s>
+<s id=438>
+Sử_dụng ngôn_ngữ cơ_thể để xác_nhận rằng bạn hiểu anh ta đang nói gì . 
+</s>
+<s id=439>
+Gật đầu khi bạn đồng_ý , và lắc_đầu khi bạn thông_cảm . 
+</s>
+<s id=440>
+Khoảng_cách giữa bạn và anh ta cũng rất quan_trọng : Khoảng_cách quá gần là khá tích_cực , và quá xa nghĩa là bạn không quan_tâm . 
+</s>
+<s id=441>
+Khi nghe lời anh ta nói , cố_gắng hướng cơ_thể của bạn một_chút về phía trước . 
+</s>
+<s id=442>
+Nó thường có nghĩa bạn là một đối_tác , là một người biết lắng_nghe và sẵn_sàng quan_tâm . 
+</s>
+<s id=443>
+Cuối_cùng , hãy nhớ tất_cả những gì anh ta đã nói , nếu không tất_cả công_sức của bạn sẽ thành công_cốc . 
+</s>
+<s id=444>
+Ban_đầu tiếp_xúc với đối_phương , khoan có thái_độ muốn làm_quen mà phải tạo nên cá_tính cho chính mình để có_thể gây ấn_tượng thú_vị với họ , lặp đi lặp lại điều bạn muốn thể_hiện và tỏ ra có_vẻ hơi bí_ẩn khiến đối_phương có cảm_giác tò_mò . 
+</s>
+<s id=445>
+Sau đó mới tiếp_cận từ_từ để làm_quen . 
+</s>
+<s id=446>
+Cách này tuy hơi nguy_hiểm và độ thất_bại khá cao nhưng nếu đã có_thể gây ấn_tượng thì mọi chuyện sau_này tiếp_diễn cũng nhanh_chóng hơn . 
+</s>
+<s id=447>
+Càng tự_tin , bạn càng ít biểu_lộ sự tự_tin đó . 
+</s>
+<s id=448>
+Bạn thường hay khen người khác , nhưng không có nhu_cầu được khen lại . 
+</s>
+<s id=449>
+Bạn lan_toả sự tự_tin sang cho những người nói_chuyện bằng những lời khen , những câu khích_lệ . 
+</s>
+<s id=450>
+Và bạn thực_sự thể_hiện bản_lĩnh khi gặp phải những trường_hợp đứng trước đám đông hay những thử_thách . 
+</s>
+<s id=451>
+Bạn chẳng bao_giờ e_ngại từ_chối khi được mời đứng lên hát mặc_dù giọng cũng chẳng hay_ho cho lắm . 
+</s>
+<s id=452>
+Bạn cũng không ngại khi phải làm vật thí_nghiệm cho một trò_chơi tập_thể , chỉ cần việc đó làm mọi người xung_quanh vui , thế_là đủ . 
+</s>
+<s id=453>
+Không có chàng trai nào thích nhìn các cô gái có nét mặt lúc_nào cũng ủ_rủ , cau_có , nhăn_nhó cả . 
+</s>
+<s id=454>
+Các chàng trai rất thích , và luôn ấn_tượng với các cô gái hay cười , đặc_biệt là các cô gái có nụ cười đẹp . 
+</s>
+<s id=455>
+Nếu bạn khá tự_tin vào nụ cười của mình , thì hãy tìm cách để nụ cười của bạn làm_việc hết công_suất đi nhé . 
+</s>
+<s id=456>
+Bạn cảm thấy thoải_mái với cách cười mỉm , hay cười rạng_rỡ khoe hàm_răng trắng xinh của mình , vậy_thì bạn hãy cho chàng biết bạn còn có khá nhiều kiểu cười để khoe nữa , nếu chàng muốn khám_phá thêm những nụ cười đó , thì buộc chàng phải đến làm_quen với bạn . 
+</s>
+<s id=457>
+Khi đã quyết_định chọn cách để làm_quen với chàng , đừng để cho mặt mình bị cứng đơ với kiểu cười nào đó . 
+</s>
+<s id=458>
+Khác với thái_độ có phần bất_cần và xa_lạ khi tạo cảm_giác tò_mò ở trên , cách làm_quen này đòi_hỏi người muốn tiếp_cận phải chu_đáo và quan_tâm đến đối_phương nhiều hơn . 
+</s>
+<s id=459>
+Vì_vậy , cách này áp_dụng để làm các chàng trai xiêu_lòng lại rất hiệu_quả . 
+</s>
+<s id=460>
+Khi thấy mình được hỏi_han , quan_tâm dù chỉ là những điều nhỏ_nhặt cũng khiến các chàng trai cảm thấy sung_sướng và có cảm_tình với cô gái đó . 
+</s>
+<s id=461>
+Nó có_thể đơn_giản như thấy anh_chàng than bệnh_tật gì đó thì hỏi_thăm vài câu kèm theo một_vài lời khuyên dễ_thương để khỏi bệnh , hoặc biết hắn ta thích thể_loại nhạc nào đó thì khi có bài nhạc thuộc thể_loại đó gửi cho hắn ta nghe . 
+</s>
+<s id=462>
+Con trai không_chỉ đánh_giá cao sự quan_tâm vô_điều_kiện của con gái mà_còn tôn_trọng con gái vì những gì con gái đã làm . 
+</s>
+<s id=463>
+Hi_vọng với những lời khuyên trên sẽ giúp bạn có được thêm nhiều niềm vui trong mối quan_hệ của hai người , cũng như là tìm được cách làm_quen bạn trai mà mình thích . 
+</s>
+<s id=464>
+Tại_sao đàn_ông trung_niên nên chơi thể_thao ? 
+</s>
+<s id=465>
+Chơi thể_thao thường_xuyên ở tuổi trung_niên , khoảng 40-60 tuổi có ý_nghĩa đặc_biệt với nam_giới . 
+</s>
+<s id=466>
+Việc này sẽ giúp họ có thân_hình gọn_gàng , thể_chất khoẻ_mạnh hơn nhiều khi về già so với người không tập_luyện . 
+</s>
+<s id=467>
+Tập thể_thao thường_xuyên ở tuổi trung_niên giúp nam_giới sở_hữu thân_hình gọn_gàng và thể_chất khoẻ_mạnh khi bước vào những năm 70-80 tuổi . 
+</s>
+<s id=468>
+Đó là kết_quả nghiên_cứu của các chuyên_gia tại Đại_học Cao_đẳng London ( UCL - Anh ) . 
+</s>
+<s id=469>
+Cụ_thể , những người đàn_ông chơi thể_thao ở tuổi trung_niên sẽ có thân_hình gọn_gàng và thể_chất khoẻ_mạnh hơn khi bước vào những năm 70-80 tuổi , theo Daily Mail . 
+</s>
+<s id=470>
+Ngoài_ra , tỉ_lệ sở_hữu thân_hình gọn và sức_khoẻ tốt của họ cao gấp 5 lần so với những người lười_biếng vận_động khi ở trung_niên . 
+</s>
+<s id=471>
+Các nhà khoa_học cho biết những phát_hiện mới này chỉ ra nhiều lợi_ích rõ_ràng cho nam_giới nếu họ chịu tập_luyện thường_xuyên khi ở tuổi trung_niên . 
+</s>
+<s id=472>
+“ Chơi thể_thao và tập_luyện thể_chất ngay từ sớm có vai_trò rất quan_trọng giúp phát_triển những kỹ_năng vận_động cần_thiết cũng như tạo được thói_quen tập_luyện suốt đời ” , nhà khoa_học Daniel Aggio , tác_giả chính của nghiên_cứu , nói với Daily Mail . 
+</s>
+<s id=473>
+Trong nghiên_cứu , các nhà khoa_học đã theo_dõi 3.500 người đàn_ông ở Anh trong suốt 20 năm . 
+</s>
+<s id=474>
+Khi nghiên_cứu mới bắt_đầu , mỗi người họ đều trong độ tuổi từ 40-59 . 
+</s>
+<s id=475>
+Họ phải trả_lời một loạt các câu hỏi về lối sống , cường_độ và loại_hình vận_động thể_chất họ có tham_gia . 
+</s>
+<s id=476>
+Các loại_hình đó gồm đi bộ , chơi thể_thao hoặc làm_vườn ... 
+</s>
+<s id=477>
+Kết_quả cho thấy những người duy_trì thói_quen tập_luyện , vận_động lành_mạnh trong 25 năm sẽ có khả_năng duy_trì sức_khoẻ và mức_độ vận_động linh_hoạt của cơ_thể cao gấp 5 lần người không tập_luyện gì khi ở tuổi trung_niên . 
+</s>
+<s id=478>
+Nghiên_cứu được công_bố trên tạp_chí y_khoa BMJ Open của Anh . 
+</s>
+<s id=479>
+Các nhà khoa_học cũng lưu_ý các kết_quả nghiên_cứu đúng với nam_giới nhưng có_thể là không đúng với nữ_giới . 
+</s>
+<s id=480>
+Trong khi đó , Cơ_quan Y_tế quốc_gia Anh ( NHS ) khuyến_cáo mọi người nên tập thể_thao 150 phút / tuần , tức hơn 20 phút / ngày . 
+</s>
+<s id=481>
+Cách làm sạch bàn_là hiệu_quả dễ đến không ngờ 
+</s>
+<s id=482>
+Bạn đang sử_dụng bàn_là đã lâu mà chưa vệ_sinh nó . 
+</s>
+<s id=483>
+Hãy đọc qua một_số cách làm sạch bàn_là của Phununews dưới đây . 
+</s>
+<s id=484>
+Chỉ một_chút lưu_ý là bạn có_thể tiết_kiệm công_sức và tránh làm hỏng bàn_ủi rồi . 
+</s>
+<s id=485>
+Bàn_là ( bàn_ủi ) là một trong những vật_dụng cần_thiết trong gia_đình . 
+</s>
+<s id=486>
+Sau một thời_gian sử_dụng , bề_mặt của bàn_là sẽ bị bám bẩn bởi bụi tự_nhiên hay các chất_cháy từ quần_áo , nếu không làm sạch các vết bẩn này , khi bàn_là nóng lên sẽ làm bám các vết bẩn trở_lại áo_quần . 
+</s>
+<s id=487>
+Tuy_nhiên , áp_dụng cách làm sạch bàn_là cũng phải đúng cách nếu không muốn làm hỏng bàn_là . 
+</s>
+<s id=488> 
+Đặt một tờ khăn giấy hay khăn coton cũ lên mặt bàn dùng ủi quần_áo . 
+</s>
+<s id=489>
+Rắc một muỗng canh muối lên khăn , nên dùng muối thô , ví_dụ như muối biển , vì hạt muối càng to càng làm sạch mặt bàn_ủi nhanh hơn . 
+</s>
+<s id=490>
+Cắm điện bàn_ủi , chỉnh nhiệt_độ cao nhất , tắt chế_độ phun hơi_nước . 
+</s>
+<s id=491>
+Ấn nhẹ mặt đế lên lớp muối , di_chuyển 1 , 2 lần , cặn bẩn sẽ bám vào muối và mặt đế bàn_ủi sẽ sạch_bong . 
+</s>
+<s id=492>
+Dấm ăn là một loại gia_vị dùng cho việc tẩy_rửa các vết bám bẩn trong nhà_bếp rất hiệu_quả . 
+</s>
+<s id=493>
+Để tẩy sạch vết cháy khét trên bàn_ủi thì ta sẽ dùng hỗn_hợp đặt_biệt giữa dấm ăn + muối để tẩy sạch . 
+</s>
+<s id=494>
+Cách làm như sau : Bỏ dấm ăn vào một cái nồi nhỏ bắt lên bếp . 
+</s>
+<s id=495>
+Sau đó bỏ thêm một lượng muối vào sao_cho bằng 1/2 lượng dấm là được . 
+</s>
+<s id=496>
+Khuấy đều hỗn_hợp cho muối tan hết trong dấm rồi tắt bếp . 
+</s>
+<s id=497>
+Đến khi nào hỗn_hợp chỉ còn nóng vừa_phải thì bạn lấy tấm mút rửa chén thấm dung_dịch dấm vào và bắt_đầu chà bề_mặt có vết cháy khét trên bàn_ủi . 
+</s>
+<s id=498>
+Sau đó bạn dùng khăn sạch lau lại là sử_dụng được . 
+</s>
+<s id=499>
+Lưu_ý không nên dùng các loại bàn_chải hoặc miếng chùi nồi sắt nhọn để chà vào bề_mặt của bàn_ủi , điều đó sẽ làm cho bề_mặt bàn_ủi bị trầy_xước khi ủi sẽ làm rách đồ của bạn . 
+</s>
+<s id=500>
+Dùng sáp nến là cách đơn_giản nhất để loại_bỏ vết cháy khét trên bề_mặt bàn_ủi của bạn . 
+</s>
+<s id=501>
+Mua một cây nến loại nào cũng được , bật bàn_ủi tại mức nhiệt_độ trung_bình , chà lên chỗ vết cháy khét trên bàn_ủi . 
+</s>
+<s id=502>
+Lúc này sáp nến chảy ra sẽ cuốn theo các vết đen và vết bẩn trên bề_mặt ủi của bàn_ủi bạn khiến chúng đẹp như mới . 
+</s>
+<s id=503>
+Lưu_ý nên lót một lớp giấy_báo ở dưới để sáp nến không rơi_vãi ra nhà khiến bạn phải mắc_công dọn_dẹp . 
+</s>
+<s id=504>
+- Rút điện bàn_ủi và đổ hết nước thừa ra ngoài . 
+</s>
+<s id=505>
+Chỉnh nhiệt_độ đến chế_độ ủi cho vải cotton . 
+</s>
+<s id=506>
+- Trải một tấm khăn dày lên bàn và đổ một lượng thuốc_tẩy vừa đủ ra khăn , nên đọc kỹ hướng_dẫn vì có loại thuốc_tẩy có_thể cho trực_tiếp lên mặt bàn_ủi , có loại phải cho lên khăn trước . 
+</s>
+<s id=507>
+- Ấn bàn_ủi lên mảnh khăn có thuốc_tẩy , ủi theo vòng_tròn để thuốc_tẩy phủ đều lên mặt đế ủi . 
+</s>
+<s id=508>
+Ủi xong rút điện chờ bàn_ủi nguội và kiểm_tra xem thuốc_tẩy đã làm sạch hết bụi bẩn chưa . 
+</s>
+<s id=509>
+Hoà một lượng vừa đủ nước rửa chén vào nước ấm để tạo bọt , nhúng một mảnh khăn cũ vào nước và chùi kĩ mặt đế bàn_ủi . 
+</s>
+<s id=510>
+Có_thể sử_dụng dung_dịch nước rửa chén này để chùi sơ vỏ ngoài của bàn_ủi . 
+</s>
+<s id=511>
+Làm xong , lau lại bằng nước_sạch hoặc dấm , chờ bàn_ủi khô hẳn rồi mới sử_dụng . 
+</s>
+<s id=512>
+Kem đánh răng cũng mang lại hiệu_quả làm sạch tương_tự bột baking soda và nước oxy_già . 
+</s>
+<s id=513>
+Thậm_chí , mùi hương thơm mát của kem đánh răng còn lưu lại trên bề_mặt rất dễ_chịu . 
+</s>
+<s id=514>
+- Đầu_tiên , bóp một lượng kem đánh răng vừa_phải lên bề_mặt bàn_là cần làm sạch , dùng khăn hoặc miếng bọt_biển đánh bông . 
+</s>
+<s id=515>
+- Nhẹ_nhàng cọ đến khi loại_bỏ hết các vết nhám , vết bẩn hoặc gỉ sét bám trên bề_mặt bàn_là . 
+</s>
+<s id=516>
+Cuối_cùng , lau lại bằng khăn ẩm nhiều lần cho đến khi sạch hoàn_toàn . 
+</s>
+<s id=517>
+Ngoài_ra , để tránh trường_hợp kem đánh răng vô_tình bịt kín các lỗ phun hơi và không_thể hoà_tan , bạn cũng có_thể bóp kem đánh răng ra bát và dùng thìa đánh bông cùng với một_chút nước rồi bôi lên bề_mặt bàn_là . 
+</s>
+<s id=518>
+Bộ đôi bột baking soda và nước oxy_già là phương_pháp được rất nhiều chị_em nội_trợ tin_dùng vì khả_năng làm sạch tuyệt_vời của nó không_chỉ với bàn_là mà_còn rất nhiều đồ_dùng khác trong nhà . 
+</s>
+<s id=519>
+Tuy_nhiên , phương_pháp này có một nhược_điểm nhỏ đó là bột baking soda có_thể dính vào các lỗ phun hơi của bàn_là hơi_nước ( nếu có ) . 
+</s>
+<s id=520>
+Lúc này , bạn sẽ cần một_chút thời_gian và kiên_nhẫn để làm sạch nó . 
+</s>
+<s id=521>
+Cho 1 - 2 thìa con bột baking soda vào bát nhỏ , trộn đều với nước oxy_già đến khi hỗn_hợp sánh lại . 
+</s>
+<s id=522>
+Bôi hỗn_hợp vừa trộn lên khắp bề_mặt bàn_là cần làm sạch , để yên trong 5 - 10 phút . 
+</s>
+<s id=523>
+Tiếp_theo , dùng khăn mềm hoặc miếng bọt_biển cọ khắp bề_mặt thật nhẹ_nhàng rồi lau sạch hỗn_hợp . 
+</s>
+<s id=524>
+Cuối_cùng , phun hoặc nhúng bề_mặt bàn_là vào nước oxy_già để loại_bỏ bột baking soda trong các lỗ phun hơi ( nếu có ) . 
+</s>
+<s id=525>
+Vậy_là bạn đã có trong tay 7 cách làm sạch bàn_là quần_áo rồi . 
+</s>
+<s id=526>
+Nhìn cảnh ' bợm nhậu ' nằm la_liệt trên đường , ai còn dám nghĩ Nhật Bản là quốc_gia đáng sống ? 
+</s>
+<s id=527>
+Làm ngày làm đêm là thế , nhưng cứ đến chiều thứ 6 là những " chú ong chăm_chỉ " của Nhật Bản lại đổ về các con phố nhỏ để tiệc_tùng với đồng_nghiệp mà quên cả đường về nhà . 
+</s>
+<s id=528>
+Nổi_tiếng là quốc_gia có tỷ_lệ phạm_tội thấp nhất cũng như tuổi_thọ trung_bình cao nhất thế_giới , nên không ai tin những con_người chăm_chỉ và đầy tính kỷ_luật lại có_thể lập nên thành_tích nhậu cho Nhật Bản khi họ không_thể từ_chối trước cám_dỗ của những buổi tiệc cuối tuần . 
+</s>
+<s id=529>
+Được biết , cứ vào thứ sáu hàng tuần , những con phố ở thủ_đô Tokyo của Nhật lại được lấp kín bởi giới nhân_viên văn_phòng . 
+</s>
+<s id=530>
+Thay_vì về nhà ăn một bữa cơm ấm nóng cùng gia_đình , thì những chú ong chăm_chỉ này lại như vỡ tổ để hoà vào đám đông trên đường . 
+</s>
+<s id=531>
+Uống rượu trở_thành một nét văn_hoá của giới nhân_viên văn_phòng Nhật Bản , có người còn được gọi bằng cái tên là " salary man " khi không_thể khước_từ lời mời rượu từ sếp của mình , hơn_nữa rất ít người thoát khỏi những bữa tiệc này khi công_ty của họ luôn có các khoản hỗ_trợ cho nhân_viên đi uống rượu . 
+</s>
+<s id=532>
+Đang trên đường về nhà mà mệt quá mấy men . 
+</s>
+<s id=533>
+Nhưng điều khiến nhiều người ngạc_nhiên nhất với văn_hoá " uống vào chiều thứ 6 " của người Nhật lại là hình_ảnh bạ đâu ngủ đó của họ . 
+</s>
+<s id=534>
+Một nhiếp_ảnh_gia nổi_tiếng đã kịp ghi lại những khoảng_khắc có_một_không_hai mà ít có ai nghĩ tới này . 
+</s>
+<s id=535>
+Đường đi là của anh , thích là anh nằm à . 
+</s>
+<s id=536>
+Tại_sao phải về nhà khi chỗ nào ngoài đường cũng là giường để ngủ ? 
+</s>
+<s id=537>
+Anh ngủ say thôi mà sao cũng không để anh yên vậy ? 
+</s>
+<s id=538>
+Thấy khách ngủ nên chủ cũng ngủ theo luôn . 
+</s>
+<s id=539>
+Tìm vợ cả đêm giờ mới thấy , về nhà đi em ơi . 
+</s>
+<s id=540>
+Ngủ là phải tranh_thủ kể_cả nó là ở nhà giữ xe . 
+</s>
+<s id=541>
+Không ai ra vào nữa nên anh mượn tạm cái cửa để đánh một giấc nha . 
+</s>
+<s id=542>
+Nhật Bản - bước chân đến đâu là tiện_nghi đến đó 
+</s>
+<s id=543>
+Hút thuốc_lá nhập lậu có_thể gây vô_sinh cho nam_giới 
+</s>
+<s id=544>
+Phụ_nữ mang thai khi hít phải khói thuốc_lá có chứa hàm_lượng chất cấm coumarin lâu_dài dễ gây sảy thai , thai chết lưu hoặc bóc nhau thai gây sốt huyết ... và chất này còn có_thể gây vô_sinh ở nam_giới . 
+</s>
+<s id=545>
+Chất coumarin này được phát_hiện có nhiều trong thuốc_lá nhập lậu . 
+</s>
+<s id=546>
+Theo nhiều nghiên_cứu gần đây cho thấy , tỷ_lệ tử_vong thai_nhi ở Việt Nam có xu_hướng ngày_càng gia_tăng do nhiều nguyên_nhân khác nhau . 
+</s>
+<s id=547>
+Trong đó , không_thể không kể đến nguyên_nhân xuất_phát từ các chất hoá_học đã tác_động không nhỏ đến sức_khoẻ của bà mẹ khi mang thai . 
+</s>
+<s id=548>
+Tại hội_thảo chuyên_đề " Tác_hại nghiêm_trọng của chất coumarin trong thuốc_lá nhập lậu đối_với sức_khoẻ thai_phụ và thai_nhi " do Trung_tâm Hỗ_trợ phụ_nữ và Chăm_sóc sức_khoẻ sinh_sản - Hội liên_hiệp phụ_nữ Việt Nam tổ_chức chiều 22/9 , nhiều chuyên_gia cho rằng , chất coumarin có trong thuốc_lá nhập lậu có khả_năng trực_tiếp tác_động sâu đến những em bé đang còn trong giai_đoạn hình_thành trong bụng mẹ . 
+</s>
+<s id=549>
+Theo bác_sĩ sản_khoa Nguyễn Thị Tường Vân , có rất nhiều yếu_tố ảnh_hưởng đến sự phát_triển của thai_nhi như thiếu dinh_dưỡng , thuốc_lá , rượu_bia , môi_trường xung_quanh ... 
+</s>
+<s id=550>
+Tuy_nhiên theo nghiên_cứu , nếu thai_phụ mang thai ở ba tháng đầu_tiên tiếp_xúc với môi_trường độc_hại đặc_biệt bị nhiễm chất coumarin có nhiều trong thuốc_lá nhập lậu thì có_thể dẫn đến sảy thai hoặc dị_tật ở thai_nhi cũng như ảnh_hưởng đến sự hình_thành và phát_triển hệ thần_kinh ở trẻ , trẻ có_thể bị mù mắt , teo não , động_kinh , nhược cơ ( cơ yếu không cử_động được như bình_thường ) , chậm phát_triển tâm_thần ... 
+</s>
+<s id=551>
+Thai_nhi bị ảnh_hưởng nặng nhất ở giai_đoạn từ 6 - 9 tuần tuổi thai kỳ . 
+</s>
+<s id=552>
+Bác_sĩ Nguyễn Tường Vân cho biết thêm , phụ_nữ mang thai thường không biết mình bị nhiễm chất coumarin bởi các triệu_chứng khi nhiễm chất này cũng giống với các triệu_chứng bị nghén như không muốn ăn , mắc ói , nhức đầu dữ_dội ... 
+</s>
+<s id=553>
+Để không bị nhiễm chất này phụ_nữ mang thai nên tránh xa những môi_trường tiềm_ẩn nguy_cơ bị nhiễm . 
+</s>
+<s id=554>
+Chất coumarin là một trong những thành_phần của thuốc diệt chuột được nhiều nước trên thế_giới nghiêm_cấm sử_dụng trong thực_phẩm và thuốc_lá . 
+</s>
+<s id=555>
+Chất này cũng nằm trong loại hoá_chất không có trong danh_mục được phép sử_dụng của Bộ Y_tế . 
+</s>
+<s id=556>
+Chất này có một tác_hại nghiêm_trọng là chất_độc cho gan , thận , có_thể làm chảy_máu nếu cơ_thể hấp_thụ một lượng coumarin nhiều và gây vô_sinh ở nam_giới . 
+</s>
+<s id=557>
+Theo ông Nguyễn Đình Trường , Viện kinh_tế kỹ_thuật thuốc_lá Việt Nam , chất coumarin được người sản_xuất chủ_động đưa vào sợi thuốc_lá nhằm tạo ra cảm_giác đậm_đà hơn cho người hút . 
+</s>
+<s id=558>
+Qua phân_tích trên hai loại thuốc_lá nhập lậu phổ_biến nhất tại Việt Nam là thuốc JET và HERO cho thấy , chất coumarin độc_hại có trong thuốc JET nhập lậu là 76,3 ppm và thuốc HERO nhập lậu là hơn 98 ppm . 
+</s>
+<s id=559>
+Các chuyên_gia y_tế khuyến_cáo , để thai_nhi được phát_triển toàn_diện và loại_bỏ các hiện_tượng bất_thường có_thể xảy ra trong quá_trình hình_thành thai_nhi , người mẹ phải tránh khỏi những chất_độc hoá_học bên ngoài . 
+</s>
+<s id=560>
+Bên_cạnh đó , người mẹ có một sức_khoẻ tốt sẽ truyền những tế_bào khoẻ_mạnh của mình sang thai_nhi , giúp thai_nhi được bảo_vệ tuyệt_đối trong thời_gian được hình_thành . 
+</s>
+<s id=561>
+Cạn_lời trước muôn kiểu mọc ' éo_le ' của cây quả 
+</s>
+<s id=562>
+Có_lẽ cách duy_nhất để " phán_xử " loại quả mọc chui_rúc như vậy là ... đem dao ra bổ luôn tại vườn . 
+</s>
+<s id=563>
+Hình_như loại bí này có tên là “ thích – chui – rúc ” ! 
+</s>
+<s id=564>
+Giờ muốn đem vào nấu canh xương thì phải xử_lí thế_nào đây ? 
+</s>
+<s id=565>
+Sau bao ngày chờ_đợi thành_quả vun_trồng , cuối_cùng thì quả dưa_hấu đẹp_đẽ của một gia_chủ “ xấu_số ” lại thích chơi trốn tìm như thế_này đây . 
+</s>
+<s id=566>
+Giờ chỉ còn nước đem dao ra xử luôn tại vườn thôi ! 
+</s>
+<s id=567>
+Bao_nhiêu chỗ đẹp , chỗ thoáng mát không muốn mọc , lại thích chui vào đây nằm “ cong mông ” lên thế kia ? 
+</s>
+<s id=568>
+Lại thêm hai quả dưa_hấu khiến chủ_nhân đau_đầu : Nửa trong nửa ngoài , bổ lấy được nửa trong , còn nửa ngoài thì làm_sao ? 
+</s>
+<s id=569>
+Không thích mọc chui vào giữa những thanh hàng_rào , quả gấc này còn chui hẳn vào cửa_sổ nhà hàng_xóm . 
+</s>
+<s id=570>
+Thì_ra đây là tình_cảnh mà người_ta vẫn nói : “ Cây nhà quả … hàng_xóm ” . 
+</s>
+<s id=571>
+Nhìn hai quả mướp vừa to vừa ngon thế kia cũng thật khó xử ! 
+</s>
+<s id=572>
+Bỗng một sáng thức dậy và thấy buồng chuối nhà hàng_xóm sang “ định_cư ” ở hàng_rào nhà mình , bạn sẽ làm gì ? 
+</s>
+<s id=573>
+Một kiểu mọc buông_xuôi khiến gia_chủ bất_lực : quả càng to , dây lại càng dài , thu_hoạch sao đây ? 
+</s>
+<s id=574>
+Lén uống sữa mẹ của bé gái mới sinh , bảo_mẫu còn lớn_tiếng chê chủ nhà keo_kiệt 
+</s>
+<s id=575>
+Lén uống nốt phần sữa còn thừa của bé gái mới sinh nhưng khi bị phát_hiện , một nữ bảo_mẫu tại Trung Quốc còn lên_tiếng chê_trách chủ nhà keo_kiệt , bần_tiện . 
+</s>
+<s id=576>
+Sự_việc xảy ra vào ngày 12/9 vừa_qua tại nhà một bà mẹ trẻ 27 tuổi họ Lâm , hiện sống tại thành_phố Cao Hùng , Đài Loan , Trung Quốc . 
+</s>
+<s id=577>
+Câu_chuyện này đã được chính cô đăng_tải lên trang Facebook cá_nhân của mình . 
+</s>
+<s id=578>
+Được biết , sau khi sinh bé thứ 2 vào tháng 8 vừa_qua , cô Lâm đã cùng chồng quyết_định thuê một người bảo_mẫu về chăm_sóc đứa trẻ cho tới khi sức_khoẻ cô bình_phục trở_lại . 
+</s>
+<s id=579>
+Sau một thời_gian tìm_kiếm , gia_đình cô Lâm đã thuê được một người phụ_nữ 58 tuổi tới nhà . 
+</s>
+<s id=580>
+Hàng ngày , cô Lâm vẫn đều_đặn tự vắt sữa vào bình rồi cất vào tủ_lạnh . 
+</s>
+<s id=581>
+Mỗi lần người bảo_mẫu cho đứa bé uống sữa , cô đều cẩn_thận dặn rằng : “ Nếu bé không uống hết thì phải chuyển chỗ sữa còn lại cho cậu con_trai lớn mới 2 tuổi ” . 
+</s>
+<s id=582>
+Đến chiều ngày 12/9 , người bảo_mẫu lấy từ trong tủ_lạnh một bình sữa 450ml và cho bé gái ăn như thường_lệ . 
+</s>
+<s id=583>
+Một lúc sau , cô Lâm phát_hiện thấy bình sữa đó hoàn_toàn trống_rỗng . 
+</s>
+<s id=584>
+Vì nghĩ một đứa trẻ mới 1 tháng tuổi không_thể_nào dùng hết lượng sữa lớn như vậy nên người mẹ đã quyết_định tra_hỏi bảo_mẫu . 
+</s>
+<s id=585>
+Sau một hồi cố_gắng gặng hỏi , người phụ_nữ kia vẫn quả_quyết số sữa đó đã được đứa bé uống hết . 
+</s>
+<s id=586>
+Không_thể tin được điều đó , cô Lâm mới tiến_hành kiểm_tra những hình_ảnh được hệ_thống máy quay giám_sát đặt tại phòng khách ghi lại . 
+</s>
+<s id=587>
+Theo đoạn video , bé gái sơ_sinh đã chìm vào giấc_ngủ mà không hề uống hết lượng sữa có trong chiếc bình . 
+</s>
+<s id=588>
+Nhân cơ_hội đó , người bảo_mẫu liền nhìn thẳng vào nơi lắp_đặt máy quay rồi mang chỗ còn lại sang một căn phòng kín_đáo hơn . 
+</s>
+<s id=589>
+Trước hình_ảnh camera ghi lại , bà bảo_mẫu đã thừa_nhận uống hết chỗ sữa còn lại , thế_nhưng bà không hề xin_lỗi hoặc đưa ra lời giải_thích về hành_động của mình mà_lại quay ra oán_trách cô Lâm . 
+</s>
+<s id=590>
+" Dù thừa_nhận hành_vi của mình , song người bảo_mẫu này vẫn gân_cổ lên mắng tôi là đồ bần_tiện vì mọi chủ nhà khác đều cho bà ấy mang sữa thừa về uống " , cô Lâm bức_xúc kể lại . 
+</s>
+<s id=591>
+Giải_thích về hành_động của mình , người phụ_nữ 58 tuổi cho biết do bản_thân mắc chứng_bệnh thiếu máu – một rối_loạn máu phổ_biến do giảm hồng_cầu nên rất cần bổ_sung dinh_dưỡng từ việc uống sữa . 
+</s>
+<s id=592>
+Tuy_nhiên theo các chuyên_gia y_tế , các bệnh_nhân mắc phải bệnh thiếu máu không nên sử_dụng quá nhiều sản_phẩm từ sữa bởi lượng canxi cao sẽ khiến cơ_thể họ càng khó hấp_thu chất sắt hơn . 
+</s>
+<s id=593>
+Quá bức_xúc , cô Lâm đã trình_báo sự_việc này cho cơ_quan_chức_năng nhưng vì đây chỉ là vấn_đề nhỏ nên họ không đồng_ý giải_quyết . 
+</s>
+<s id=594>
+Theo Nhật Linh / Dịch từ Dailymail ( Khám_phá ) 
+</s>
+<s id=595>
+Ung_thư vú ở nam_giới và những điều có_thể bạn chưa biết 
+</s>
+<s id=596>
+Tuy rất hiếm gặp nhưng đừng vì_thế mà coi_thường căn_bệnh ung_thư vú ở nam_giới , các bạn nhé ! 
+</s>
+<s id=597>
+Theo Hiệp_hội Ung_thư Mỹ , hơn 2.400 ca ung_thư vú ở nam_giới sẽ được phát_hiện trong năm nay . 
+</s>
+<s id=598>
+Trong khi căn_bệnh ung_thư vú ở nữ_giới ngày_nay đã khá phổ_biến và có nhiều thông_tin , công_trình nghiên_cứu thì ngược_lại , hiểu_biết về căn_bệnh ung_thư vú ở nam_giới lại khá ít_ỏi . 
+</s>
+<s id=599>
+Chỉ có 1/1000 nam_giới có khả_năng phát_triển tế_bào ung_thư vú trong đời . 
+</s>
+<s id=600>
+Hiệp_hội Ung_thư Mỹ dự_báo sẽ có 460 nam_giới ở nước này qua_đời vì ung_thư vú trong năm 2017 - một con_số rất nhỏ so với 40.290 phụ_nữ sẽ qua_đời vì căn_bệnh này trong năm nay . 
+</s>
+<s id=601>
+Ba loại ung_thư phổ_biến nhất ở nam là ung_thư tuyến_tiền_liệt , ung_thư đại_trực_tràng và ung_thư phổi còn ở phụ_nữ , ung_thư vú là loại ung_thư phổ_biến nhất . 
+</s>
+<s id=602>
+Phái_mạnh cũng có_thể cảm_nhận được những phần u , giống với triệu_chứng ung_thư vú ở nữ_giới . 
+</s>
+<s id=603>
+Phần_lớn xuất_hiện khối_u ở phía sau hoặc ở vùng da sẫm màu quanh núm vú . 
+</s>
+<s id=604>
+Những khối_u , cục cứng là dấu_hiệu ung_thư vú rõ_ràng nhất ở nam_giới trong khi ở nữ_giới thường phát_hiện qua chụp x-quang tuyến vú định_kỳ hoặc khám vú sàng_lọc . 
+</s>
+<s id=605>
+Giống như phụ_nữ , nam_giới có nguy_cơ mắc ung_thư vú cao hơn nếu một người cận huyết_thống trong gia_đình cũng mắc bệnh . 
+</s>
+<s id=606>
+Người thừa_kế gen đột_biến BRCA có khả_năng mắc ung_thư vú cao và nam_giới cũng có_thể di_truyền gen này cho con_cái của mình . 
+</s>
+<s id=607>
+Nếu trong gia_đình bạn có một người đàn_ông đã hoặc đang bị ung_thư vú , hãy tìm đến một cố_vấn về di_truyền_học để có_thể làm một_số xét_nghiệm sàng_lọc . 
+</s>
+<s id=608>
+Ngoài_ra , người đàn_ông mang gen này còn có khả_năng mắc ung_thư tuyến_tiền_liệt và tuyến tuỵ , vì_vậy họ cần thường_xuyên kiểm_tra sức_khoẻ định_kỳ . 
+</s>
+<s id=609>
+Đàn_ông hiếm khi khám và chụp x-quang tuyến vú , vì_thế , phần_lớn bệnh_nhân phát_hiện bệnh ở giai_đoạn cuối , khi khối_u đã phát_triển lớn , gây khó_khăn trong việc điều_trị . 
+</s>
+<s id=610>
+Để điều_trị bệnh cần đến những phương_pháp tiếp_cận xâm_lấn như phẫu_thuật cắt bỏ vú hay hoá_trị liệu . 
+</s>
+<s id=611>
+Giống như mọi loại ung_thư khác , ung_thư vú cũng được phân_chia thành các giai_đoạn , dựa trên kích_thước khối_u , số_lượng hạch bạch_huyết dưới nách . 
+</s>
+<s id=612>
+Ở cả nam và nữ , ung vú có 5 giai_đoạn từ 0-4 . 
+</s>
+<s id=613>
+Giai_đoạn bệnh sẽ xác_định phương_thức điều_trị và cơ_hội sống_sót của mỗi bệnh_nhân . 
+</s>
+<s id=614>
+Ở mỗi giai_đoạn bệnh sẽ có cách_thức điều_trị riêng bao_gồm : hoá_trị , xạ_trị , phẫu_thuật cắt bỏ vú và trị_liệu bằng hormone . 
+</s>
+<s id=615>
+Hầu_hết trường_hợp mắc bệnh ở nam_giới đều cần trị_liệu kháng estrogen để ngăn_chặn hormone estrogen - nguồn dinh_dưỡng cho bệnh phát_triển . 
+</s>
+<s id=616>
+Đàn_ông không có nhiều mô vú vì_vậy họ chỉ có_thể cắt bỏ vú nếu điều_trị bằng phẫu_thuật chứ không_thể cắt bỏ một phần để bảo_tồn vú như phụ_nữ . 
+</s>
+<s id=617>
+Ngoài_ra , chị_em , còn có_thể tái_tạo lại vú sau phẫu_thuật . 
+</s>
+<s id=618>
+Do tính_chất hiếm gặp của bệnh , phần_lớn nghiên_cứu chỉ tập_trung vào phụ_nữ vì_thế , phương_pháp điều_trị cho cánh mày_râu thường phải dựa trên những nghiên_cứu của phụ_nữ . 
+</s>
+<s id=619>
+Tìm_hiểu thêm sự khác_biệt về mặt sinh_học giữa nam và nữ giúp các chuyên_gia có thêm nhiều lựa_chọn hiệu_quả và chuyên_sâu hơn trong điều_trị ung_thư . 
+</s>
+<s id=620>
+Được biết , rất khó để thực_hiện các cuộc thử_nghiệm ở nam_giới do tỉ_lệ mắc bệnh rất hiếm , dù_vậy vẫn cần phát_triển thử_nghiệm ở các nhóm bệnh_nhân nam . 
+</s>
+<s id=621>
+Bệnh_nhân được đo thính_lực , nhĩ lượng , phản_xạ cơ bàn_đạp . 
+</s>
+<s id=622>
+Tỉ_lệ nam_giới cao hơn nhiều so với tỉ_lệ nữ_giới . 
+</s>
+<s id=623>
+Khối_u thường gặp nhất ở vùng cùng cụt . 
+</s>
+<s id=624>
+Ít gặp tổn_thương xuất_phát từ vùng đầu cổ ( chiếm dưới 10% ) , vùng mũi họng còn hiếm gặp hơn_nữa . 
+</s>
+<s id=625>
+Ở bệnh_nhi bị teratoma vòm mũi họng , triệu_chứng thường gặp nhất là tắc_nghẽn đường hô_hấp . 
+</s>
+<s id=626>
+Phẫu_thuật cắt u là chỉ_định tuyệt_đối trong những trường_hợp này . 
+</s>
+<s id=627>
+Nhìn_chung teratoma vùng mũi họng có tiên_lượng tốt , hết các triệu_chứng sau mổ . 
+</s>
+<s id=628>
+Một số_ít tái_phát thường do phẫu_thuật không loại_bỏ hoàn_toàn khối_u . 
+</s>
+<s id=629>
+Tại bệnh_viện Nhi_Trung_Ương , từ 10/2012 - 3/2013 , chúng_tôi điều_trị phẫu_thuật loại_bỏ khối_u cho hai trường_hợp teratome vòm mũi họng . 
+</s>
+<s id=630>
+Chúng_tôi xin thông_báo 2 trường_hợp này . 
+</s>
+<s id=631>
+Chẩn_đoán chắc_chắn được dựa vào kết_quả của CT scan và chụp mạch_máu ( DSA ) . 
+</s>
+<s id=632>
+Điều_trị phẫu_thuật được áp_dụng cho tất_cả bệnh_nhân với tắc mạch trước khi mổ . 
+</s>
+<s id=633>
+Kích_thước của khối_u càng lớn thì càng gặp khó_khăn trong phẫu_thuật . 
+</s>
+<s id=634>
+Làm tắc mạch trước mổ làm giảm lượng máu mất . 
+</s>
+<s id=635>
+Đường mổ nội_soi với đốt điện làm giảm tình_trạng chảy_máu , thời_gian phẫu_thuật và cho kết_quả thẩm_mỹ tốt . 
+</s>
+<s id=636>
+Ung_thư vòm thì hiếm gặp tại Hoa Kỳ nhưng phổ_biến tại châu Á và Việt Nam là một trong những quốc_gia có tỷ_lệ ung_thư vòm cao đó , ung_thư vòm là loại bệnh không dễ phát_hiện . 
+</s>
+<s id=637>
+Điều_trị chính cho ung_thư vòm đến nay vẫn là xạ_trị , hoá_trị hoặc kết_hợp cả hai loại này . 
+</s>
+<s id=638>
+Ung_thư này thường xuất_phát từ các thành của vòm hoặc trần vòm , nơi gần với nền sọ , vùng khẩu cái , hốc mũi hoặc vùng họng hầu . 
+</s>
+<s id=639>
+Sau đó ung_thư xâm_lấn đến vùng hạch lân_cận và di_căn xa . 
+</s>
+<s id=640>
+Chúng_tôi xin đưa ra vài kết_quả và nhận_định bước_đầu về tình_hình ung_thư vòm tại các tỉnh phía nam trong thời_gian qua . 
+</s>
+<s id=641>
+Sự kết_hợp tốt giữa các chuyên_khoa Tai_Mũi_Họng , Giải_phẫu bệnh và Ung_bướu trong chẩn_đoán , điều_trị và theo_dõi sau xạ_trị sẽ giúp được rất nhiều cho những bệnh_nhân k vòm đó là hạ thấp tỷ_lệ tử_vong và tăng thời_gian sống của bệnh_nhân . 
+</s>
+<s id=642>
+Bệnh_nhân được theo_dõi mỗi 2 tuần và ghi_nhận kết_cục lâm_sàng sau 6 tuần . 
+</s>
+<s id=643>
+Điều_trị kinh_điển là kỹ_thuật cắt polyp . 
+</s>
+<s id=644>
+Tại BV Đại_Học Y_Dược đã thực_hiện kỹ_thuật cắt niêm_mạc điều_trị cho các tổn_thương polyp không cuống của đại-trực tràng từ năm 2010 , kết_quả mang lại nhiều khích_lệ . 
+</s>
+<s id=645>
+Đa_số tổn_thương ở đại_tràng chậu hông ( 13 trường_hợp ) và trực_tràng ( 9 trường_hợp ) . 
+</s>
+<s id=646>
+Thủ_thuật được thực_hiện an_toàn , cắt trọn được tổn_thương và Không có biến_chứng . 
+</s>
+<s id=647>
+Nhiễm_trùng đường mật và viêm tuỵ cấp là những cấp_cứu ngoại_khoa bệnh_lý chỉ đứng sau viêm ruột_thừa . 
+</s>
+<s id=648>
+nhiều năm gần đây tỉ_lệ bệnh_lý sỏi đường mật có xu_hướng giảm nhưng số_lượng bệnh_nhân có sỏi đường mật có biến_chứng vẫn còn cao . 
+</s>
+<s id=649>
+Kỹ_thuật lấy sỏi đường mật qua nội_soi mật - tuỵ ngược dòng đã góp_phần điều_trị thành_công bệnh_lý sỏi đường mật , giúp bệnh_nhân tránh được cuộc phẫu_thuật lớn và thời_gian hồi_phục sức_khoẻ nhanh người_bệnh có_thể trở_lại công_việc bình_thường trong thời_gian ngắn . 
+</s>
+<s id=650>
+Chúng_tôi hồi cứu để đánh_giá hiệu_quả và độ an_toàn của nội_soi đặt stent trong điều_trị rò mật tại Bệnh_viện Chợ Rẫy . 
+</s>
+<s id=651>
+Thủ_thuật thông vào đường mật và chụp hình đường mật thành_công là 62/65 BN ( 95,38% ) . 
+</s>
+<s id=652>
+Stent di lệch vào trong đường mật 1 trường_hợp phải lặp lại nội_soi mật tuỵ ngược dòng lấy stent , stent di lệch ra ngoài ống tiêu_hoá và thoát ra ngoài 9 trường_hợp . 
+</s>
+<s id=653>
+Tỷ_lệ điều_trị thành_công sau đặt stent là 50/51 trường_hợp ( 98,04% ) . 
+</s>
+<s id=654>
+Chúng_tôi hy_vọng trong tương_lai kỹ_thuật này sẽ được áp_dụng rộng_rãi tại Việt Nam . 
+</s>
+<s id=655>
+Tuổi trung_bình của bệnh_nhân là 47 tuổi . 
+</s>
+<s id=656>
+Thời_gian ổ loét lành sẹo trung_bình là 5 tuần . 
+</s>
+<s id=657>
+Kết_quả qua theo_dõi trong 7 năm 4 tháng không thấy có tái_phát ung_thư cũng như có di_căn . 
+</s>
+<s id=658>
+Khi nhập khoa cấp_cứu bệnh_viện Đại_học Y_Dược TP. HCM , bệnh_nhân được chỉ_định chụp CT ngực phát_hiện có viêm trung thất kèm có thủng thực_quản 1/3 trên do xương cá , vị_trí xương cá ở xa cung động_mạch chủ ngực . 
+</s>
+<s id=659>
+Thời_gian thực_hiện thủ_thuật 5 phút và Không có biến_chứng . 
+</s>
+<s id=660>
+Bệnh_nhân xuất_viện 48 giờ sau thủ_thuật . 
+</s>
+<s id=661>
+Ưu_điểm phương_pháp là thủ_thuật ít xâm_lấn , thời_gian nằm viện ngắn và ít biến_chứng . 
+</s>
+<s id=662>
+Nghiên_cứu được tiến_hành nhằm ghi_nhận kết_quả xử_trí dị_vật ĐTH trên bằng NSOM . 
+</s>
+<s id=663>
+Tỉ_số nguy_cơ ( risk ratio ) biến_chứng tăng theo thời_gian mắc dị_vật . 
+</s>
+<s id=664>
+Dị_vật ĐTH trên là một cấp_cứu đặt_biệt mà chẩn_đoán và xử_lý muộn có_thể dẫn đến nhiều biến_chứng nặng_nề hoặc tử_vong . 
+</s>
+<s id=665>
+Xử_lý dị_vật ĐTH trên bằng NSOM là phương_pháp điều_trị hiệu_quả , an_toàn , ít tai_biến và chi_phí thấp . 
+</s>
+<s id=666>
+Khám lúc nhập_viện thấy bệnh_nhân có trướng bụng nhiều ở 1/2 bụng bên phải và thăm trực_tràng có máu . 
+</s>
+<s id=667>
+Bệnh_nhân được chỉ_định chụp x_quang bụng đứng không sửa_soạn và CT scan bụng chậu có cản_quang và được chẩn_đoán tắc ruột do xoắn đại_tràng chậu hông . 
+</s>
+<s id=668>
+Thời_gian thực_hiện thủ_thuật 90 phút và Không có tai_biến . 
+</s>
+<s id=669>
+Bệnh_nhân xuất_viện 72 giờ sau phẫu_thuật . 
+</s>
+<s id=670>
+Một tháng sau , bệnh_nhân tái khám Không có biến_chứng gì xảy ra . 
+</s>
+<s id=671>
+Mặc_dầu y_học ngày_càng tiến_bộ , nhất_là ngành phẫu_thuật nhưng riêng về bệnh ung_thư thực_quản phần_lớn các bệnh_nhân khi đến viện đều ở giai_đoạn muộn không còn chỉ_định phẫu_thuật triệt_để . 
+</s>
+<s id=672>
+Triệu_chứng chính là nuốt nghẹn vì_vậy mục_đích điều_trị ung_thư thực_quản không mổ : giảm nuốt nghẹn và cải_thiện chất_lượng sống . 
+</s>
+<s id=673>
+Bên cạnh đó Chúng_tôi dựa vào thang điểm nuốt nghẹn và thời_gian sống_còn của bệnh_nhân để đánh_giá kết_quả điều_trị . 
+</s>
+<s id=674>
+Các tác_giả báo_cáo 2 trường_hợp u trong màng_cứng ngoài tuỷ_sống với 2 tình_huống khác nhau được mổ ở Bệnh_viện Trưng Vương trong thời_điểm cuối năm 2014 và đầu năm 2015 . 
+</s>
+<s id=675>
+Người_bệnh được mổ vi_phẫu ngày 29/8/2014 qua đường mổ lối sau , lấy hoàn_toàn hết khối_u , giải ép được tuỷ_sống ngực . 
+</s>
+<s id=676>
+May_mắn là đến ngày thứ hai sau mổ người_bệnh bắt_đầu cử_động được hai bàn_chân . 
+</s>
+<s id=677>
+Kết_hợp với Vật_lý_trị_liệu tích_cực vận_động hai chi dưới hồi_phục dần_dần những ngày sau đó . 
+</s>
+<s id=678>
+Sau khi ra viện người_bệnh được tiếp_tục Vật_lý_trị_liệu , tập đi trở_lại , vận_động 2 chi dưới ngày_một khá hơn . 
+</s>
+<s id=679>
+MRI cột_sống chụp kiểm_tra ngày 12/6/2015 ( gần 10 tháng sau mổ ) không thấy tổn_thương u tái_phát . 
+</s>
+<s id=680>
+Sau mổ người_bệnh được đeo nẹp cổ , cảm_giác đau và tê vai gáy bớt dần , đi_lại được . 
+</s>
+<s id=681>
+Khi có dấu_hiệu nghi_ngờ thì cần vận_dụng các xét_nghiệm cận lâm_sàng , đặc_biệt là hình_ảnh học ( MRI ... ) để có_thể chẩn_đoán sớm u trong ống sống và nếu có chỉ_định phẫu_thuật thì nên mổ càng sớm càng tốt để hy_vọng có sự phục_hồi tốt chức_năng thần_kinh cho người_bệnh . 
+</s>
+<s id=682>
+Chẩn_đoán sớm có tính_chất quyết_định cho kết_quả điều_trị ( 5 ) , tuy_nhiên việc chẩn_đoán thường khó_khăn do triệu_chứng lâm_sàng không điển_hình . 
+</s>
+<s id=683>
+Chẩn_đoán muộn sau 24 giờ có tiên_lượng rất nặng , tỉ_lệ tử_vong trên 90% ( 14 ) . 
+</s>
+<s id=684>
+Do tỉ_lệ bệnh khá thấp nên nghiên_cứu về hội_chứng này có số_lượng bệnh_nhân không nhiều nên việc thống_nhất trong hướng xử_trí vẫn còn cần bàn thêm ( 5,6 ) . 
+</s>
+<s id=685>
+Bệnh_viện Trưng Vương đã nhận điều_trị hai trường_hợp vỡ thực_quản sau nôn ói mạnh . 
+</s>
+<s id=686>
+Qua hai trường_hợp cho thấy những khó_khăn trong chẩn_đoán cũng như những yếu_tố quyết_định trong điều_trị bệnh_lý này . 
+</s>
+<s id=687>
+Phẫu_thuật nội_soi ( PTNS ) giải_quyết được vấn_đề về thẩm_mỹ và Không có sẹo mổ ở cổ tạo khoang ở cổ bằng dao đốt đơn cực và bơm C02 với áp_lực 8-10 mmHg . 
+</s>
+<s id=688>
+Không có trường_hợp nào chảy_máu hậu_phẫu , nhiễm_trùng vết mổ 1 trường_hợp ( 4,5% ) . 
+</s>
+<s id=689>
+Thời_gian phẫu_thuật trung_bình 113,6 phút . 
+</s>
+<s id=690>
+Phẫu_thuật này có_thể điều_trị an_toàn , hiệu_quả , ít biến_chứng , bệnh_nhân còn đạt được kết_quả cao về thẩm_mỹ và tâm_lý . 
+</s>
+<s id=691>
+Chìa_khoá thành_công của phẫu_thuật nội_soi cắt u trung thất là việc lựa_chọn đúng cách tiếp_cận về vị_trí u , liên_quan u với các mạch_máu lớn trong trung thất . 
+</s>
+<s id=692>
+Chúng_tôi phân_tích mổ nội_soi hoàn_toàn và mổ nội_soi có hỗ_trợ cho các bệnh_nhân có u lành trung thất hoặc u trung thất ở giai_đoạn sớm . 
+</s>
+<s id=693>
+Không có trường_hợp nào tử_vong hay chuyển mổ mở . 
+</s>
+<s id=694>
+Phẫu_thuật nội_soi không gây tổn_thương phần_mềm thêm nữa mà giúp nhìn rõ thêm mặt khớp chỗ gãy để nắn mà_còn có_thể kết_hợp sửa_chữa các thương_tổn khác bên trong khớp như rách sụn chêm . 
+</s>
+<s id=695>
+Phần_lớn các trường_hợp đều có tổn_thương phối_hợp . 
+</s>
+<s id=696>
+Trước_đây chủ_yếu là điều_trị bảo_tồn , tuy_nhiên những nghiên_cứu gần đây cho thấy nguy_cơ khớp giả khá cao với phương_pháp điều_trị này đối_với một_số kiểu gãy . 
+</s>
+<s id=697>
+Nguyên_nhân gãy xương chủ_yếu là tai_nạn giao_thông và tai_nạn lao_động ( 86.8% ) . 
+</s>
+<s id=698>
+Kết_quả sau 3 tháng có (S 34/38 trường_hợp ( 89.5% ) có can xương , 100% liền xương sau 6 tháng . 
+</s>
+<s id=699>
+Kết_luận : Phẫu_thuật khâu treo xoắn_ốc điều_trị trĩ nội độ 3 là một kỹ_thuật an_toàn , hiệu_quả . 
+</s>
+<s id=700>
+Điều_trị chủ_yếu là phẫu_thuật với mục_tiêu hết bệnh và vẫn bảo_tồn được chức_năng của cơ_thắt . 
+</s>
+<s id=701>
+Không có ca nào bị chảy_máu , bí tiểu , nhiễm_trùng , tử_vong sau mổ . 
+</s>
+<s id=702>
+Phẫu_thuật LIFT là phẫu_thuật an_toàn , ít đau và Không có tai_biến hay biến_chứng trong và sau mổ . 
+</s>
+<s id=703>
+Không cần trang_thiết_bị phức_tạp hay kinh_phí cao , kỹ_thuật rất đơn_giản , thực_hiện nhanh nên khả_năng sẽ được áp_dụng cao trong điều_trị rò hậu_môn xuyên cơ_thắt . 
+</s>
+<s id=704>
+Kết_quả sớm đạt được rất tốt , với tỷ_lệ lành bệnh 92,9% . 
+</s>
+<s id=705>
+Tính tự_chủ khi đi_tiêu hoàn_toàn không thay_đổi trước và sau phẫu_thuật . 
+</s>
+<s id=706>
+Phẫu_thuật cắt gan được thực_hiện với kỹ_thuật bóc tách nguyên cuống Glisson của Ken_Takasaki kết_hợp với nội_soi đường mật nhằm xác_định và kiểm_soát việc lấy hết thương_tổn . 
+</s>
+<s id=707>
+Hiệu_quả điều_trị sỏi tốt với tỷ_lệ sạch sỏi cao , tỷ_lệ tái_phát thấp . 
+</s>
+<s id=708>
+Tỷ_lệ tai_biến , biến_chứng không cao và không nghiêm_trọng . 
+</s>
+<s id=709>
+PTNS cắt túi_mật sau DLTM thành_công cao , tỉ_lệ chuyển mổ hở thấp , tai_biến , biến_chứng thấp . 
+</s>
+<s id=710>
+DLTM có_thể là phương_pháp điều_trị tạm_thời để chuẩn_bị cho PTNS cắt túi_mật sau đó . 
+</s>
+<s id=711>
+Trong 14 trường_hợp cắt gan , 1 trường_hợp sỏi hai bên ( còn sỏi gan phải sau mổ cắt gan trái ) , phải nội_soi lấy sỏi ( NSLS ) sau mổ 2 lần , 13 trường_hợp sạch sỏi sau mổ . 
+</s>
+<s id=712>
+Nghiên_cứu này nhằm mục_tiêu mô_tả tỷ_trọng của sỏi túi_mật trong các dung_dịch có nồng_độ khác nhau của Iobitridol , đồng_thời tìm mối tương_quan giữa tỷ_trọng sỏi túi_mật với đậm độ sỏi trên CT scan , số_lượng sỏi và kích_thước sỏi túi_mật . 
+</s>
+<s id=713>
+Số_liệu được phân_tích theo phân_tích mô_tả và dùng phép kiểm T-test . 
+</s>
+<s id=714>
+Hành_vi chăm_sóc loại trung_bình và yếu . 
+</s>
+<s id=715>
+Sau thực_hiện chương_trình kiến_thức , thái_độ và hành_vi của điều_dưỡng tăng lên đáng_kể và có ý_nghĩa thống_kê ( p < 0,05 ) . 
+</s>
+<s id=716>
+Kết_quả cũng cho thấy rằng tuổi , thời_gian công_tác không ảnh_hưởng đến kiến_thức , thái_độ và hành_vi của điều_dưỡng về phòng_ngừa loét tì đè . 
+</s>
+<s id=717>
+Điều_dưỡng đã từng tham_gia huấn_luyện có điểm trung_bình về kiến_thức và điểm trung_bình về hành_vi cao hơn có ý_nghĩa thống_kê so với điều_dưỡng chưa từng tham_gia huấn_luyện . 
+</s>
+<s id=718>
+Bên cạnh đó cần xây_dựng hệ_thống phòng_ngừa loét tì đè bao_gồm các qui_định , quy_trình chăm_sóc , báo_cáo loét tì đè tài_liệu hướng_dẫn và hỗ_trợ các trang_thiết_bị phòng_ngừa loét tì đè cho điều_dưỡng để tạo thuận_tiện cho thực_hành của điều_dưỡng trong công_tác phòng_ngừa loét tì đè . 
+</s>
+<s id=719>
+Tuy_nhiên đối_với loại gãy mấu chuyển A3 ( loại gãy nghịch ) theo phân_loại của AO không có chỉ_định dùng DHS do điểm đặt của dụng_cụ kết_hợp xương trùng với đường gãy . 
+</s>
+<s id=720>
+có nhiều cách điều_trị gãy LMC loại A3 gồm DCS , đinh nội tuỷ chốt , thay khớp háng lưỡng_cực , mỗi phương_pháp điều có tiện_lợi và bất_lợi riêng . 
+</s>
+<s id=721>
+Chúng_tôi nghiên_cứu sử_dụng dụng_cụ DCS vào điều_trị loại gãy A3 này . 
+</s>
+<s id=722>
+Chúng_tôi nghiên_cứu kết_hợp xương bẳng DCS với đường mổ nhỏ ít xâm_nhập có màn tăng sáng hỗ_trợ nhằm bảo_vệ mạch_máu nuôi xương , giúp dễ lành xương nhằm giảm_thiểu biến_chứng so với kết_hợp xương kinh_điển mổ lớn . 
+</s>
+<s id=723>
+Kết_quả đánh_giá lành xương dựa trên X_quang thường qui , đánh_giá các biến_chứng sau KHX . 
+</s>
+<s id=724>
+Kết_quả phục_hồi chức_năng dựa theo thang điểm Kyle . 
+</s>
+<s id=725>
+Thời_gian mắc bệnh cũng như thời_gian chuyển giai_đoạn đều liên_quan đến giai_đoạn bệnh . 
+</s>
+<s id=726>
+Thời_gian này kéo_dài thì bệnh càng nặng . 
+</s>
+<s id=727>
+Điều_trị nội_khoa tỏ ra có hiệu_quả đối_với bệnh STMMTCD nhưng nó không ngăn được tiến_triển của bệnh . 
+</s>
+<s id=728>
+Tuy_nhiên , nếu có điều_trị và tuân_thủ điều_trị thật tốt thì rất có_thể nó sẽ làm chậm diễn_tiến của bệnh . 
+</s>
+<s id=729>
+Hiện_nay , có rất nhiều phương_pháp phục_hồi vận_động sau đột_quỵ được chứng_minh có hiệu_quả . 
+</s>
+<s id=730>
+Trong vật_lý_trị_liệu , những năm gần đây , phương_pháp tập tái học_hỏi vận_động đã được chứng_minh có hiệu_quả hơn các phương_pháp khác trong phục_hồi vận_động . 
+</s>
+<s id=731>
+Trong Y_học cổ_truyền phương_pháp thể châm cải_tiến cũng đã được chứng_minh có hiệu_quả phục_hồi vận_động cho bệnh_nhân sau đột_quỵ qua nhiều công_trình nghiên_cứu . 
+</s>
+<s id=732>
+Tuy_nhiên , hầu_hết các nghiên_cứu trên đều tiến_hành tại các bệnh_viện trong các thành_phố lớn . 
+</s>
+<s id=733>
+Vấn_đề nghiên_cứu đặt ra là nếu kết_hợp giữa thể châm cải_tiến và tái học_hỏi vận_động và áp_dụng tại 1 địa_phương như tỉnh Sóc Trăng thì hiệu_quả phục_hồi vận_động cho bệnh_nhân sau đột_quỵ sẽ như thế_nào ? 
+</s>
+<s id=734>
+Nhóm chứng được điều_trị bằng thể châm cải_tiến kết_hợp tập vận_động theo phương_pháp Bobath ; nhóm can_thiệp được điều_trị bằng thể châm cải_tiến kết_hợp tái học_hỏi vận_động . 
+</s>
+<s id=735>
+30 bệnh_nhân Không có tiền_sử đái_tháo_đường và tăng huyết_áp được dùng làm nhóm tham_chiếu . 
+</s>
+<s id=736>
+Thực_hiện các xét_nghiệm bằng kỹ_thuật miễn_dịch gắn men ( ELISA ) và kỹ_thuật NAT để sàng_lọc các mẫu máu hiến . 
+</s>
+<s id=737>
+có 6467 mẫu máu âm_tính với kỹ_thuật ELISA được xét_nghiệm bằng kỹ_thuật NAT thì phát_hiện có 6 mẫu dương_tính với HBV chiếm tỷ_lệ 0,093% . 
+</s>
+<s id=738>
+Kết_luận : Bước_đầu nhận thấy rằng triển_khai kỹ_thuật NAT là cần_thiết và hiệu_quả vì giúp phát_hiện được vi_rút HBV ở giai_đoạn cửa_sổ . 
+</s>
+<s id=739>
+Chính điều này đã góp_phần trong việc đảm_bảo sự an_toàn cho bệnh_nhân khi truyền máu , rút ngắn giai_đoạn cửa_sổ và giảm_thiểu nguy_cơ lây_nhiễm các vi_rút qua đường truyền máu . 
+</s>
+<s id=740>
+Nghiên_cứu này góp_phần định_hướng trị_liệu can_thiệp cá_thể dựa vào phân_loại nhóm nguy_cơ để tác_động hiệu_quả hơn trong trị_liệu ung_thư . 
+</s>
+<s id=741>
+Từ đó có_thể góp_phần hỗ_trợ cho việc tiên_lượng điều_trị nguy_cơ UNBTK . 
+</s>
+<s id=742>
+Đề_tài được hỗ_trợ bởi quỹ phát_triển khoa_học và công_nghệ quốc_gia Nafosted , mã_số 106 - YS . 
+</s>
+<s id=743>
+Đánh_giá kết_quả bước_đầu chăm_sóc và điều_trị bỏng tại Bệnh_viện Nhi Thanh Hoá từ tháng 7/2013 đến tháng 6/2014 . 
+</s>
+<s id=744>
+Trong quá_trình phẫu_thuật phát_hiện 10,9% trẻ có nguyên_nhân gây lồng ruột . 
+</s>
+<s id=745>
+Biến_chứng sau mổ gặp ở 9,1% , Không có ca nào tử_vong . 
+</s>
+<s id=746>
+Nhóm PTNS không ca nào gặp biến_chứng . 
+</s>
+<s id=747>
+PTNS thành_công có_thể góp_phần làm giảm biến_chứng sau mổ . 
+</s>
+<s id=748>
+Không có sự khác_biệt có ý_nghĩa thống_kê giữa 2 nhóm về tuổi , giới , cân nặng khi mổ , các dị_tật kèm theo , các chỉ_số xét_nghiệm . 
+</s>
+<s id=749>
+Các BN còn giãn đường mật trong gan sau mổ có tỷ_lệ nhiễm_khuẩn đường mật cao hơn có ý_nghĩa so với các BN còn lại . 
+</s>
+<s id=750>
+Thời_gian nằm viện sau mổ trung_vị là 5,0 ngày . 
+</s>
+<s id=751>
+Tất_cả các BN khác đều trong tình_trạng sức_khoẻ tốt . 
+</s>
+<s id=752>
+Kết_quả thẩm_mỹ sau mổ là rất tốt , các BN được mổ TULESS đều gần_như không thấy sẹo mổ . 
+</s>
+<s id=753>
+Phẫu_thuật nội_soi được tiến_hành với tư_thế treo lách , dùng 3 trocar : rốn 10 mm dùng đặt đèn soi và lấy lách sau cắt , hố_chậu trái 10 mm để dùng haemolock nếu có và sau mổ để đặt dẫn_lưu hố lách , thượng_vị 5 mm . 
+</s>
+<s id=754>
+Lách sau khi giải_phóng toàn_bộ , được cho vào túi dùng kéo lớn đưa qua lỗ trocar 10 mm ở hố_chậu trái để cắt nhỏ trong túi chứa và sau đó được lấy dần qua lỗ trocar rốn . 
+</s>
+<s id=755>
+Đặt dẫn_lưu hố lách qua lỗ trocar 10 mm ở hố_chậu trái . 
+</s>
+<s id=756>
+Tất_cả các bệnh_nhân lỗ tiểu thấp thể giữa và thể sau trước mổ và sau khi làm test cương đều được đánh_giá mức_độ cong dương_vật . 
+</s>
+<s id=757>
+Hầu_hết bệnh_nhân có bệnh_sử là đột_quị 93,3% , trong khi chỉ có một trường_hợp là túi phình động_mạch cảnh trong chưa vỡ được phát_hiện . 
+</s>
+<s id=758>
+Biến_chứng sau mổ gồm liệt nửa người ( 20% ) , sống thực_vật ( 6,7% ) nhưng Không có trường_hợp nào tử_vong . 
+</s>
+<s id=759>
+Trong thời_đại ngày_nay , việc sử_dụng kính_hiển_vi phẫu_thuật có_thể điều_trị được hầu_hết các tổn_thương này khá an_toàn và có kết_quả tốt . 
+</s>
+<s id=760>
+(VP Không có tử_vong trong và sau mổ , chuyển mổ mở 2 trường_hợp , không trường_hợp nào phải truyền máu trong mổ . 
+</s>
+<s id=761>
+Chỉ có 1 trường_hợp rò miệng nối sau mổ megacolon 1 rò miệng nối niệu_quản bể thận do gập tắc sonds JJ . 
+</s>
+<s id=762>
+Tuy_nhiên , trong một_số trường_hợp việc chẩn_đoán trên lâm_sàng còn gặp nhiều khó_khăn . 
+</s>
+<s id=763>
+Ngoài_ra , đo ALHMTT là phương_pháp đơn_giản và không xâm_lấn so với 2 phương_pháp kia . 
+</s>
+<s id=764>
+Nghiên_cứu này nhằm đánh_giá kết_quả bước_đầu ứng_dụng phương_pháp đo ALHMTT để chẩn_đoán bệnh Hirschsprung . 
+</s>
+<s id=765>
+Bệnh_nhân được theo_dõi cho đến khi có chẩn_đoán cuối_cùng . 
+</s>
+<s id=766>
+Mẫu khảo_sát 51 bệnh_nhân có chỉ_định phẫu_thuật lớn ổ_bụng bằng phương_pháp gây_mê cân_bằng và được ủ ấm bằng máy sưởi ấm không_khí ở nhiệt_độ cố_định 38 0C , nửa người trên của người_bệnh . 
+</s>
+<s id=767>
+Nhiệt_độ cơ_thể được đo ở 1/3 trên thực_quản qua đầu đo tự_động và ghi_nhận mỗi 30 phút từ lúc khởi mê xong cho đến khi cuộc phẫu_thuật kết_thúc . 
+</s>
+<s id=768>
+Có mối liên_quan về kiến_thức , thái_độ phòng_bệnh tiêu_chảy giữa các bà mẹ có trình_độ học_vấn khác nhau : Bà mẹ có trình_độ trên cấp 3 có (NP-SUB kiến_thức , thái_độ phòng_bệnh tốt hơn bà mẹ có trình_độ từ cấp 1 trở xuống . 
+</s>
+<s id=769>
+Ngoài_ra , nghiên_cứu cũng cho thấy có mối liên_quan về thực_hành xử_trí bệnh tiêu_chảy giữa các bà mẹ có nhóm tuổi khác nhau : Bà mẹ nhóm tuổi từ 25 trở lên có thực_hành xử_trí bệnh tiêu_chảy cấp tốt hơn bà mẹ dưới 25 tuổi . 
+</s>
+<s id=770>
+có mối liên_quan về kiến_thức , thái_độ phòng bệnh tiêu_chảy giữa các bà mẹ có với trình_độ học_vấn khác nhau và có mối liên_quan về thực_hành xử_trí bệnh tiêu_chảy giữa các nhóm tuổi của bà mẹ . 
+</s>
+<s id=771>
+Trong năm 2007 , có đến 1,63 tỷ đồng đã chi cho việc sử_dụng albumin sai về chỉ_định cũng như liều_lượng dùng Kết_luận : cần ứng_dụng hướng_dẫn sử_dụng albumin vào việc kiểm_duyệt chỉ_định truyền albumin , và xây_dựng phác_đồ truyền albumin sử_dụng ở các khoa điều_trị . 
+</s>
+<s id=772>
+Chúng_tôi thực_hiện công_trình này nhằm xếp_hạng qua đánh_giá lúc mổ ( surgical staging ) các trường_hợp ung_thư nội mạc tử_cung theo bảng xếp_hạng của Hiệp_Hội Sản_Phụ Khoa_Quốc_Tế ( FIGO ) năm 1988 . 
+</s>
+<s id=773>
+Chúng_tôi dùng phương_pháp tiền_cứu và thống_kê mô_tả , ghi_nhận kết_quả và so_sánh với các công_trình của tác_giả trong và ngoài nước . 
+</s>
+<s id=774>
+Nếu không được phát_hiện và xử_lý đúng_đắn kịp_thời thì có_thể tử_vong hoặc để lại các di_chứng ảnh_hưởng tới đời_sống của bệnh_nhân như sẹo hẹp . 
+</s>
+<s id=775>
+Nguyên_nhân chủ_yếu do tai_nạn giao_thông . 
+</s>
+<s id=776>
+Tổn_thương thanh_quản là hay gặp nhất . 
+</s>
+<s id=777>
+Cách đặt bóng nong qua nội_soi đơn_giản , nhanh_chóng . 
+</s>
+<s id=778>
+Nên cần chẩn_đoán sớm và sử_trí kịp_thời để tránh sẹo hẹp , sớm trả bệnh_nhân về với cuộc_sống sinh_hoạt bình_thường . 
+</s>
+<s id=779>
+Sẹo hẹp khí_quản ảnh_hưởng nặng_nề tâm_lý người_bệnh và chất_lượng cuộc_sống là gánh nặng của gia_đình và xã_hội . 
+</s>
+<s id=780>
+Hô_hấp ký là tiêu_chuẩn vàng để chẩn_đoán bệnh nhưng không được thực_hiện phổ_biến cho bệnh_nhân . 
+</s>
+<s id=781>
+Với các bảng câu hỏi tầm_soát có_thể giúp chọn ra những đối_tượng nguy_cơ cao bệnh BPTNMT mà tiến_hành chẩn_đoán xác_định theo tiêu_chuẩn vàng là hô_hấp ký . 
+</s>
+<s id=782>
+Bảng câu hỏi tầm_soát của GOLD và IPAG cũng tương_đối dễ_dàng áp_dụng tại các cơ_sở y_tế . 
+</s>
+<s id=783>
+Hơn 354 người trả_lời các bảng câu hỏi , những người thoả tiêu_chuẩn chọn bệnh sẽ được đo hô_hấp ký có thử thuốc dãn phế_quản để chẩn_đoán xác_định bệnh phổi tắc_nghẽn mạn_tính . 
+</s>
+<s id=784>
+Sử_dụng bảng câu hỏi này có_thể làm giảm thời_gian và chi_phí phát_hiện BPTNMT , góp_phần phát_hiện sớm bệnh . 
+</s>
+<s id=785>
+Kỹ_thuật TVT đã được thực_hiện tại Pháp từ năm 1996 . 
+</s>
+<s id=786>
+Chúng_tôi đã đánh_giá kết_quả 38 bệnh_nhân được điều_trị tiểu không kiểm_soát từ 2004 tại bệnh_viện FV TP Hồ Chí Minh . 
+</s>
+<s id=787>
+Tất_cả các bệnh_nhân đều được làm xét_nghiệm niệu động_lực_học trước khi phẫu_thuật . 
+</s>
+<s id=788>
+Có 3 bệnh_nhân có bàng_quang bất_ổn_định kèm hiện_tượng tiểu không kiểm_soát . 
+</s>
+<s id=789>
+Tất_cả bệnh_nhân đều được phẫu_thuật dưới gây_tê tuỷ_sống . 
+</s>
+<s id=790>
+Thời_gian theo_dõi sau mổ trung_bình là 12 tháng . 
+</s>
+<s id=791>
+Trong thời_gian theo_dõi , Không có phản_ứng loại_bỏ miếng nâng_đỡ cũng như Không có trường_hợp bị bào_mòn âm_đạo . 
+</s>
+<s id=792>
+Sa_sút trí_tuệ sau đột_quị được chẩn_đoán tại thời_điểm 3 tháng theo tiêu_chuẩn DSM-IV . 
+</s>
+<s id=793>
+Còn lại 218 bệnh_nhân được theo_dõi đến cuối nghiên_cứu . 
+</s>
+<s id=794>
+Không có sự khác_biệt về tần_suất sa_sút trí_tuệ sau đột_quị nhồi máu não và xuất_huyết não . 
+</s>
+<s id=795>
+Đột quị bán_cầu trái và rối_loạn ngôn_ngữ có liên_quan đến tình_trạng này . 
+</s>
+<s id=796>
+Các yếu_tố tuổi , giới , trình_độ học_vấn và các yếu_tố nguy_cơ mạch_máu có_thể là những yếu_tố nguy_cơ của sa_sút trí_tuệ sau đột_quị . 
+</s>
+<s id=797>
+Bệnh_nhân chết sau 6 tháng kể từ khi vào viện . 
+</s>
+<s id=798>
+Không trường_hợp nào bị biến_chứng nặng do xạ . 
+</s>
+<s id=799>
+Tuy_nhiên để đánh_giá ích_lợi của cách điều_trị này một_cách chính_xác , cần tiến_hành thêm những thử_nghiệm lâm_sàng ngẫu_nhiên . 
+</s>
+<s id=800>
+Chẩn_đoán xác_định khi kết_quả_hoá mô miễn_dịch dương_tính với CD117 . 
+</s>
+<s id=801>
+Các phương_pháp phẫu_thuật tuỳ vị_trí và mức_độ lan_tràn của bướu . 
+</s>
+<s id=802>
+Những bệnh_nhân mụn kéo_dài ( KD ) có tỉ_lệ người trong gia_đình bị mụn cao hơn nhóm mụn KPM . 
+</s>
+<s id=803>
+Các bệnh_nhân mụn KD có tuổi bắt_đầu có kinh sớm hơn nhóm mụn KPM . 
+</s>
+<s id=804>
+Tiền_căn gia_đình có người bị mụn trứng_cá và có kinh sớm dường_như có liên_quan đến nguy_cơ bị mụn trứng_cá KD . 
+</s>
+<s id=805>
+Miễn_dịch huỳnh_quang cần được sử_dụng thường_qui để có_thể chẩn_đoán chính_xác các bệnh_lý cầu thận . 
+</s>
+<s id=806>
+Tuy_nhiên ở Việt Nam , ung_thư vú có xuất_độ cao thứ 2 sau ung_thư cổ tử_cung ( 14 ) Ung_thư vú có khả_năng điều_trị tốt ở nhiều bệnh_nhân nếu bệnh được chẩn_đoán trong giai_đoạn tiền lâm_sàng . 
+</s>
+<s id=807>
+Với việc thực_hành ngày_càng thường_xuyên của các phương_tiện chẩn_đoán hình_ảnh , cụ_thể là của siêu_âm và nhũ ảnh , đã giúp được ngày_càng nhiều việc phát_hiện sớm những ung_thư vú tiền lâm_sàng . 
+</s>
+<s id=808>
+Ngoài việc siêu_âm hướng_dẫn làm thủ_thuật chọc hút tế_bào bằng kim nhỏ 1 cách chính_xác các tổn_thương không sờ thấy , nhũ ảnh và siêu_âm còn giúp_đỡ cho việc định_vị tổn_thương tiền phẫu_thuật ( kỹ_thuật đánh_dấu xâm_lấn và không xâm_lấn ) như steré otaxie , chích màu hay đánh_dấu trên da . 
+</s>
+<s id=809>
+Tất_cả bệnh_nhân đều được phẫu_thuật trong khoa Sản-Phụ của BV NORD . 
+</s>
+<s id=810>
+Các mẫu phẫu_thuật đều được nghiên_cứu trong khoa Giải_phẫu bệnh của GS. Charpin . 
+</s>
+<s id=811>
+Nghiên_cứu cho thấy được mối liên_quan giữa nguy_cơ độc_tính và số chu_kỳ hoá_trị . 
+</s>
+<s id=812>
+Bệnh_nhân đươc khám bằng nghiệm_pháp Dix-Hallpike . 
+</s>
+<s id=813>
+Các alen được phát_hiện đều thuộc nhóm 8 alen tầm_soát . 
+</s>
+<s id=814>
+Không có trường_hợp nào không tìm thấy alen đột_biến . 
+</s>
+<s id=815>
+cần có một chương_trình sàng_lọc thalassaemia trước sinh phù_hợp để chương_trình chẩn_đoán có hiệu_quả và ý_nghĩa cao hơn . 
+</s>
+<s id=816>
+Phương_pháp đặt stent kim_loại có hiệu_quả và thành_công ngay sau khi đặt stent là 100% . 
+</s>
+<s id=817>
+Cho đến nay , Oxytocin truyền tĩnh_mạch vẫn còn được sử_dụng phổ_biến . 
+</s>
+<s id=818>
+Trong những năm gần đây , vai_trò của Misoprostol được chú_ý nhiều , đặc_biệt là Misoprostol đường ngậm dưới lưỡi vì không làm tăng nguy_cơ nhiễm_trùng ngược dòng như Misoprostol đường đặt âm_đạo và không bị chuyển_hoá trong dạ_dày như Misoprostol đường uống . 
+</s>
+<s id=819>
+Một trong những nguyên_nhân khả_dĩ là thuyên tắc phổi là một bệnh_lý chẩn_đoán khó vì_vậy thường bị bỏ sót hoặc chẩn_đoán trễ tại Việt Nam . 
+</s>
+<s id=820>
+Khi có biến_đổi ĐTĐ hiện_diện , xác_suất lâm_sàng mắc TTP gia_tăng giúp định_hướng chẩn_đoán và điều_trị tiếp_theo . 
+</s>
+<s id=821>
+Hoàng_tử bé Saint Exupéry ( Vĩnh Lạc dịch ) 
+</s>
+<s id=822>
+Người_ta nói trong sách : " Con trăn nuốt_chửng cả con mồi mà không nhai . 
+</s>
+<s id=823>
+Và bạn sẽ thấy tất_cả đều thay_đổi ... 
+</s>
+<s id=824>
+Hãy tự hỏi : con cừu đã có ăn hay không ăn đoá hoa ? 
+</s>
+<s id=825>
+Và không một người_lớn nào lại hiểu được chuyện ấy quan_trọng đến nhường nào . 
+</s>
+<s id=826>
+Và tất_cả các ngôi sao mỉm cười dịu_dàng . 
+</s>
+<s id=827>
+Thế_là những cái chuông nhỏ đều biến thành nước_mắt ! ... 
+</s>
+<s id=828>
+Có_lẽ con cừu đã ăn mất đoá hoa chăng ... " 
+</s>
+<s id=829>
+Song trên_hết , đây là một cuốn sách ca_ngợi tình_yêu và cái đẹp , niềm hy_vọng lớn của con_người . 
+</s>
+<s id=830>
+Nó vẽ một con trăn đang nuốt một con thú . 
+</s>
+<s id=831>
+Sau đó nó không_thể nhúc_nhích được nữa và nó nằm ngủ sáu tháng liền trong khi chờ tiêu_hoá . 
+</s>
+<s id=832>
+Đây là cuốn truyện mà nhiều người cho rằng thơ_mộng nhất đã từng được viết , không hẳn chỉ là cuốn truyện viết cho trẻ_em . 
+</s>
+<s id=833>
+Nó vẽ một con trăn đang nằm chờ tiêu_hoá một con voi . 
+</s>
+<s id=834>
+Tôi đem khoe kiệt_tác của mình với những người_lớn và hỏi họ rằng nó có làm họ kinh_hãi không . 
+</s>
+<s id=835>
+Thế_là Tôi phải vẽ phía trong của con trăn , để cho người_lớn có_thể hiểu . 
+</s>
+<s id=836>
+Người_lớn lúc nào cũng cần phải có giải_thích . 
+</s>
+<s id=837>
+Bức phác_thảo thứ hai của tôi nó như thế này : 
+</s>
+<s id=838>
+Tôi bị thất_vọng vì sự thất_bại của bản_thảo số một và số hai . 
+</s>
+<s id=839>
+Nhưng luôn_luôn ông ta trả_lời : " Đấy là một cái mũ . 
+</s>
+<s id=840>
+Tôi đã sống nhiều với những người_lớn . 
+</s>
+<s id=841>
+Tôi cũng đã gặp trong đời tôi cả đống những con_người nghiêm_chỉnh . 
+</s>
+<s id=842>
+Cái đó thật là ích_lợi nếu_như người_ta bay lạc đường trong đêm_tối . 
+</s>
+<s id=843>
+Tôi đã bay khắp thế_giới mỗi nơi một_tí . 
+</s>
+<s id=844>
+Tôi nói về chơi bài , chơi gôn , chính_trị và cravate . 
+</s>
+<s id=845>
+Vậy_là tôi phải chọn nghề khác , và tôi học lái máy_bay . 
+</s>
+<s id=846>
+Ông là một con_người không chỉ nói và viết , một con_người tin_tưởng và sống như những gì mình nói và viết , chết thơ_mộng như những gì mình ca_ngợi . 
+</s>
+<s id=847>
+Tôi đã rất buồn , nhưng tôi nói với họ : đó là vì mệt ... 
+</s>
+<s id=848>
+Và ban_đêm , tôi thích lắng_nghe các ngôi sao . 
+</s>
+<s id=849>
+Chúng như năm_trăm_triệu cái chuông nhỏ ... 
+</s>
+<s id=850>
+Và tôi sững_sờ khi nghe cậu bé trả_lời : 
+</s>
+<s id=851>
+Con trăn nguy_hiểm lắm , còn con voi thì quá kềnh_càng . 
+</s>
+<s id=852>
+Tôi đã bỏ dở như vậy đó , vào năm lên sáu , một sự_nghiệp hội_hoạ tuyệt_vời . 
+</s>
+<s id=853>
+Từ đó tôi hay nghĩ đến các cuộc phiêu_lưu trong rừng rậm , và đến lượt tôi , với một cây bút_chì màu , tôi đã vẽ được bức phác_thảo đầu_tiên . 
+</s>
+<s id=854>
+Thế_là tôi chẳng thèm nói với ông ta về trăn rắn , rừng hoang hay các vì sao nữa . 
+</s>
+<s id=855>
+Tôi tự hạ_mình xuống ngang tầm ông ta . 
+</s>
+<s id=856>
+Và môn địa_lý , đúng như vậy , đã giúp tôi rất nhiều . 
+</s>
+<s id=857>
+Thế_là tôi tự hỏi : " Chuyện gì đã xảy ra trên tinh_cầu ấy ? 
+</s>
+<s id=858>
+Hồi lên sáu , có lần tôi đã nhìn thấy một bức tranh tuyệt đẹp trong một cuốn sách nói về rừng hoang nhan_đề : những chuyện có thật . 
+</s>
+<s id=859>
+Và con người_lớn kia cảm thấy hài_lòng vô_cùng khi được quen một con_người biết_điều như vậy . 
+</s>
+<s id=860>
+Nhưng cái đó chẳng làm thay_đổi ý_kiến của tôi bao_nhiêu . 
+</s>
+<s id=861>
+Và tôi chỉ đi một_mình không có hành_khách cũng chẳng có thợ_máy , tôi phải một_mình bắt_đầu cuộc sửa_chữa khó_khăn . 
+</s>
+<s id=862>
+Chiếc rọ_mõm tôi đã vẽ cho ông_hoàng nhỏ , tôi đã quên vẽ thêm cái đai da . 
+</s>
+<s id=863>
+Những bạn_bè gặp lại tôi rất lấy_làm hài_lòng thấy tôi còn sống . 
+</s>
+<s id=864>
+Em ngã xuống nhẹ_nhàng như một cái cây . 
+</s>
+<s id=865>
+Các ngôi sao sẽ là những cái giếng với một cái ròng_rọc han_rỉ . 
+</s>
+<s id=866>
+Tất_cả mọi ngôi sao sẽ rót cho tôi uống ... 
+</s>
+<s id=867>
+Tôi không muốn một con voi trong bụng một con trăn đâu . 
+</s>
+<s id=868>
+Tôi ngồi xuống vì không_thể giữ_mình đứng được nữa . 
+</s>
+<s id=869>
+Cậu bé của tôi cười nhẹ , giọng khoan_dung : 
+</s>
+<s id=870>
+Bởi_vì tôi chưa bao_giờ vẽ một con cừu cả nên tôi vẽ lại cho em một trong hai bức tranh mà tôi có_thể vẽ . 
+</s>
+<s id=871>
+- Nếu ông vui_lòng ... xin vẽ hộ tôi một con cừu ... 
+</s>
+<s id=872>
+Bạn tôi không hề giảng_giải gì cho tôi . 
+</s>
+<s id=873>
+Cái ấy đến nhẹ_nhàng bằng những suy_đoán ngẫu_nhiên . 
+</s>
+<s id=874>
+tôi đã rất thích bắt_đầu kể câu_chuyện này như kiểu một câu_chuyện thần_tiên . 
+</s>
+<s id=875>
+Bởi_vì tôi không muốn người_ta đọc cuốn sách của tôi một_cách hời_hợt . 
+</s>
+<s id=876>
+Khi kể lại các kỷ_niệm này , tôi buồn_tủi biết_bao . 
+</s>
+<s id=877>
+Tôi có biết một tinh_cầu , trên ấy có một gã lười . 
+</s>
+<s id=878>
+Nhưng ông_hoàng bé_nhỏ không trả_lời . 
+</s>
+<s id=879>
+Sau một lát im_lặng trầm_ngâm , em trả_lời tôi : 
+</s>
+<s id=880>
+Em khẽ lắc_đầu nhìn chiếc máy_bay của tôi : 
+</s>
+<s id=881>
+có cái gì đó trong động_cơ của tôi bị gãy . 
+</s>
+<s id=882>
+Tôi chỉ có đủ nước để uống trong nhiều nhất là tám ngày . 
+</s>
+<s id=883>
+Lúc đó tôi còn cô_độc hơn cả một kẻ đắm tàu trên chiếc bè lênh_đênh giữa biển . 
+</s>
+<s id=884>
+Và tôi thấy một cậu bé thật khác_thường đang nhìn tôi với vẻ nghiêm_trọng . 
+</s>
+<s id=885>
+Khi mà sự bí_ẩn quá lớn , người_ta không dám không vâng lời . 
+</s>
+<s id=886>
+Những người_lớn chẳng bao_giờ tự họ hiểu được cái gì cả , và thật là mệt cho trẻ_con lúc nào cũng phải giải_thích cho họ . 
+</s>
+<s id=887>
+Phải rất lâu tôi mới biết em từ đâu đến . 
+</s>
+<s id=888>
+Nhưng tôi hết_sức ngạc_nhiên khi thấy mặt vị quan_toà nhỏ của tôi sáng rõ lên : 
+</s>
+<s id=889>
+Rồi em đắm mình trong giấc mơ_màng thật dài . 
+</s>
+<s id=890>
+Cậu bạn của tôi lại bật cười khanh_khách : 
+</s>
+<s id=891>
+Bấy_giờ ông_hoàng nhỏ nhận_xét một_cách nặng_nề : 
+</s>
+<s id=892>
+Và nếu em ngoan , ta sẽ còn cho em một sợi dây để buộc nó lại ban_ngày . 
+</s>
+<s id=893>
+Nhưng bức này cũng bị từ_chối như các bức trước . 
+</s>
+<s id=894>
+Và như thế đấy , tôi đã làm_quen với ông_hoàng bé_nhỏ . 
+</s>
+<s id=895>
+Và ông_hoàng bé_nhỏ bật lên một tràng cười khanh_khách rất kháu nhưng làm tôi cáu lắm . 
+</s>
+<s id=896>
+Rồi , có_lẽ với một_chút ngậm_ngùi , em nói thêm : 
+</s>
+<s id=897>
+Điều ấy chẳng làm tôi ngạc_nhiên nhiều lắm . 
+</s>
+<s id=898>
+Khi một nhà thiên_văn khám_phá ra một trong bọn chúng , nhà thiên_văn ấy cho nó một con_số . 
+</s>
+<s id=899>
+Sau đó , móc túi lấy con cừu tôi vừa vẽ , em lại mê_mải ngắm cái của báu đó . 
+</s>
+<s id=900>
+Tôi có những lý_do chính_đáng để coi rằng cái hành_tinh từ đó ông_hoàng nhỏ đến đây là tiểu_hành_tinh B612 . 
+</s>
+<s id=901>
+Lúc đó ông này mở một buổi thuyết_trình lớn về phát_hiện của mình tại một hội_nghị quốc_tế về thiên_văn . 
+</s>
+<s id=902>
+Và lần này , tất_cả mọi người đồng_ý với ông ta . 
+</s>
+<s id=903>
+Khi bạn nói_chuyện với họ về một người bạn mới , không bao_giờ họ hỏi bạn về cái cốt_yếu đâu . 
+</s>
+<s id=904>
+Nhưng do bộ quần_áo của ông ta , chẳng ai tin điều ông ta nói . 
+</s>
+<s id=905>
+Nhà thiên_văn trình_bày lại vấn_đề năm 1920 , trong bộ quần_áo rất lịch_sự . 
+</s>
+<s id=906>
+Trẻ_con phải hết_sức rộng_lượng đối_với người_lớn . 
+</s>
+<s id=907>
+Và có_lẽ tôi sắp trở_nên những người_lớn , chỉ còn thích các chữ_số . 
+</s>
+<s id=908>
+Nhưng tôi không thành_công chút nào . 
+</s>
+<s id=909>
+Một bức trước vứt đi , bức sau còn tệ hơn nữa . 
+</s>
+<s id=910>
+Đối_với những_ai hiểu đời , kể như vậy có_vẻ thật hơn nhiều . 
+</s>
+<s id=911>
+Cuối_cùng tôi còn nhầm ở những nét quan_trọng hơn nữa . 
+</s>
+<s id=912>
+Nhưng này , các bạn phải tha lỗi cho tôi . 
+</s>
+<s id=913>
+Có_lẽ tôi hơi giống những người_lớn rồi . 
+</s>
+<s id=914>
+Nếu là nhánh dưa hay một nhánh hồng , ta có_thể muốn để cho nó mọc thế_nào tuỳ_ý . 
+</s>
+<s id=915>
+Mỗi ngày tôi lại biết thêm một điều gì đó về hành_tinh , về lúc ra đi , về cuộc du_hành của cậu . 
+</s>
+<s id=916>
+Tôi sẽ cố thử , hẳn thế , làm những bức chân_dung càng giống càng hay . 
+</s>
+<s id=917>
+- Cho_nên chúng ăn cả những cây baobab chứ ? 
+</s>
+<s id=918>
+- Bọn baobab , trước khi lớn , cũng bắt_đầu bé tẹo chứ ! 
+</s>
+<s id=919>
+Và tôi phải bắt trí thông_minh của tôi làm_việc dữ_dội mới tự hiểu được vấn_đề ấy . 
+</s>
+<s id=920>
+Ý_nghĩ về đàn voi làm cho ông_hoàng nhỏ bật cười : 
+</s>
+<s id=921>
+Do_đó , có hạt tốt của cỏ tốt và hạt xấu của cỏ xấu . 
+</s>
+<s id=922>
+Đây là một vấn_đề kỷ_luật , ông_hoàng nhỏ về sau nói với tôi . 
+</s>
+<s id=923>
+Đó là một việc_làm chán lắm , nhưng_mà thật dễ . 
+</s>
+<s id=924>
+Một ngày_kia , nếu các bạn ấy lên_đường , cậu em nói với tôi , chuyện ấy sẽ có_ích cho họ . 
+</s>
+<s id=925>
+Tôi tuyệt không thích lên_mặt dạy_đời . 
+</s>
+<s id=926>
+Câu trả_lời đơn_giản thôi : tôi có thử vẽ nhưng không thành . 
+</s>
+<s id=927>
+Tôi bấy_giờ đang bận tháo một đinh_ốc vặn quá chặt trong động_cơ của tôi . 
+</s>
+<s id=928>
+Khi ta làm vệ_sinh cho ta buổi sáng rồi , ta phải làm kỹ vệ_sinh cho hành_tinh . 
+</s>
+<s id=929>
+Thế_là , theo sự chỉ_dẫn của ông_hoàng nhỏ , tôi đã vẽ tinh_cầu đó . 
+</s>
+<s id=930>
+Ông_hoàng bé_nhỏ lúc này tái_xanh vì giận . 
+</s>
+<s id=931>
+Nhưng sau một lát im_lặng em kêu lên một_cách giận_dỗi : 
+</s>
+<s id=932>
+Đôi_khi hoãn lại một việc cũng chẳng hại gì . 
+</s>
+<s id=933>
+Cậu em nhìn thấy tôi tay cầm búa , các ngón đen_thui vì dầu_máy , cúi xuống một vật mà em xem_ra thật là xấu_xí . 
+</s>
+<s id=934>
+Thoạt_nhiên em có_vẻ kinh_ngạc , và rồi em tự cười mình . 
+</s>
+<s id=935>
+Tôi đã rất lo_lắng vì thấy cái máy có_vẻ hỏng nặng lắm , mà nước uống thì cạn dần làm cho tôi sợ xảy ra điều tệ_hại nhất . 
+</s>
+<s id=936>
+Tôi biết được nét mới đó vào buổi sáng ngày thứ tư , khi em bảo tôi : 
+</s>
+<s id=937>
+Họ chỉ hỏi bạn : " Hắn ta bao_nhiêu tuổi ? 
+</s>
+<s id=938>
+Thật là buồn nếu ta quên một người bạn . 
+</s>
+<s id=939>
+Nhưng cậu em nhận_xét với vẻ triết_lý : 
+</s>
+<s id=940>
+Nhưng , trên cái hành_tinh bé đến thế của em , em chỉ cần dịch ghế vài bước . 
+</s>
+<s id=941>
+Ông_hoàng nhỏ không bao_giờ chịu bỏ một câu hỏi , một_khi đã nói ra . 
+</s>
+<s id=942>
+Nhưng ông ta đâu có phải là người , ông ta là một cái nấm ! 
+</s>
+<s id=943>
+Ông_hoàng nhỏ lại làm sao_lãng những suy_nghĩ của tôi : 
+</s>
+<s id=944>
+- Có một ngày , tôi nhìn mặt_trời lặn bốn_mươi_ba lần ! 
+</s>
+<s id=945>
+Chúng cố tự làm cho chúng được vững_tâm . 
+</s>
+<s id=946>
+Nhưng nếu là một cây xấu , ngay khi nhận ra là phải nhổ ngay . 
+</s>
+<s id=947>
+Tôi cóc cần cái búa của tôi , cái đinh_ốc của tôi , cóc cần cái khát , cóc cần cái chết . 
+</s>
+<s id=948>
+Nhưng nếu là những cây baobab , thì bao_giờ cũng tai_hoạ đấy . 
+</s>
+<s id=949>
+Ông ta chẳng bao_giờ làm cái gì khác những bài_tính cộng . 
+</s>
+<s id=950>
+Mái tóc của em vàng xoã tung ra trước gió : 
+</s>
+<s id=951>
+Và chuyện đó không quan_trọng hay sao ! 
+</s>
+<s id=952>
+Tôi sẽ vẽ một cái rọ_mõm , cho con cừu của em ... 
+</s>
+<s id=953>
+Họ sẽ kêu ngay : " ôi thật xinh_đẹp làm_sao . " 
+</s>
+<s id=954>
+Khi vẽ cây baobab , tôi bị thôi_thúc bởi một tình_cảm cấp_bách . 
+</s>
+<s id=955>
+Họ không bao_giờ hỏi : " Giọng nói hắn ta thế_nào ? 
+</s>
+<s id=956>
+- Ông lẫn_lộn hết ... ông xáo_trộn hết ! 
+</s>
+<s id=957>
+Nhưng không thương_xót , em nói thêm : 
+</s>
+<s id=958>
+Tôi đã tìm_hiểu rất nhanh để hiểu hơn về đoá hoa này . 
+</s>
+<s id=959>
+- Em chẳng sợ gì hổ , nhưng em khiếp gió luồn . 
+</s>
+<s id=960>
+- Chiều tối anh hãy đặt em trong bầu kính nhé . 
+</s>
+<s id=961>
+Cô chẳng_thể hiểu được gì về các thế_giới khác . 
+</s>
+<s id=962>
+Đối_với một cây nhỏ thế là không hay , ông_hoàng nhỏ nhận_xét . 
+</s>
+<s id=963>
+- Nếu ông vui_lòng ... xin vẽ hộ tôi một con cừu ! 
+</s>
+<s id=964>
+Và chúng rất thuận_tiện cho việc nấu_ăn buổi sáng . 
+</s>
+<s id=965>
+Sự giản_dị trong_sáng toả khắp tác_phẩm đã khiến nó trở_nên một bài thơ bất_hủ mà mãi_mãi người_ta muốn đem làm quà tặng của tình_yêu . 
+</s>
+<s id=966>
+Cái hoa của tôi làm thơm_ngát tinh_cầu của tôi , nhưng tôi lại không biết vui_lòng . 
+</s>
+<s id=967>
+Buổi sáng hôm ra đi , em đã dọn_dẹp tinh_cầu thật ngăn_nắp . 
+</s>
+<s id=968>
+Em nạo_vét kỹ_càng các quả núi_lửa đang hoạt_động của em . 
+</s>
+<s id=969>
+Em có hai quả núi_lửa đang hoạt_động . 
+</s>
+<s id=970>
+Nên Em cũng nạo_vét cả quả núi_lửa đã tắt nữa . 
+</s>
+<s id=971>
+Nhưng bấy_giờ tôi còn quá trẻ để mà biết yêu nàng . " 
+</s>
+<s id=972>
+Tôi đoán rằng em nhờ vào một chuyến thiên_di của loài chim hoang để mà thoát đi . 
+</s>
+<s id=973>
+Tôi đã sống cô_đơn như vậy đó , chẳng có ai để chuyện_trò thực_sự , cho đến khi máy_bay của tôi bị hỏng giữa sa_mạc Sahara , cách đây sáu năm . 
+</s>
+<s id=974>
+Em không hiểu được vẻ dịu_dàng bình_tĩnh ấy của nàng . 
+</s>
+<s id=975>
+Đây là một thần_dân ! nhà_vua kêu lên khi thấy ông_hoàng nhỏ . 
+</s>
+<s id=976>
+Một bài thơ mà cho_dù người_ta đã đọc hàng trăm lần vẫn thấy lòng rạo_rực mỗi khi đọc lại , cũng như mọi tác_phẩm khác mà Saint Exupéry đã để lại . 
+</s>
+<s id=977>
+Bức phác_thảo đầu_tiên của tôi . nó như thế này : 
+</s>
+<s id=978>
+Những người_lớn bèn khuyên tôi nên gác sang một bên các bức vẽ trăn kín và trăn mở kia và nên chú_tâm học địa_lý , sử_ký , tính_toán và văn_phạm . 
+</s>
+<s id=979>
+Tôi biết làm thế_nào để chỉ nhìn qua một cái là phân_biệt được ngay Trung Quốc với Arizona . 
+</s>
+<s id=980>
+Mỗi lúc gặp một người_lớn có_vẻ sáng_sủa một_tí , tôi lại thử ông ta bằng bức phác_thảo số một mà tôi luôn mang theo . 
+</s>
+<s id=981>
+Đêm đầu_tiên vậy_là tôi phải ngủ trên cát ở cách xa nơi người ở hàng ngàn dặm . 
+</s>
+<s id=982>
+Nhưng bức vẽ của tôi chắc là kém đẹp hơn người_mẫu nhiều . 
+</s>
+<s id=983>
+Xin nhớ là lúc ấy tôi đang ở cách mọi chỗ có người hàng ngàn dặm . 
+</s>
+<s id=984>
+Ông_hoàng nhỏ ngạc_nhiên vì không thấy nàng trách_móc . 
+</s>
+<s id=985>
+Em đứng sững , tay cầm nguyên cái bầu kính . 
+</s>
+<s id=986>
+Ngài không tha_thứ được sự trái lệnh . 
+</s>
+<s id=987>
+- Tôi ngồi được không ạ ? ông_hoàng nhỏ rụt_rè hỏi . 
+</s>
+<s id=988>
+Nhưng ông_hoàng nhỏ lấy_làm kinh_ngạc . 
+</s>
+<s id=989>
+Nhà_ngươi có_thể xét_xử con chuột già ấy . 
+</s>
+<s id=990>
+- Nước cũng có_thể tốt_lành cho trái_tim ... 
+</s>
+<s id=991>
+Bạn chắc sẽ tưởng_tượng ra nỗi kinh_ngạc của tôi , vào lúc mờ sáng , khi một giọng nói nhỏ_nhẹ ngộ_nghĩnh đánh_thức tôi dậy . 
+</s>
+<s id=992>
+Đây là bức chân_dung đẹp nhất mà về sau tôi vẽ được về cậu bé ấy . 
+</s>
+<s id=993>
+Tôi đã bị người_lớn làm cho nản_lòng trong sự_nghiệp hội_hoạ từ hồi sáu tuổi , và tôi có bao_giờ học vẽ cái gì ngoài những con trăn khép kín và những con trăn mở bụng đâu . 
+</s>
+<s id=994>
+Vậy_là tôi nhìn cái sự hiển_hiện đó với hai con mắt tròn_xoe vì kinh_ngạc . 
+</s>
+<s id=995>
+Thế_mà cậu bé của tôi trông chẳng giống như bị lạc đường , chẳng hề mệt lả , chẳng hề đói , chẳng hề khát nước hay sợ_hãi gì cả . 
+</s>
+<s id=996>
+- Ông thấy đấy ... đây không phải con cừu , đây là dê . 
+</s>
+<s id=997>
+Cậu ta chẳng có_vẻ gì của một cậu bé lạc giữa sa_mạc , cách nơi có người cả ngàn dặm . 
+</s>
+<s id=998>
+Thế_là em lặp lại câu nói lúc nãy , thật nhẹ_nhàng , như là một điều rất quan_trọng : 
+</s>
+<s id=999>
+Dù điều này thật là vô_lý khi tôi đang ở cách xa nơi người ở cả ngàn dặm và đang bị nguy đến tính_mạng , tôi rút trong túi ra một cây bút và một mảnh giấy . 
+</s>
+<s id=1000>
+Nhưng tôi sực nhớ rằng mình đã chỉ học địa_lý , sử_ký , tính_toán và văn_phạm , và tôi nói với cậu bé ( có_vẻ hơi khó_chịu ) rằng tôi không biết vẽ . 
+</s>
+<s id=1001>
+Bấy_giờ tôi hết kiên_nhẫn , bởi sốt_ruột muốn bắt_đầu tháo máy , tôi vẽ nguệch_ngoạc bức vẽ này đây . 
+</s>
+<s id=1002>
+Ông nghĩ có cần nhiều cỏ cho con cừu này không ạ ? 
+</s>
+<s id=1003>
+Ông_hoàng bé_nhỏ , vốn rất hay đặt câu hỏi cho tôi , lại dường_như không bao_giờ chú_ý nghe tôi hỏi . 
+</s>
+<s id=1004>
+Chỉ vì những tiếng ngẫu_nhiên buột ra dần_dần nói cho tôi hiểu mọi sự . 
+</s>
+<s id=1005>
+Ví_dụ như , khi lần đầu em thấy chiếc máy_bay của tôi ( tôi sẽ không vẽ chiếc máy_bay đâu , bức vẽ đó quá phức_tạp đối_với tôi ) em hỏi tôi : 
+</s>
+<s id=1006>
+- Thế_là ông cũng từ trên trời rơi xuống ! 
+</s>
+<s id=1007>
+Tôi muốn ai cũng phải đánh_giá một_cách nghiêm_túc mọi tai_nạn của tôi . 
+</s>
+<s id=1008>
+Tôi chưa bao_giờ kể lại câu_chuyện này . 
+</s>
+<s id=1009>
+Chúng ngủ trong bí_mật cho đến khi một cái hạt nào trong bọn chúng nổi hứng muốn thức dậy ... 
+</s>
+<s id=1010>
+Nó vươn vai , rụt_rè nhú lên mặt_trời một cái nhánh con hiền_lành tuyệt xinh . 
+</s>
+<s id=1011>
+- Nhưng_mà ngồi trên cái đó thì ông cũng chẳng_thể tới từ xa lắm đâu ... 
+</s>
+<s id=1012>
+Lời đề_nghị đó có_lẽ làm cho ông_hoàng bé_nhỏ không vừa_lòng : 
+</s>
+<s id=1013>
+- Nhưng không buộc nó lại , nó sẽ đi lung_tung , nó sẽ đi lạc ... 
+</s>
+<s id=1014>
+- Có cái tốt là với cái thùng ông cho tôi , ban_đêm con cừu có_thể dùng nó làm nhà ở . 
+</s>
+<s id=1015>
+Tức_thì tôi loé lên một tia sáng nào đó , về sự có_mặt bí_ẩn của em , và đột_nhiên tôi hỏi : 
+</s>
+<s id=1016>
+Ví_dụ ông gọi nó là tiểu_hành_tinh 3251 . 
+</s>
+<s id=1017>
+Tiểu_hành_tinh đó chỉ được trông thấy có một lần trong kính_viễn_vọng năm 1909 , bởi một nhà thiên_văn Thổ Nhĩ Kỳ . 
+</s>
+<s id=1018>
+Anh ta nghĩ : " Đoá hoa của mình ở đâu_đó trên kia ... " 
+</s>
+<s id=1019>
+Tôi không biết nói với em thế_nào nữa . 
+</s>
+<s id=1020>
+Một buổi sáng , chúng hiện ra trong cỏ rồi lại héo tàn vào chiều_tối . 
+</s>
