@@ -1,0 +1,3360 @@
+﻿::id 11-9-1 ::date 2024-09-27T08:58:52 ::annotator user10
+::snt cái hành tinh thật là bé .
+
+(b / bé
+    :domain(h / hành tinh
+        :classifier(c / cái))
+    :degree(t / thật
+        :compound(l / là)))
+
+
+::id 11-9-2 ::date 2024-09-27T08:58:55 ::annotator user10
+::snt đức vua có thể trị vì trên cái gì ở đây ?
+
+(p / possible-01
+    :agent(t / trị vì
+        :agent-of(đ / đức
+            :compound(v / vua))
+        :location(đ1 / đây
+            :prep(ở / ở))
+        :theme(a / amr-unknown
+            :prep(t1 / trên)
+            :classifier(c1 / cái))))
+
+
+::id 11-9-3 ::date 2024-09-27T08:58:57 ::annotator user10
+::snt - tâu bệ hạ , em nói , cúi xin bệ hạ cho tôi được hỏi ...
+
+(n / nói
+    :agent(e / em)
+    :topic(a / and
+        :op1(t / tâu
+            :goal(b / bệ hạ))
+        :op2(c / cúi
+            :compound(x / xin)
+            :topic(c1 / cho
+                :beneficiary(h / hỏi
+                    :modality(đ / được)
+                    :beneficiary:arg0(null / e))
+                :agent(null / b))
+            :agent(null / e)
+            :goal(null / b))))
+
+
+::id 11-9-4 ::date 2024-09-27T08:59:00 ::annotator user10
+::snt - ta ra lệnh cho ngươi hỏi , vua vội vàng nói .
+
+(n1 / nói
+    :agent(v / vua
+        :topic(r / ra lệnh
+            :patient(h / hỏi
+                :patient-of(n / ngươi))
+            :agent(null / v)))
+    :manner(v1 / vội vàng))
+
+
+::id 11-9-5 ::date 2024-09-27T08:59:03 ::annotator user10
+::snt - tâu bệ hạ , ngài trị vì trên cái gì ?
+
+(t / tâu
+    :patient(b / bệ hạ)
+    :topic(t1 / trị vì
+        :agent(null / b)
+        :theme(a / amr-unknown
+            :prep(t2 / trên)
+            :classifier(c / cái))))
+
+
+::id 11-9-6 ::date 2024-09-27T08:59:12 ::annotator user10
+::snt - trên tất cả .
+
+(t1 / tất cả
+    :prep(t / trên))
+
+
+::id 11-9-7 ::date 2024-09-27T08:59:21 ::annotator user10
+::snt Nhàvua đáp , hếtsức giảndị .
+
+(đ / đáp
+    :agent(n / Nhàvua)
+    :manner(g / giảndị
+        :degree(h / hếtsức)))
+
+
+::id 11-9-8 ::date 2024-09-27T08:59:24 ::annotator user10
+::snt - trên tất cả ?
+
+(t1 / tất cả
+    :prep(t / trên)
+    :mode interrogative(null / -))
+
+
+::id 11-9-9 ::date 2024-09-27T08:59:35 ::annotator user10
+::snt đức vua phác một cử chỉ dứt khoát chỉ cái hành tinh của mình , các hành tinh khác và các ngôi sao .
+
+(p / phác
+    :agent(đ / đức
+        :compound(v / vua))
+    :theme(c / cử chỉ
+        :mod(d / dứt khoát)
+        :quant(null / 1))
+    :agent-of(c1 / chỉ
+        :goal(a / and
+            :op1(h / hành tinh
+                :classifier(c2 / cái)
+                :poss(null / đ))
+            :op2(h1 / hành tinh
+                :mod(k / khác))
+            :op3(s / sao
+                :classifier(n / ngôi)))))
+
+
+::id 11-10-1 ::date 2024-09-27T08:59:45 ::annotator user10
+::snt - trên tất cả những cái đó ? ông hoàng nhỏ hỏi .
+
+(h / hỏi
+    :topic(c / cái
+        :prep(t / trên)
+        :mod(t1 / tất cả)
+        :mod(đ / đó)
+        :mode interrogative(null / -))
+    :agent(ô / ông hoàng
+        :mod(n1 / nhỏ)))
+
+
+::id 11-10-2 ::date 2024-09-27T08:59:48 ::annotator user10
+::snt - trên tất cả những cái đó ...
+
+(c / cái
+    :prep(t / trên)
+    :mod(t1 / tất cả)
+    :mod(đ / đó))
+
+
+::id 11-10-3 ::date 2024-09-27T08:59:53 ::annotator user10
+::snt đức vua trả lời .
+
+(t / trả lời
+    :agent(đ / đức
+        :compound(v / vua)))
+
+
+::id 11-10-4 ::date 2024-09-27T08:59:56 ::annotator user10
+::snt bởi vì đó không phải là một vị vua chuyên chế mà còn là một vị vua toàn năng .
+
+(c1 / cause-01
+    :topic(a / and
+        :op1(p / phải
+            :domain(đ / đó)
+            :result(v / vị
+                :compound(v1 / vua)
+                :mod(c / chuyên chế)
+                :quant(null / 1))
+            :polarity(null / -))
+        :op2(v2 / vị
+            :compound(v3 / vua)
+            :mod(t / toàn năng)
+            :quant(null / 1)
+            :domain(null / đ))))
+
+
+::id 11-10-5 ::date 2024-09-27T09:00:00 ::annotator user10
+::snt - các ngôi sao có tuân lệnh bệ hạ không ?
+
+(t / tuân
+    :agent(s / sao
+        :classifier(n / ngôi))
+    :theme(l / lệnh
+        :poss(b / bệ hạ))
+    :mode interrogative(null / -))
+
+
+::id 11-10-6 ::date 2024-09-27T09:00:02 ::annotator user10
+::snt - chắc chắn rồi , vua trả lời em .
+
+(t / trả lời
+    :topic(c / chắc chắn
+        :modality(r / rồi))
+    :agent(v / vua)
+    :theme(e / em))
+
+
+::id 11-10-7 ::date 2024-09-27T09:00:05 ::annotator user10
+::snt chúng lập tức tuân lệnh .
+
+(t / tuân
+    :agent(c / chúng)
+    :manner(l / lập tức)
+    :theme(l1 / lệnh))
+
+
+::id 11-10-8 ::date 2024-09-27T09:00:08 ::annotator user10
+::snt trẫm không dung thứ sự trái lời .
+
+(d / dung thứ
+    :agent(t / trẫm)
+    :topic(s / sự
+        :compound(t1 / trái
+            :mod(l / lời)))
+    :polarity(null / -))
+
+
+::id 11-10-9 ::date 2024-09-27T09:00:12 ::annotator user10
+::snt một quyền lực như thế làm cho ông hoàng nhỏ thích mê .
+
+(l / làm
+    :domain(q / quyền lực
+        :compared-to(t / thế)
+        :degree(e / equal))
+    :result(t1 / thích
+        :pivot(ô / ông hoàng
+            :mod(n1 / nhỏ))
+        :compound(m1 / mê)))
+
+
+::id 11-11-1 ::date 2024-09-27T09:00:27 ::annotator user10
+::snt nếu em mà có quyền lực ấy , em có thể mặc sức mà ngắm , không phải là bốn mươi bốn , mà đến bảy mươi hai , đến một trăm , đến cả hai trăm cảnh mặt trời lặn trong một ngày , mà chẳng phải xê dịch ghế ngồi .
+
+(p1 / possible-01
+    :condition(c / có
+        :pivot(e / em)
+        :theme(q / quyền lực
+            :mod(ấ / ấy)))
+    :agent(n1 / ngắm
+        :degree(m1 / mặc sức)
+        :theme(c3 / cảnh
+            :mod(l1 / lặn
+                :theme-of(m5 / mặt trời)
+                :frequency(h4 / have-frequency-91
+                    :quant(a / and
+                        :op1(null / 72)
+                        :op2(null / 100)
+                        :op3(null / 200))
+                    :range(t2 / temporal-quantity
+                        :unit(n2 / ngày)
+                        :quant(null / 1)))
+                :frequency(h3 / have-frequency-91 
+                    :polarity(null / -)
+                    :quant(null / 40)
+                    :range(null / t2))))
+        :manner(x / xê dịch
+            :modality(p1 / phải)
+            :patient(g / ghế
+                :mod(n3 / ngồi))
+            :agent(null / e)
+            :polarity(null / -))
+        :agent-of(null / e)))
+
+
+::id 11-11-2 ::date 2024-09-27T09:00:31 ::annotator user10
+::snt rồi em cảm thấy hơi buồn vì chợt nghĩ đến cái tinh cầu nhỏ bị bỏ rơi của mình , em đánh bạo xin nhà vua một ân huệ :
+
+(đ1 / đánh bạo
+    :cause(c / cảm
+        :pivot(e / em)
+        :compound(t / thấy)
+        :manner(b / buồn
+            :degree(h / hơi))
+        :cause(n / nghĩ
+            :degree(c1 / chợt)
+            :goal(t1 / tinh cầu
+                :classifier(c2 / cái)
+                :mod(n1 / nhỏ)
+                :mod(b2 / bỏ rơi
+                    :modality(b1 / bị)
+                    :agent(null / e))
+                :poss(m / mình))
+            :pivot(null / e)))
+    :pivot(e1 / em)
+    :purpose(x / xin
+        :goal(n2 / nhà vua)
+        :theme(â / ân huệ
+            :quant(null / 1))
+        :agent(null / e)))
+
+
+::id 11-11-3 ::date 2024-09-27T09:00:36 ::annotator user10
+::snt - tôi muốn được xem cảnh mặt trời lặn ...
+
+(m / muốn
+    :pivot(t / tôi)
+    :topic(x / xem
+        :modality(đ / được)
+        :theme(c / cảnh
+            :mod(l / lặn
+                :theme-of(m1 / mặt trời)))
+        :agent(null / t)))
+
+
+::id 11-11-4 ::date 2024-09-27T09:00:40 ::annotator user10
+::snt xin bệ hạ hãy làm tôi vui lòng , hãy ra lệnh cho mặt trời lặn ...
+
+(a / and
+    :op1(x / xin
+        :goal(b / bệ hạ)
+        :topic(l / làm
+            :beneficiary(v / vui lòng
+                :beneficiary:arg0(t / tôi))
+            :mode imperative(null / -)
+            :agent(null / b))
+        :op2(r / ra lệnh
+            :patient(l1 / lặn
+                :patient-of(m / mặt trời))
+            :mode imperative(null / -)
+            :agent(null / b))
+        :agent(null / t)))
+
+
+::id 11-11-5 ::date 2024-09-27T09:00:43 ::annotator user10
+::snt - nếu ta ra lệnh cho một võ tướng bay từ đoá hoa này sang đoá hoa kia như một con bướm , hay lệnh cho ông ta viết một vở bi kịch , hay biến thành chim biển , và nếu vị võ tướng ấy không tuân lệnh , thì lỗi ấy ở ông ta hay ở ta ?
+
+(o / or
+    :op1(ở / ở
+        :theme(l2 / lỗi
+            :mod(ấ1 / ấy))
+        :source(null / ô
+            :mod(null / t2)))
+    :op2(ở1 / ở
+        :source(null / t)
+        :theme(null / l2))
+    :condition(a / and
+        :op2(t4 / tuân
+            :patient(v4 / vị
+                :compound(v5 / võ tướng)
+                :mod(ấ / ấy))
+            :theme(l1 / lệnh)
+            :polarity(null / -))
+        :op1(o1 / or
+            :op1(r / ra lệnh
+                :agent(t / ta)
+                :patient(b / bay
+                    :patient-of(v / võ tướng
+                        :quant(null / 1))
+                    :location(s / sang
+                        :initialLocation(h / hoa
+                            :classifier(đ / đoá)
+                            :mod(n1 / này))
+                        :finalLocation(h1 / hoa
+                            :classifier(đ1 / đoá)
+                            :mod(k / kia)))
+                    :manner(b1 / bướm
+                        :quant(null / 1
+                            :classifier(c1 / con)))))
+            :op2(l / lệnh
+                :agent(null / t7)
+                :patient(o2 / or
+                    :op1(v1 / viết
+                        :result(v2 / vở
+                            :mod(b2 / bi kịch)
+                            :quant(null / 1))
+                        :patient-of(null / v))
+                    :op2(b3 / biến
+                        :compound(t3 / thành)
+                        :result(c3 / chim
+                            :mod(b4 / biển))
+                        :patient-of(null / v)))))))
+
+
+::id 11-11-6 ::date 2024-09-27T09:00:48 ::annotator user10
+::snt - ở bệ hạ , ông hoàng nhỏ cả quyết .
+
+(c / cả quyết
+    :topic(ở / ở
+        :source(b / bệ hạ))
+    :agent(ô / ông hoàng
+        :mod(n / nhỏ)))
+
+
+::id 11-11-7 ::date 2024-09-27T09:00:51 ::annotator user10
+::snt - đúng .
+
+(đ / đúng)
+
+
+::id 11-11-8 ::date 2024-09-27T09:00:57 ::annotator user10
+::snt phải cho mỗi người làm việc người đó có thể làm , đức vua nhắc lại .
+
+(n2 / nhắc
+    :agent(đ1 / đức
+        :compound(v / vua))
+    :compound(l2 / lại)
+    :topic(o / obligate-01
+        :topic-of(c / cho
+            :beneficiary(l / làm việc
+                :beneficiary:arg0(n / người
+                    :mod(m / mỗi))
+                :mod(p2 / possible-01
+                    :agent(l1 / làm
+                        :agent-of(null / n
+                            :mod(đ / đó))))))))
+
+
+::id 11-11-9 ::date 2024-09-27T09:01:00 ::annotator user10
+::snt quyền lực trước hết phải dựa trên lẽ phải .
+
+(o / obligate-01
+    :topic(d / dựa
+        :theme(q / quyền lực)
+        :degree(t / trước hết)
+        :source(l / lẽ phải
+            :prep(t1 / trên))))
+
+
+::id 11-11-10 ::date 2024-09-27T09:01:04 ::annotator user10
+::snt nếu nhà ngươi ra lệnh cho thần dân của mình nhảy xuống bể , họ sẽ làm cách mạng .
+
+(l / làm
+    :condition(r / ra lệnh
+        :agent(n1 / nhà ngươi)
+        :patient(n2 / nhảy
+            :patient-of(t / thần dân
+                :poss(m / mình))
+            :direction(x / xuống)
+            :location(b / bể)))
+    :tense(s / sẽ)
+    :result(c2 / cách mạng)
+    :agent(null / t))
+
+
+::id 11-11-11 ::date 2024-09-27T09:01:07 ::annotator user10
+::snt ta có quyền buộc tuân lệnh ta vì mọi lệnh ta đều hợp lý .
+
+(c / có
+    :pivot(t / ta)
+    :theme(q / quyền)
+    :manner(b / buộc
+        :patient(t1 / tuân
+            :theme(l / lệnh
+                :poss(null / t)))
+        :agent(null / t))
+    :cause(h / hợp lý
+        :domain(l1 / lệnh
+            :mod(m / mọi)
+            :degree(đ / đều)
+            :poss(null / t))))
+
+
+::id 11-11-12 ::date 2024-09-27T09:01:22 ::annotator user10
+::snt - thế cảnh mặt trời lặn của tôi thì sao ?
+
+(c / cảnh
+    :mod(l / lặn
+        :theme(m / mặt trời))
+    :poss(t1 / tôi)
+    :manner(a / amr-unknown))
+
+
+::id 11-11-13 ::date 2024-09-27T09:29:05 ::annotator user10
+::snt ông hoàng nhỏ vốn đã đặt ra câu hỏi thì không bao giờ quên , hỏi lại .
+
+(đ1 / đặt
+    :agent(ô / ông hoàng
+        :mod(n / nhỏ))
+    :tense(đ / đã)
+    :compound(r / ra)
+    :result(c / câu
+        :compound(h / hỏi))
+    :topic(q / quên
+        :time(b / bao giờ)
+        :topic(h1 / hỏi
+            :compound(l / lại))
+        :polarity(null / -)
+        :pivot(null / ô)))
+
+
+::id 11-11-14 ::date 2024-09-27T09:04:26 ::annotator user10
+::snt - cảnh mặt trời lặn của ngươi , ngươi sẽ có .
+
+(c2 / có
+    :theme(c / cảnh
+        :mod(l / lặn
+            :theme(m / mặt trời))
+        :poss(n / ngươi))
+    :tense(s / sẽ)
+    :pivot(null / n))
+
+
+::id 11-11-15 ::date 2024-09-27T09:04:33 ::annotator user10
+::snt ta muốn thế .
+
+(m / muốn
+    :pivot(t / ta)
+    :theme(t1 / thế))
+
+
+::id 11-11-16 ::date 2024-09-27T09:04:41 ::annotator user10
+::snt nhưng trong khoahọc caitrị của ta , ta phải chờ đến lúc đủ mọi điềukiện .
+
+(c3 / contrast-01
+    :ARG2(o / obligate-01
+        :setting(k / khoahọc
+            :prep(t / trong)
+            :mod(c / caitrị)
+            :poss(t1 / ta))
+        :manner(c2 / chờ
+            :time(l / lúc
+                :mod(đ1 / đủ
+                    :theme(đ2 / điềukiện
+                        :mod(m / mọi))))
+            :pivot(null / t1))
+        :pivot(null / t1)))
+
+
+::id 11-11-17 ::date 2024-09-27T09:04:44 ::annotator user10
+::snt - đến bao giờ thì đủ ? ông hoàng nhỏ hỏi .
+
+(h / hỏi
+    :result(đ1 / đủ)
+    :agent(ô / ông hoàng
+        :mod(n / nhỏ))
+    :time(a / amr-unknown))
+
+
+::id 11-11-18 ::date 2024-09-27T09:04:48 ::annotator user10
+::snt - ừm ! ừm ! nhà vua nói , thoạt tiên tra một cuốn lịch to tướng , ừm ! ừm !
+
+(m1 / multi-sentence
+    :snt1(ừ / ừm
+        :mode expressive(null / -))
+    :snt2(ừ1 / ừm
+        :mode expressive(null / -))
+    :snt3(a / and
+        :op1(n1 / nói
+            :agent(n / nhà vua)
+            :topic(t1 / tra
+                :time(t / thoạt tiên)
+                :theme(l / lịch
+                    :mod(t2 / to tướng)
+                    :quant(null / 1
+                        :classifier(c / cuốn)))))
+        :op2(ừ2 / ừm
+            :mode expressive(null / -))
+        :op3(ừ3 / ừm
+            :mode expressive(null / -))))
+
+
+::id 11-11-19 ::date 2024-09-27T09:04:53 ::annotator user10
+::snt vào lúc ...
+
+(v / vào
+    :time(l / lúc))
+
+
+::id 11-11-20 ::date 2024-09-27T09:04:57 ::annotator user10
+::snt khoảng ... khoảng ...
+
+(k / khoảng)
+
+
+::id 11-11-21 ::date 2024-09-27T09:05:19 ::annotator user10
+::snt vào lúc chiều nay , khoảng bảy giờ bốnmươi phút ! nhàngươi sẽ thấy được lệnh ta được tuânthủ .
+
+(t / thấy
+    :time(k / khoảng
+        :op1(d / date-entity 
+            :dayperiod(c / chiều
+                :mod(n / nay))
+            :time(null / 19:40)))
+    :pivot(n1 / nhàngươi)
+    :tense(s / sẽ)
+    :result(l1 / lệnh
+        :poss(t1 / ta)
+        :mod(đ1 / được
+            :manner(t2 / tuânthủ))))
+
+
+::id 11-11-22 ::date 2024-09-27T09:05:25 ::annotator user10
+::snt ông hoàng nhỏ ngáp .
+
+(n1 / ngáp
+    :agent(ô / ông hoàng
+        :mod(n / nhỏ)))
+
+
+::id 11-12-1 ::date 2024-09-27T09:05:34 ::annotator user10
+::snt em tiếc cho cảnh mặt trời lặn hụt của em .
+
+(t / tiếc
+    :pivot(e / em)
+    :theme(c1 / cảnh
+        :mod(l / lặn
+            :theme(m / mặt trời)
+            :manner(h / hụt))
+        :poss(e1 / em)))
+
+
+::id 11-12-2 ::date 2024-09-27T09:05:38 ::annotator user10
+::snt và rồi em cũng hơi thấy chán :
+
+(a / and
+    :op2(t / thấy
+        :pivot(e / em)
+        :modality(c / cũng)
+        :degree(h / hơi)
+        :manner(c1 / chán)))
+
+
+::id 11-12-3 ::date 2024-09-27T09:05:41 ::annotator user10
+::snt - tôi chẳng có gì làm ở đây nữa , em nói với nhà vua , tôi sẽ đi .
+
+(n1 / nói
+    :agent(e / em)
+    :goal(n2 / nhà vua)
+    :topic(đ1 / đi
+        :reason(c1 / có
+            :theme(g / gì)
+            :purpose(l / làm
+                :location(đ / đây
+                    :prep(ở / ở))
+                :agent(null / e))
+            :pivot(null / e)
+            :polarity(null / -))
+        :tense(s / sẽ)
+        :agent(null / e)))
+
+
+::id 11-12-4 ::date 2024-09-27T09:05:45 ::annotator user10
+::snt - ngươi chớ đi , nhà vua vừa mới kiêu hãnh xiết bao vì có được một thần dân , đáp lời ông hoàng nhỏ .
+
+(đ2 / đáp
+    :topic(đ / đi
+        :mode imperative(null / -)
+        :polarity(null / -)
+        :agent(null / ô))
+    :agent(n1 / nhà vua)
+    :setting(k / kiêu hãnh
+        :degree(x / xiết bao)
+        :reason(c1 / có
+            :result(t / thần dân
+                :quant(null / 1))
+            :pivot(null / n1))
+        :time(b / before)
+        :domain(null / n1))
+    :compound(l / lời)
+    :goal(ô / ông hoàng
+        :mod(n2 / nhỏ)))
+
+
+::id 11-12-5 ::date 2024-09-27T09:05:49 ::annotator user10
+::snt chớ đi , ta phong ngươi làm thượng thư !
+
+(a / and
+    :op1(đ / đi
+        :mode imperative(null / -)
+        :agent(null / n)
+        :polarity(null / -))
+    :op2(p / phong
+        :agent(t / ta)
+        :patient(l / làm
+            :patient-of(n / ngươi)
+            :theme(t1 / thượng thư))))
+
+
+::id 11-12-6 ::date 2024-09-27T09:07:59 ::annotator user10
+::snt - thượng thư bộ gì ?
+
+(t / thượng thư
+    :source(b / bộ
+        :mod(a / amr-unknown)))
+
+
+::id 11-12-7 ::date 2024-09-27T09:08:03 ::annotator user10
+::snt - bộ ... bộ tư pháp !
+
+(b1 / bộ
+    :mod(t / tư pháp))
+
+
+::id 11-12-8 ::date 2024-09-27T09:08:07 ::annotator user10
+::snt - nhưng có ai để xét xử đâu ạ !
+
+(c2 / contrast-01
+    :ARG2(c / có
+        :patient(a / ai)
+        :purpose(x / xét xử)
+        :polarity(null / không)))
+
+
+::id 11-12-9 ::date 2024-09-27T09:08:15 ::annotator user10
+::snt - chưa thể biết , vua nói với ông hoàng nhỏ .
+
+(n / nói
+    :topic(b / biết
+        :polarity(null / -))
+    :agent(v / vua)
+    :goal(ô / ông hoàng
+        :mod(n1 / nhỏ)))
+
+
+::id 11-12-10 ::date 2024-09-27T09:08:17 ::annotator user10
+::snt ta chưa đi tuần tra khắp vương quốc của ta .
+
+(đ / đi
+    :agent(t / ta)
+    :compound(t1 / tuần tra)
+    :location(v / vương quốc
+        :degree(k / khắp)
+        :poss(null / t))
+    :polarity(null / -))
+
+
+::id 11-12-11 ::date 2024-09-27T09:08:20 ::annotator user10
+::snt ta già quá rồi , không có đủ chỗ để một cỗ xa giá cho ta , mà đi bộ thì ta nhọc lắm .
+
+(a / and
+    :op1(g / già
+        :pivot(t / ta)
+        :degree(q / quá))
+    :op2(c / có
+        :degree(đ / đủ)
+        :location(c1 / chỗ)
+        :purpose(đ1 / để)
+        :theme(x / xa giá
+            :quant(null / 1
+                :classifier(c2 / cỗ)))
+        :beneficiary(null / t)
+        :polarity(null / -))
+    :op3(n / nhọc
+        :condition(đ2 / đi
+            :compound(b / bộ)
+            :agent(null / t))
+        :degree(l / lắm)
+        :pivot(null / t)))
+
+
+::id 11-12-12 ::date 2024-09-27T09:08:23 ::annotator user10
+::snt - ồ ! nhưng tôi đã nhìn thấy , ông hoàng nhỏ nghiêng mình nhìn sang phía bên kia của hành tinh .
+
+(m1 / multi-sentence
+    :snt1(ồ / ồ
+        :mode expressive(null / -))
+    :snt2(c2 / contrast-01
+        :ARG2(a / and
+            :op1(n1 / nhìn
+                :tense(đ / đã)
+                :compound(t1 / thấy)
+                :agent(null / ô))
+            :op2(n3 / nghiêng mình
+                :agent(ô / ông hoàng
+                    :mod(n2 / nhỏ))
+                :purpose(n4 / nhìn
+                    :compound(s / sang)
+                    :location(p / phía
+                        :mod(b / bên
+                            :mod(k / kia))
+                        :part-of(h / hành tinh))
+                    :agent(null / ô))))))
+
+
+::id 11-12-13 ::date 2024-09-27T09:08:27 ::annotator user10
+::snt bên kia cũng chẳng có ai đâu ạ ...
+
+(c2 / có
+    :location(b / bên
+        :mod(k / kia))
+    :modality(c / cũng)
+    :theme(a / ai)
+    :polarity(null / -))
+
+
+::id 11-12-14 ::date 2024-09-27T09:08:30 ::annotator user10
+::snt - thế thì ngươi hãy tự xét xử lấy mình đi , đức vua đáp lại em .
+
+(đ2 / đáp
+    :topic(x / xét xử
+        :manner(t1 / tự)
+        :mode imperative(null / -)
+        :agent(null / e)
+        :patient(null / e))
+    :agent(đ1 / đức
+        :mod(v / vua))
+    :compound(l1 / lại)
+    :goal(e / em))
+
+
+::id 11-12-15 ::date 2024-09-27T09:08:34 ::annotator user10
+::snt đó là điều khó nhất .
+
+(đ1 / điều
+    :domain(đ / đó)
+    :mod(k / khó
+        :degree(n / nhất)))
+
+
+::id 11-12-16 ::date 2024-09-27T09:08:36 ::annotator user10
+::snt xét mình khó hơn xét người nhiều .
+
+(x / xét
+    :patient(m / mình)
+    :manner(k / khó
+        :degree(h / hơn
+            :degree(n1 / nhiều)))
+    :compared-to(x1 / xét
+        :patient(n / người)))
+
+
+::id 11-12-17 ::date 2024-09-27T09:08:41 ::annotator user10
+::snt nếu ngươi xét được mình đúng đắn , thì ngươi là một bậc hiền lương chân chính .
+
+(b / bậc
+    :condition(x / xét
+        :manner(đ1 / đúng đắn)
+        :patient(null / n2)
+        :agent(null / n2))
+    :domain(n2 / ngươi)
+    :mod(h / hiền lương
+        :degree(c / chân chính)))
+
+
+::id 11-12-18 ::date 2024-09-27T09:08:44 ::annotator user10
+::snt - tôi , ông hoàng nhỏ đáp , tôi có thể tự xét mình bất cứ ở đâu .
+
+(đ / đáp
+    :agent(ô / ông hoàng
+        :mod(n / nhỏ))
+    :topic(p / possible-01
+        :agent(x / xét
+            :manner(t2 / tự)
+            :location(đ1 / đâu
+                :mod(b / bất cứ)
+                :prep(ở / ở))
+            :agent-of(null / ô)
+            :patient(null / ô))))
+
+
+::id 11-12-19 ::date 2024-09-27T09:08:46 ::annotator user10
+::snt tôi không nhất thiết phải ở đây .
+
+(o / obligate-01
+    :pivot(t / tôi)
+    :degree(n / nhất thiết)
+    :manner(ở / ở
+        :location(đ / đây)
+        :pivot(null / t))
+    :modality(null / -))
+
+
+::id 11-12-20 ::date 2024-09-27T09:08:49 ::annotator user10
+::snt - hừm ! hừm ! vua nói , hình như trên hành tinh của ta , đâu đó có một con chuột .
+
+(m1 / multi-sentence
+    :snt1(h / hừm
+        :mode expressive(null / -))
+    :snt2(h1 / hừm
+        :mode expressive(null / -))
+    :snt3(n / nói
+        :agent(v / vua)
+        :topic(c1 / có
+            :modality(h2 / hình như)
+            :location(đ / đâu đó
+                :location(h3 / hành tinh
+                    :prep(t / trên)
+                    :poss(null / v)))
+            :theme(c3 / chuột
+                :quant(null / 1
+                    :classifier(c2 / con))))))
+
+
+::id 11-12-21 ::date 2024-09-27T09:08:52 ::annotator user10
+::snt đêm ta nghe nó kêu .
+
+(n / nghe
+    :pivot(t / ta)
+    :theme(k / kêu
+        :agent(n1 / nó))
+    :time(d / date-entity
+        :dayperiod(đ / đêm)))
+
+
+::id 11-12-22 ::date 2024-09-27T09:08:55 ::annotator user10
+::snt nhà ngươi có thể xét xử con chuột già ấy .
+
+(p / possible-01
+    :agent(x / xét xử
+        :agent-of(n / nhà ngươi)
+        :patient(c2 / chuột
+            :classifier(c1 / con)
+            :mod(g / già)
+            :mod(ấ / ấy))))
+
+
+::id 11-12-23 ::date 2024-09-27T09:08:57 ::annotator user10
+::snt thỉnh thoảng ngươi ghép nó vào tội tử hình .
+
+(g / ghép
+    :agent(n / ngươi)
+    :patient(n1 / nó)
+    :setting(t1 / tội
+        :prep(v / vào)
+        :mod(t2 / tử hình))
+    :frequency(h / have-frequency-91
+        :unit(t / thỉnh thoảng)))
+
+
+::id 11-12-24 ::date 2024-09-27T09:09:00 ::annotator user10
+::snt như thế , cuộc đời của nó sẽ tuỳ ở luật pháp của nhà ngươi .
+
+(t1 / tuỳ
+    :pivot(c / cuộc đời
+        :poss(n1 / nó))
+    :tense(s / sẽ)
+    :setting(l / luật pháp
+        :prep(ở / ở)
+        :poss(n2 / nhà ngươi)))
+
+
+::id 11-12-25 ::date 2024-09-27T09:09:03 ::annotator user10
+::snt nhưng mỗi lần buộc tội xong , thì ngươi lại nên ân xá để dành dụm chuột .
+
+(c1 / contrast-01
+    :ARG2(r / recommend-01
+        :result(b / buộc tội
+            :frequency(h / have-frequency-91
+                :quant(m / mỗi)
+                :unit(l / lần))
+            :agent(null / n))
+        :agent(â / ân xá
+            :agent-of(n1 / ngươi)
+            :purpose(d / dành dụm
+                :theme(c / chuột)))))
+
+
+::id 11-12-26 ::date 2024-09-27T09:09:06 ::annotator user10
+::snt chỉ có mỗi một con ấy thôi .
+
+(c1 / có
+    :degree(c / chỉ)
+    :theme(c2 / con
+        :mod(ấ / ấy)
+        :quant(null / 1))
+    :modality(t / thôi))
+
+
+::id 11-12-27 ::date 2024-09-27T09:09:09 ::annotator user10
+::snt - tôi , ông hoàng nhỏ đáp , tôi không thích buộc tội tử hình , và tôi chắc rằng tôi sắp sửa ra đi .
+
+(đ / đáp
+    :agent(ô / ông hoàng
+        :mod(n / nhỏ))
+    :topic(a / and
+        :op1(t2 / thích
+            :pivot(t1 / tôi)
+            :topic(b / buộc tội
+                :result(t3 / tử hình)
+                :agent(null / t1))
+            :polarity(null / -))
+        :op2(l / likely-01
+            :topic(r1 / ra
+                :compound(đ1 / đi)
+                :time(a2 / after)
+                :agent(null / t1))
+            :pivot(null / t1))))
+
+
+::id 11-12-28 ::date 2024-09-27T09:09:15 ::annotator user10
+::snt - không , vua nói .
+
+(n / nói
+    :topic(k / không)
+    :agent(v / vua))
+
+
+::id 11-12-291 ::date 2024-09-27T09:09:18 ::annotator user10
+::snt nhưng ông hoàng nhỏ , đã chuẩn bị xong , không muốn làm phiền lòng vị vua già :
+
+(c / contrast-01
+    :ARG2(m / muốn
+        :agent-of(ô / ông hoàng
+            :mod(n1 / nhỏ)
+            :agent-of(c / chuẩn bị
+                :tense(đ / đã)
+                :manner(x / xong)))
+        :topic(l / làm
+            :patient(p / phiền lòng
+                :patient-of(v / vị
+                    :compound(v1 / vua)
+                    :mod(g / già)))
+            :agent(null / ô))
+        :polarity(null / -)))
+
+
+::id 11-13-1 ::date 2024-09-27T09:09:24 ::annotator user10
+::snt - nếu bệ hạ muốn được tuân theo một cách đúng đắn , thì phải cho tôi một cái lệnh hợp lý .
+
+(o / obligate-01
+    :topic(c / cho
+        :condition(m / muốn
+            :pivot(b / bệ hạ)
+            :modality(đ / được)
+            :patient(t / tuân
+                :compound(t1 / theo)
+                :manner(m1 / một cách
+                    :mod(đ1 / đúng đắn))
+                :patient-of(null / t3)))
+        :patient(t3 / tôi)
+        :theme(l / lệnh
+            :mod(h / hợp lý)
+            :quant(null / 1
+                :classifier(c1 / cái))))
+    :agent(null / b))
+
+
+::id 11-13-2 ::date 2024-09-27T09:09:29 ::annotator user10
+::snt ví dụ như phải ra lệnh cho tôi ra đi tức khắc .
+
+(e / example 
+    :topic(o / obligate-01
+        :topic(r / ra lệnh
+            :patient(t / tôi)
+            :purpose(r1 / ra
+                :compound(đ / đi)
+                :manner(t1 / tức khắc)
+                :patient(null / t)))))
+
+
+::id 11-13-3 ::date 2024-09-27T09:09:32 ::annotator user10
+::snt hình như mọi điều kiện đều thuận lợi ...
+
+(t / thuận lợi
+    :modality(h / hình như)
+    :domain(đ / điều kiện
+        :mod(m / mọi))
+    :degree(đ1 / đều))
+
+
+::id 11-13-4 ::date 2024-09-27T09:09:35 ::annotator user10
+::snt nhà vua chẳng biết trả lời sao .
+
+(b / biết
+    :pivot(n / nhà vua)
+    :topic(t / trả lời
+        :manner(s / sao))
+    :polarity(null / -))
+
+
+::id 11-14-1 ::date 2024-09-27T09:09:40 ::annotator user10
+::snt thoạt đầu ông hoàng nhỏ hơi do dự , rồi thở dài , em bước đi .
+
+(a / and
+    :op1(d / do dự
+        :time(t / thoạt
+            :compound(đ / đầu))
+        :pivot(ô / ông hoàng
+            :mod(n / nhỏ))
+        :degree(h / hơi))
+    :op2(a2 / and
+        :time(r / rồi)
+        :op1(t1 / thở dài
+            :agent(null / ô))
+        :op2(b / bước
+            :compound(đ1 / đi)
+            :agent(null / ô))))
+
+
+::id 11-14-2 ::date 2024-09-27T09:09:42 ::annotator user10
+::snt - ta phong cho ngươi làm đại sứ , nhà vua vội vàng kêu lên .
+
+(k / kêu
+    :topic(p / phong
+        :beneficiary(l / làm
+            :beneficiary:arg0(n / ngươi)
+            :theme(đ / đại sứ))
+        :agent(null / n1))
+    :agent(n1 / nhà vua)
+    :manner(v / vội vàng)
+    :compound(l1 / lên))
+
+
+::id 11-14-3 ::date 2024-09-27T09:09:55 ::annotator user10
+::snt trông ngài có vẻ uy nghi lẫm liệt .
+
+(t / trông
+    :goal(c / có
+        :goal-of(n / ngài)
+        :theme(v / vẻ
+            :mod(u / uy nghi)
+            :mod(l / lẫm liệt))))
+
+
+::id 11-15-1 ::date 2024-09-27T09:10:52 ::annotator user10
+::snt những người lớn thật rất kỳ quặc , cậu hoàng tử thầm nhủ với chính mình trong suốt cuộc hành trình .
+
+(n2 / nhủ
+    :topic(k / kỳ quặc
+        :domain(n1 / người lớn)
+        :degree(r / rất))
+    :agent(h / hoàng tử
+        :classifier(c / cậu))
+    :manner(t1 / thầm)
+    :setting(c2 / cuộc
+        :prep(t2 / trong)
+        :time(s / suốt)
+        :mod(h1 / hành trình))
+    :goal(null / h
+        :modality(c1 / chính)))
+
+
+::id 11-16-1 ::date 2024-09-27T09:10:56 ::annotator user10
+::snt trên tinh cầu thứ hai cư trú một gã khoác lác .
+
+(c / cư trú
+    :location(t1 / tinh cầu
+        :prep(t / trên)
+        :ord(o / ordinal-entity 
+            :value(null / 2)))
+    :domain(g / gã
+        :mod(k / khoác lác)
+        :quant(null / 1)))
+
+
+::id 12-1-1 ::date 2024-09-27T09:11:02 ::annotator user10
+::snt - á ! à ! kìa một gã ngưỡng mộ đến thăm ta ! gã khoác lác kêu lên khi nhìn thấy ông hoàng nhỏ từ xa .
+
+(m / multi-sentence
+    :snt1(á / á
+        :mode expressive(null / -))
+    :snt2(à / à
+        :mode expressive(null / -))
+    :snt3(k2 / kêu
+        :topic(đ / đến
+            :mode expressive(k / kìa)
+            :agent(n / ngưỡng mộ
+                :domain-of(null / ô)
+                :goal(null / g1))
+            :purpose(t / thăm
+                :agent(null / ô)
+                :goal(null / gg1)))
+        :agent(g1 / gã
+            :mod(k1 / khoác lác))
+        :compound(l / lên)
+        :time(n1 / nhìn
+            :compound(t2 / thấy)
+            :goal(ô / ông hoàng
+                :mod(n2 / nhỏ))
+            :direction(t3 / từ
+                :op1(x / xa))
+            :agent(null / g1))))
+
+
+::id 12-1-2 ::date 2024-09-27T09:11:08 ::annotator user10
+::snt bởi vì , đối với kẻ khoác lác , những người còn lại đều là kẻ ngưỡng mộ mình .
+
+(c / cause-01
+    :topic(n2 / ngưỡng mộ
+        :source(k / kẻ
+            :mod(k1 / khoác lác))
+        :domain(c / còn
+            :pivot-of(n1 / người)
+            :compound(l / lại))
+        :degree(đ1 / đều)
+        :pivot-of(k2 / kẻ)
+        :goal(null / k)))
+
+
+::id 12-1-3 ::date 2024-09-27T09:11:15 ::annotator user10
+::snt - chào anh , ông hoàng nhỏ nói .
+
+(n1 / nói
+    :topic(c / chào
+        :goal(a / anh))
+    :agent(ô / ông hoàng
+        :mod(n / nhỏ)))
+
+
+::id 12-1-4 ::date 2024-09-27T09:11:18 ::annotator user10
+::snt anh có cái mũ ngộ quá .
+
+(c / có
+    :pivot(a / anh)
+    :theme(n / ngộ
+        :domain-of(m / mũ
+            :classifier(c1 / cái))
+        :degree(q / quá)))
+
+
+::id 12-1-5 ::date 2024-09-27T09:11:23 ::annotator user10
+::snt - cái đó là để mà chào đấy , gã khoác lác trả lời .
+
+(t / trả lời
+    :topic(c / cái
+        :mod(đ / đó)
+        :purpose(c1 / chào)
+        :modality(đ2 / đấy))
+    :agent(g / gã
+        :mod(k / khoác lác)))
+
+
+::id 12-1-6 ::date 2024-09-27T09:11:26 ::annotator user10
+::snt để chào khi người ta hoan hô tôi .
+
+(h2 / have-purpose-91
+    :topic(c / chào
+        :time(h / hoan hô
+            :agent(n / người ta)
+            :goal(t / tôi))
+        :agent(null / t)))
+
+
+::id 12-1-7 ::date 2024-09-27T09:11:29 ::annotator user10
+::snt không may là chẳng ai qua đây bao giờ cả .
+
+(q / qua
+    :modality(m / may
+        :polarity(null / -))
+    :agent(a / ai
+        :polarity(null / -))
+    :path(đ / đây)
+    :time(b / bao giờ)
+    :degree(c1 / cả))
+
+
+::id 12-1-8 ::date 2024-09-27T09:11:33 ::annotator user10
+::snt - thế à ? ông hoàng nhỏ nói , không hiểu gì cả .
+
+(n1 / nói
+    :agent(ô / ông hoàng
+        :mod(n / nhỏ))
+    :topic(a / and
+        :op1(t / thế
+            :mode interrogative(null / -))
+        :op2(h / hiểu
+            :topic(g / gì
+                :mod(c / cả))
+            :pivot(null / ô))))
+
+
+::id 12-1-9 ::date 2024-09-27T09:11:37 ::annotator user10
+::snt - hãy vỗ tay này vào tay kia đi , gã khoác lác liền khuyên .
+
+(k2 / khuyên
+    :manner(v / vỗ tay
+        :mod(n / này)
+        :direction(v1 / vào
+            :patient(t / tay
+                :mod(k / kia)))
+        :modality(đ / đi)
+        :mode imperative(null / -))
+    :agent(g / gã
+        :mod(k1 / khoác lác)))
+
+
+::id 12-1-10 ::date 2024-09-27T09:11:40 ::annotator user10
+::snt ông hoàng nhỏ vỗ tay này vào tay kia .
+
+(v / vỗ tay
+    :agent(ô / ông hoàng
+        :mod(n / nhỏ))
+    :mod(n1 / này)
+    :direction(v1 / vào
+        :patient(t / tay
+            :mod(k / kia))))
+
+
+::id 12-2-1 ::date 2024-09-27T09:11:43 ::annotator user10
+::snt gã khoác lác ngả mũ chào một cách khiêm tốn .
+
+(n / ngả
+    :agent(g / gã
+        :mod(k / khoác lác))
+    :theme(m / mũ)
+    :purpose(c / chào
+        :manner(k1 / khiêm tốn)
+        :agent(null / g)))
+
+
+::id 12-2-2 ::date 2024-09-27T09:11:46 ::annotator user10
+::snt - coi bộ vui hơn đi thăm nhà vua , ông hoàng nhỏ nói thầm .
+
+(n2 / nói thầm
+    :topic(v / vui
+        :modality(c / coi
+            :compound(b / bộ))
+        :degree(h / hơn)
+        :compared-to(đ / đi
+            :compound(t / thăm)
+            :goal(n / nhà vua)))
+    :agent(ô / ông hoàng
+        :mod(n1 / nhỏ)))
+
+
+::id 12-2-3 ::date 2024-09-27T09:11:48 ::annotator user10
+::snt và em tiếp tục vỗ tay này vào tay kia .
+
+(a / and
+    :op2(t / tiếp tục
+        :agent(e / em)
+        :manner(v1 / vỗ tay
+            :mod(n / này)
+            :direction(v2 / vào
+                :patient(t1 / tay
+                    :mod(k / kia))))))
+
+
+::id 12-2-4 ::date 2024-09-27T09:11:51 ::annotator user10
+::snt gã khoác lác lại ngả mũ chào .
+
+(n / ngả
+    :agent(g / gã
+        :mod(k / khoác lác))
+    :manner(l / lại)
+    :patient(m / mũ)
+    :purpose(c / chào
+        :agent(null / g)))
+
+
+::id 12-2-5 ::date 2024-09-27T09:11:56 ::annotator user10
+::snt sau năm phút tập dượt , ông hoàng nhỏ thấy chán vì sự đơn điệu của cái trò chơi ấy :
+
+(t1 / thấy
+    :time(s / sau
+        :op1(t2 / tập dượt
+            :duration(t4 / temporal-quantity
+                :quant(null / 5
+                    :unit(p / phút)))))
+    :pivot(ô / ông hoàng
+        :mod(n1 / nhỏ))
+    :manner(c / chán)
+    :cause(s1 / sự
+        :compound(đ / đơn điệu)
+        :source(t3 / trò chơi
+            :classifier(c2 / cái)
+            :mod(ấ / ấy))))
+
+
+::id 12-3-1 ::date 2024-09-27T09:12:11 ::annotator user10
+::snt - thế , muốn cho chiếc mũ nó rơi tuột xuống , em hỏi , thì phải làm sao ?
+
+(h / hỏi
+    :topic(m / muốn
+        :patient(r / rơi
+            :patient-of(m1 / mũ
+                :classifier(c1 / chiếc))
+            :compound(t1 / tuột)
+            :direction(x / xuống))
+        :topic(o / obligate-01
+            :topic-of(l / làm
+                :manner(a / amr-unknown))))
+    :agent(e / em))
+
+
+::id 12-3-2 ::date 2024-09-27T09:12:23 ::annotator user10
+::snt nhưng gã khoác lác không nghe thấy .
+
+(c / contrast-01
+    :ARG2(n1 / nghe
+        :agent(g / gã
+            :mod(k / khoác lác))
+        :compound(t / thấy)
+        :polarity(null / -)))
+
+
+::id 12-4-1 ::date 2024-09-27T09:12:40 ::annotator user10
+::snt những người khoác lác chẳng nghe thấy gì ngoài những câu ca ngợi .
+
+(n2 / nghe
+    :agent(n1 / người
+        :mod(k / khoác lác))
+    :compound(t / thấy)
+    :theme(g / gì
+        :concession(n3 / ngoài
+            :mod(c1 / câu
+                :mod(c2 / ca ngợi))))
+    :polarity(null / -))
+
+
+::id 12-4-2 ::date 2024-09-27T09:12:48 ::annotator user10
+::snt - chú em khâm phục ta nhiều thật chứ ?
+
+(k / khâm phục
+    :pivot(c / chú
+        :compound(e / em))
+    :goal(t / ta)
+    :degree(n / nhiều)
+    :modality(t1 / thật)
+    :mode interrogative(null / -))
+
+
+::id 12-4-3 ::date 2024-09-27T09:12:58 ::annotator user10
+::snt gã hỏi ông hoàng nhỏ .
+
+(h / hỏi
+    :agent(g / gã)
+    :goal(ô / ông hoàng
+        :mod(n / nhỏ)))
+
+
+::id 12-4-4 ::date 2024-09-27T09:13:01 ::annotator user10
+::snt - khâm phục nghĩa là thế nào ?
+
+(n / nghĩa là
+    :theme(k / khâm phục)
+    :manner(a / amr-unknown))
+
+
+::id 12-4-5 ::date 2024-09-27T09:13:04 ::annotator user10
+::snt - khâm phục nghĩa là thừa nhận ta là người đẹp nhất , ăn mặc sang nhất , giàu có nhất và thông minh nhất trên hành tinh .
+
+(n / nghĩa là
+    :theme(k / khâm phục)
+    :topic(t / thừa nhận
+        :topic(n1 / người
+            :domain(t1 / ta)
+            :location(h / hành tinh
+                :prep(t3 / trên))
+            :mod(a / and
+                :op1(đ / đẹp
+                    :degree(n2 / nhất))
+                :op2(ă / ăn mặc
+                    :manner(s / sang
+                        :degree(n3 / nhất)))
+                :op3(g / giàu có
+                    :degree(n4 / nhất))
+                :op4(t2 / thông minh
+                    :degree(n5 / nhất))))))
+
+
+::id 12-4-6 ::date 2024-09-27T09:13:07 ::annotator user10
+::snt - nhưng anh chỉ có một mình trên hành tinh của anh chứ mấy ?
+
+(c2 / contrast-01
+    :ARG2(c1 / có
+        :pivot(a / anh)
+        :quant(m / một mình)
+        :location(h / hành tinh
+            :prep(t / trên)
+            :poss(a1 / anh))
+        :modality(c3 / chứ
+            :quant(m1 / mấy))))
+
+
+::id 12-4-7 ::date 2024-09-27T09:13:10 ::annotator user10
+::snt - hãy chiều ta đi mà .
+
+(c / chiều
+    :beneficiary(t / ta)
+    :modality(đ / đi
+        :compound(m / mà))
+    :mode imperative(null / -))
+
+
+::id 12-4-8 ::date 2024-09-27T09:13:14 ::annotator user10
+::snt dẫu sao cứ hãy cứ khâm phục ta !
+
+(k / khâm phục
+    :modality(c1 / cứ)
+    :goal(t / ta)
+    :mode imperative(null / -))
+
+
+::id 12-4-9 ::date 2024-09-27T09:13:17 ::annotator user10
+::snt - tôi khâm phục anh , ông hoàng nhỏ nói , hơi nhún vai , nhưng sao điều đó lại làm anh quan tâm đến thế nhỉ ?
+
+(n1 / nói
+    :agent(ô / ông hoàng
+        :mod(n / nhỏ))
+    :manner(n2 / nhún vai
+        :degree(h / hơi)
+        :agent(null / ô))
+    :topic(c / contrast-01
+        :ARG1(k / khâm phục
+            :goal(a / anh)
+            :pivot(null / ô))
+        :ARG2(l1 / làm
+            :theme(đ / điều
+                :mod(đ1 / đó))
+            :result(q / quan tâm
+                :degree(t1 / thế)
+                :modality(n4 / nhỉ)
+                :pivot(null / a))
+            :manner(a2 / amr-unknown))))
+
+
+::id 12-4-10 ::date 2024-09-27T09:13:21 ::annotator user10
+::snt và ông hoàng nhỏ ra đi .
+
+(a / and
+    :op1(r / ra
+        :agent(ô / ông hoàng
+            :mod(n / nhỏ))
+        :compound(đ / đi)))
+
+
+::id 12-5-1 ::date 2024-09-27T09:13:27 ::annotator user10
+::snt những người lớn chắc chắn là kỳ quặc rồi , em chỉ nói đơn giản có thế trong suốt cuộc hành trình .
+
+(n2 / nói
+    :topic(k / kỳ quặc
+        :domain(n1 / người lớn)
+        :modality(c / chắc chắn))
+    :agent(e / em)
+    :manner(đ / đơn giản
+        :compared-to(t / thế)
+        :degree(e2 / equal))
+    :setting(c3 / cuộc
+        :prep(t1 / trong)
+        :time(s / suốt)
+        :mod(h / hành trình)))
+
+
+::id 12-6-1 ::date 2024-09-27T09:13:31 ::annotator user10
+::snt tinh cầu tiếp theo có một bợm nhậu cư trú .
+
+(c / có
+    :location(t / tinh cầu
+        :mod(t1 / tiếp theo))
+    :pivot(c1 / cư trú
+        :pivot-of(b / bợm
+            :compound(n / nhậu)
+            :quant(null / 1))))
+
+
+::id 13-1-1 ::date 2024-09-27T09:13:34 ::annotator user10
+::snt cuộc viếng thăm lần này hết sức ngắn nhưng lại làm cho ông hoàng nhỏ miên man buồn :
+
+(c2 / contrast-01
+    :ARG1(n1 / ngắn
+        :domain(c / cuộc
+            :compound(v / viếng thăm)
+            :mod(l / lần
+                :mod(n / này)))
+        :degree(h / hết sức))
+    :ARG2(l2 / làm
+        :modality(l1 / lại)
+        :pivot(b / buồn
+            :pivot-of(ô / ông hoàng
+                :mod(n3 / nhỏ))
+            :manner(m / miên man))
+        :agent(null / n1)))
+
+
+::id 13-1-2 ::date 2024-09-27T09:13:37 ::annotator user10
+::snt - anh làm gì đấy ? ông hoàng nhỏ nói với tay bợm nhậu đang ngồi imlặng trước một bộ sưutập chai không và một bộ sưutập chai đầy .
+
+(n1 / nói
+    :topic(l / làm
+        :modality(đ / đấy)
+        :agent(null / t)
+        :theme(a3 / amr-unknown))
+    :agent(ô / ông
+        :compound(h / hoàng)
+        :mod(n / nhỏ))
+    :goal(t / tay
+        :mod(b / bợm
+            :compound(n2 / nhậu))
+        :goal-of(n3 / ngồi
+            :tense(đ1 / đang)
+            :manner(i / imlặng)
+            :location(t1 / trước
+                :op1(a2 / and
+                    :op1(b1 / bộ
+                        :compound(s / sưutập)
+                        :mod(c / chai
+                            :mod(k / không))
+                        :quant(null / 1))
+                    :op2(b2 / bộ
+                        :compound(s1 / sưutập)
+                        :mod(c1 / chai
+                            :mod(đ2 / đầy))
+                        :quant(null / 1))))
+            :agent(null / t))))
+
+
+::id 13-1-3 ::date 2024-09-27T09:13:40 ::annotator user10
+::snt - ta nhậu , bợm nhậu trả lời , vẻ thiểu não .
+
+(t1 / trả lời
+    :topic(n / nhậu
+        :agent(null / b))
+    :agent(b / bợm
+        :compound(n1 / nhậu))
+    :manner(v / vẻ
+        :mod(t2 / thiểu não)))
+
+
+::id 13-1-4 ::date 2024-09-27T09:13:43 ::annotator user10
+::snt - tại sao anh nhậu ? ông hoàng nhỏ hỏi anh ta .
+
+(h / hỏi
+    :topic(n / nhậu
+        :agent(null / a1)
+        :reason(a2 / amr-unknown))
+    :agent(ô / ông hoàng
+        :mod(n1 / nhỏ))
+    :goal(a1 / anh
+        :mod(t1 / ta)))
+
+
+::id 13-1-5 ::date 2024-09-27T09:13:46 ::annotator user10
+::snt - để quên , bợm nhậu trả lời .
+
+(t / trả lời
+    :purpose(q / quên)
+    :agent(b / bợm
+        :compound(n / nhậu)))
+
+
+::id 13-1-6 ::date 2024-09-27T09:13:49 ::annotator user10
+::snt - để quên cái gì ? ông hoàng nhỏ hỏi trong lúc bắt đầu cảm thấy ái ngại cho hắn .
+
+(h / hỏi
+    :purpose(q / quên
+        :theme(a / amr-unknown)
+        :pivot(null / h1))
+    :agent(ô / ông hoàng
+        :mod(n / nhỏ))
+    :setting(b / bắt đầu
+        :topic(c1 / cảm
+            :time(l / lúc)
+            :compound(t1 / thấy)
+            :manner(á / ái ngại
+                :goal(h1 / hắn)))
+        :pivot(null / ô)))
+
+
+::id 13-1-7 ::date 2024-09-27T09:13:53 ::annotator user10
+::snt - để quên nỗi xấu hổ của ta , bợm nhậu cúi đầu thú nhận .
+
+(t1 / thú nhận
+    :purpose(q / quên
+        :theme(n / nỗi
+            :compound(x / xấu hổ)
+            :source(t / ta))
+        :pivot(null / b))
+    :agent(c1 / cúi
+        :agent-of(b / bợm
+            :compound(n1 / nhậu))
+        :theme(đ1 / đầu
+            :part-of(null / b))))
+
+
+::id 13-1-8 ::date 2024-09-27T09:13:56 ::annotator user10
+::snt - xấu hổ vì cái gì ? ông hoàng nhỏ hỏi , đã muốn giúp đỡ hắn .
+
+(h / hỏi
+    :topic(x / xấu hổ
+        :pivot(null / h1)
+        :reason(a / amr-unknown))
+    :agent(ô / ông hoàng
+        :mod(n / nhỏ))
+    :setting(m / muốn
+        :tense(đ / đã)
+        :topic(g1 / giúp đỡ
+            :beneficiary(h1 / hắn)
+            :agent(null / ô))
+        :pivot(null / ô)))
+
+
+::id 13-1-9 ::date 2024-09-27T09:14:00 ::annotator user10
+::snt - xấu hổ vì cái nhậu ! bợm nhậu kết thúc và nhất quyết lặng im
+
+(m / multi-sentence
+    :snt1(x / xấu hổ
+        :cause(c / cái
+            :compound(n / nhậu))
+        :pivot(null / b))
+    :snt2(a / and
+        :op1(k / kết thúc
+            :agent(b / bợm
+                :compound(n1 / nhậu)))
+        :op2(l / lặng im
+            :modality(n2 / nhất quyết)
+            :domain(null / b))))
+
+
+::id 13-1-10 ::date 2024-09-27T09:14:05 ::annotator user10
+::snt và ông hoàng thì ra đi , sửng sốt .
+
+(a / and
+    :op2(a2 / and
+        :op1(r / ra
+            :agent(ô / ông hoàng)
+            :compound(đ / đi))
+        :op2(s / sửng sốt
+            :pivot(null / ô))))
+
+
+::id 13-2-1 ::date 2024-09-27T09:14:12 ::annotator user10
+::snt những người lớn nhất định là rất kỳ quặc , cậu tự nói thầm trong suốt cuộc hành trình .
+
+(n3 / nói thầm
+    :topic(k / kỳ quặc
+        :domain(n1 / người lớn)
+        :modality(n2 / nhất định)
+        :degree(r / rất))
+    :agent(c / cậu)
+    :manner(t / tự)
+    :setting(c1 / cuộc
+        :prep(t1 / trong)
+        :time(s / suốt)
+        :mod(h / hành trình)))
+
+
+::id 13-3-1 ::date 2024-09-27T09:14:15 ::annotator user10
+::snt tinh cầu thứ tư là của một nhà doanh nghiệp .
+
+(null / t
+    :domain(t / tinh cầu
+        :ord(o / ordinal-entity
+            :value(null / 4)))
+    :poss(n / nhà
+        :compound(d / doanh nghiệp)
+        :quant(null / 1)))
+
+
+::id 14-1-1 ::date 2024-09-27T09:14:19 ::annotator user10
+::snt ông này bận rộn đến nỗi không ngẩng được đầu lên khi ông hoàng nhỏ tới .
+
+(b / bận rộn
+    :pivot(ô / ông
+        :mod(n / này))
+    :degree(đ / đến nỗi
+        :manner(n1 / ngẩng
+            :patient(đ2 / đầu
+                :part-of(null / ô))
+            :direction(l / lên)
+            :time(t / tới
+                :agent(ô1 / ông hoàng
+                    :mod(n2 / nhỏ)))
+            :agent(null / ô)
+            :polarity(null / -))))
+
+
+::id 14-1-2 ::date 2024-09-27T09:14:22 ::annotator user10
+::snt - chào ông , em nói với hắn .
+
+(n / nói
+    :topic(c / chào
+        :goal(ô / ông)
+        :agent(null / e))
+    :agent(e / em)
+    :goal(h / hắn))
+
+
+::id 14-2-1 ::date 2024-09-27T09:14:27 ::annotator user10
+::snt điếu thuốc lá của ông tắt rồi .
+
+(t1 / tắt
+    :theme(đ / điếu
+        :mod(t / thuốc lá)
+        :poss(ô / ông))
+    :modality(r / rồi))
+
+
+::id 14-2-2 ::date 2024-09-27T09:14:30 ::annotator user10
+::snt - ba với hai là năm .
+
+(e / equal-01
+    :ARG2(null / 5)
+    :ARG1(s / sum-of 
+        :op1(null / 3)
+        :op2(null / 2)))
+
+
+::id 14-3-1 ::date 2024-09-27T09:14:35 ::annotator user10
+::snt năm với bảy là mười hai
+
+(e / equal-01
+    :ARG1(s / sum-of 
+        :op1(null / 5)
+        :op2(null / 7))
+    :ARG2(null / 12))
+
+
+::id 14-3-2 ::date 2024-09-27T09:14:37 ::annotator user10
+::snt Mườihai với ba là mườilăm .
+
+(e / equal-01
+    :ARG1(s / sum-of
+        :op1(null / 12)
+        :op2(null / 3))
+    :ARG2(null / 15))
+
+
+::id 14-3-3 ::date 2024-09-27T09:14:40 ::annotator user10
+::snt chào chú .
+
+(c / chào
+    :goal(c1 / chú))
+
+
+::id 14-3-4 ::date 2024-09-27T09:14:42 ::annotator user10
+::snt Mườilăm với bảy là hăm hai .
+
+(e / equal-01
+    :ARG2(null / 22)
+    :ARG1(s / sum-of
+        :op2(null / 7)
+        :op1(null / 15)))
+
+
+::id 14-3-5 ::date 2024-09-27T09:14:45 ::annotator user10
+::snt hăm hai với sáu là hăm tám .
+
+(e / equal-01
+    :ARG2(null / 28)
+    :ARG1(s / sum-of
+        :op1(null / 22)
+        :op2(null / 6)))
+
+
+::id 14-3-6 ::date 2024-09-27T09:14:48 ::annotator user10
+::snt chẳng có thời giờ mà châm lại .
+
+(c1 / có
+    :polarity(c / chẳng)
+    :theme(t / thời giờ
+        :purpose(c2 / châm
+            :manner(l / lại))))
+
+
+::id 14-3-7 ::date 2024-09-27T09:14:51 ::annotator user10
+::snt xong ! tấtcả là năm trăm linh mộttriệu sáu trămnăm mươi hai nghìn bảy trăm bamươi mốt ..
+
+(m / multi-sentence
+    :snt1(x / xong
+        :mode expressive(null / -))
+    :snt2(null / 501622731
+        :domain(t / tấtcả)))
+
+
+::id 14-3-8 ::date 2024-09-27T09:14:55 ::annotator user10
+::snt - năm trăm triệu cái gì vậy ?
+
+(a / amr-unknown
+    :quant(null / 500000000))
+
+
+::id 14-4-1 ::date 2024-09-27T09:15:10 ::annotator user10
+::snt - hử ? thế chú vẫn còn đấy à ? .
+
+(m / multi-sentence
+    :snt1(h / hử
+        :mode interrogative(null / -))
+    :snt2(c1 / còn
+        :pivot(c / chú)
+        :manner(v / vẫn)
+        :modality(đ / đấy)
+        :modality(à / à)
+        :mode interrogative(null / -)))
+
+
+::id 14-5-1 ::date 2024-09-27T09:15:14 ::annotator user10
+::snt năm trăm linh một triệu ...
+
+(null / 501000000)
+
+
+::id 14-5-2 ::date 2024-09-27T09:15:17 ::annotator user10
+::snt ta cũng chẳng biết là cái gì nữa .
+
+(b / biết
+    :pivot(t / ta)
+    :modality(c / cũng)
+    :polarity(c1 / chẳng)
+    :theme(g / gì
+        :classifier(c2 / cái))
+    :modality(n / nữa))
+
+
+::id 14-5-3 ::date 2024-09-27T09:15:19 ::annotator user10
+::snt ta có quá nhiều công việc ! ta rất đứng đắn , ta , ta không thích những trò nhảm nhí ! hai với năm là bảy ...
+
+(m / multi-sentence
+    :snt1(c / có
+        :pivot(t / ta)
+        :theme(c1 / công việc
+            :quant(n / nhiều
+                :mod(q / quá))))
+    :snt2(đ / đứng đắn
+        :degree(r / rất)
+        :domain(null / t))
+    :snt3(t4 / thích
+        :theme(t5 / trò
+            :mod(n2 / nhảm nhí))
+        :polarity(null / -)
+        :domain(null / t))
+    :snt4(e / equal-01
+        :ARG2(null / 7)
+        :ARG1(s / sum-of
+            :op2(null / 5)
+            :op1(null / 2))))
+
+
+::id 14-5-4 ::date 2024-09-27T09:15:24 ::annotator user10
+::snt - năm trăm linh một triệu cái gì ?
+
+(a / amr-unknown
+    :quant(null / 501000000))
+
+
+::id 14-6-1 ::date 2024-09-27T09:15:27 ::annotator user10
+::snt ông hoàng nhỏ lặp lại , suốt đời em , không bao giờ bỏ ra một câu hỏi một khi đã nêu nó ra .
+
+(l / lặp
+    :agent(ô / ông hoàng
+        :mod(n / nhỏ))
+    :compound(l1 / lại)
+    :topic(b1 / bỏ
+        :time(đ / đời
+            :degree(s / suốt)
+            :source(e / em))
+        :time(b / bao giờ)
+        :compound(r / ra)
+        :theme(c / câu
+            :compound(h / hỏi)
+            :quant(null / 1))
+        :condition(n1 / nêu
+            :modality(m1 / một khi)
+            :manner(r1 / ra)
+            :agent(null / ô)
+            :theme(null / c))
+        :agent(null / ô)
+        :polarity(null / -)))
+
+
+::id 14-6-2 ::date 2024-09-27T09:15:30 ::annotator user10
+::snt nhà doanh nghiệp ngẩng đầu lên :
+
+(n1 / ngẩng
+    :agent(n / nhà
+        :compound(d / doanh nghiệp))
+    :patient(đ / đầu
+        :part-of(null / n))
+    :direction(l / lên))
+
+
+::id 14-7-1 ::date 2024-09-27T09:15:33 ::annotator user10
+::snt - năm mươi bốn năm ta ở trên cái hành tinh này , ta chỉ bị quấy rầy có ba lần .
+
+(q / quấy rầy
+    :time(ở / ở
+        :pivot(t / ta)
+        :location(h / hành tinh
+            :prep(t1 / trên)
+            :classifier(c / cái)
+            :mod(n2 / này))
+        :degree(c1 / chỉ)
+        :duration(t2 / temporal-quantity 
+            :unit(n1 / năm)
+            :quant(null / 54)))
+    :modality(b / bị)
+    :patient(null / t)
+    :frequency(h2 / have-frequency-91
+        :unit(l / lần)
+        :quant(null / 3)))
+
+
+::id 14-8-1 ::date 2024-09-27T09:15:37 ::annotator user10
+::snt lần đầu cách đây hai mươi hai năm do một con bọ hung chỉ có trời biết từ đâu rơi xuống .
+
+(l / lần
+    :time(c / cách
+        :location(đ1 / đây)
+        :quant(t3 / temporal-quantity 
+            :unit(n / năm)
+            :quant(null / 22)))
+    :cause(r / rơi
+        :patient(b / bọ hung
+            :quant(null / 1
+                :classifier(c1 / con)))
+        :initialLocation(đ2 / đâu
+            :topic(b1 / biết
+                :degree(c2 / chỉ)
+                :pivot(t / trời))
+            :prep(t1 / từ))
+        :direction(x / xuống))
+    :ord(o / ordinal-entity
+        :value(null / 1)))
+
+
+::id 14-8-2 ::date 2024-09-27T09:15:39 ::annotator user10
+::snt nó gây nên một tiếng động khủng khiếp và làm cho ta cộng sai bốn chỗ trong một bài tính cộng .
+
+(a / and
+    :op1(g / gây
+        :agent(n / nó)
+        :compound(n1 / nên)
+        :result(t / tiếng động
+            :mod(k / khủng khiếp)
+            :quant(null / 1)))
+    :op2(l / làm
+        :patient(c1 / cộng
+            :patient-of(t1 / ta)
+            :degree(s / sai)
+            :theme(c2 / chỗ
+                :quant(null / 4))
+            :source(b1 / bài tính
+                :prep(t2 / trong)
+                :mod(c3 / cộng)
+                :quant(null / 1)))
+        :agent(null / n)))
+
+
+::id 14-8-3 ::date 2024-09-27T09:15:42 ::annotator user10
+::snt lần thứ hai , là cách đây mười một năm , do một cơn cảm cúm .
+
+(l / lần
+    :time(c / cách
+        :location(đ / đây)
+        :quant(t2 / temporal-quantity 
+            :unit(n / năm)
+            :quant(null / 11)))
+    :cause(c1 / cơn
+        :mod(c2 / cảm
+            :compound(c3 / cúm))
+        :quant(null / 1))
+    :ord(o / ordinal-entity 
+        :value(null / 2)))
+
+
+::id 14-8-4 ::date 2024-09-27T09:15:45 ::annotator user10
+::snt ta không có tập thể dục .
+
+(t1 / tập
+    :agent(t / ta)
+    :modality(c / có)
+    :theme(t2 / thể dục)
+    :polarity(null / -))
+
+
+::id 14-8-5 ::date 2024-09-27T09:15:47 ::annotator user10
+::snt ta không có thì giờ chơi bời .
+
+(c / có
+    :pivot(t / ta)
+    :theme(t1 / thì giờ
+        :purpose(c1 / chơi bời
+            :agent(null / t)))
+    :polarity(null / -))
+
+
+::id 14-8-6 ::date 2024-09-27T09:15:50 ::annotator user10
+::snt ta , ta là một người đứng đắn !
+
+(n / người
+    :domain(t / ta)
+    :mod(đ / đứng đắn))
+
+
+::id 14-8-7 ::date 2024-09-27T09:15:52 ::annotator user10
+::snt lần thứ ba ... là lần này !
+
+(l2 / lần
+    :mod(n / này)
+    :domain(o / ordinal-entity 
+        :value(null / 3)))
+
+
+::id 14-8-8 ::date 2024-09-27T09:15:55 ::annotator user10
+::snt khi ta đang tính tới năm trăm linh một triệu ...
+
+(t1 / tính
+    :agent(t / ta)
+    :tense(đ / đang)
+    :quant(null / 501000000))
+
+
+::id 14-8-9 ::date 2024-09-27T09:15:58 ::annotator user10
+::snt nhà doanh nghiệp ngẩng đầu lên :
+
+(n1 / ngẩng
+    :agent(n / nhà
+        :compound(d / doanh nghiệp))
+    :patient(đ / đầu
+        :part-of(null / n))
+    :direction(l / lên))
+
+
+::id 14-9-1 ::date 2024-09-27T09:16:01 ::annotator user10
+::snt - triệu cái gì ?
+
+(a / amr-unknown
+    :quant(t / triệu))
+
+
+::id 14-10-1 ::date 2024-09-27T09:16:04 ::annotator user10
+::snt nhà doanh nghiệp biết không hy vọng gì được yên thân :
+
+(b / biết
+    :pivot(n / nhà
+        :compound(d / doanh nghiệp))
+    :topic(h / hy vọng
+        :modality(g / gì)
+        :result(đ / được
+            :manner(y / yên thân)
+            :domain(null / n))
+        :polarity(null / -)))
+
+
+::id 14-11-1 ::date 2024-09-27T09:16:07 ::annotator user10
+::snt - triệu những vật nho nhỏ đôi khi nhìn thấy trên trời ấy .
+
+(v / vật
+    :quant(t / triệu)
+    :mod(n1 / nho nhỏ)
+    :mod(n2 / nhìn
+        :frequency(đ / đôi khi)
+        :compound(t1 / thấy)
+        :location(t3 / trời
+            :prep(t2 / trên)))
+    :modality(ấ / ấy))
+
+
+::id 14-12-1 ::date 2024-09-27T09:16:11 ::annotator user10
+::snt - những con ruồi ?
+
+(r / ruồi
+    :classifier(c / con)
+    :mode interrogative(null / -))
+
+
+::id 14-13-1 ::date 2024-09-27T09:16:14 ::annotator user10
+::snt - không phải , những vật nhỏ lấp lánh ấy .
+
+(a / and
+    :op1(p / phải
+        :polarity(null / -))
+    :op2(v / vật
+        :mod(n1 / nhỏ)
+        :mod(l / lấp lánh)
+        :modality(ấ / ấy)))
+
+
+::id 14-14-1 ::date 2024-09-27T09:16:19 ::annotator user10
+::snt - những con ong ?
+
+(o / ong
+    :classifier(c / con)
+    :mode interrogative(null / -))
+
+
+::id 14-15-1 ::date 2024-09-27T09:16:23 ::annotator user10
+::snt - không mà ...
+
+(k / không
+    :modality(m / mà))
+
+
+::id 14-16-1 ::date 2024-09-27T09:16:28 ::annotator user10
+::snt những vật nho nhỏ vàng óng vẫn làm cho bọn người vô tích sự chúng nó mơ màng ấy .
+
+(c2 / cause-01
+    :theme(l / làm
+        :theme-of(v / vật
+            :mod(n1 / nho nhỏ)
+            :mod(v1 / vàng
+                :compound(ó / óng)))
+        :manner(v2 / vẫn)
+        :patient(m / mơ màng
+            :pivot-of(n2 / người
+                :classifier(b / bọn)
+                :mod(v3 / vô tích sự)
+                :mod(ấ / ấy)))))
+
+
+::id 14-16-2 ::date 2024-09-27T09:16:32 ::annotator user10
+::snt ta , ta là một người đứng đắn !
+
+(n / người
+    :domain(t / ta)
+    :mod(đ / đứng đắn))
+
+
+::id 14-16-3 ::date 2024-09-27T09:16:35 ::annotator user10
+::snt ta không có thì giờ đâu mà mơ màng .
+
+(c / có
+    :pivot(t / ta)
+    :theme(t1 / thì giờ)
+    :modality(đ / đâu)
+    :purpose(m1 / mơ màng
+        :pivot(null / t))
+    :polarity(null / -))
+
+
+::id 14-16-4 ::date 2024-09-27T09:16:37 ::annotator user10
+::snt - đúng rồi đấy .
+
+(đ / đúng
+    :modality(r / rồi)
+    :modality(đ1 / đấy))
+
+
+::id 14-18-1 ::date 2024-09-27T09:16:41 ::annotator user10
+::snt những ngôi sao .
+
+(s / sao
+    :classifier(n1 / ngôi))
+
+
+::id 14-18-2 ::date 2024-09-27T09:16:44 ::annotator user10
+::snt - thế ông làm gì với năm trăm triệu ngôi sao ?
+
+(l / làm
+    :modality(t / thế)
+    :agent(ô / ông)
+    :goal(s / sao
+        :classifier(n1 / ngôi)
+        :quant(null / 500000000))
+    :theme(a / amr-unknown))
+
+
+::id 14-19-1 ::date 2024-09-27T09:16:52 ::annotator user10
+::snt - năm trăm linh một triệu sáu trăm năm mươi hai nghìn bảy trăm ba mươi mốt .
+
+(h / have-quant-91
+    :quant(null / 501622731))
+
+
+::id 14-20-1 ::date 2024-09-27T09:16:56 ::annotator user10
+::snt Ta , ta là một người đứngđắn , ta rất chínhxác !
+
+(a / and
+    :op1(n / người
+        :domain(t1 / ta)
+        :mod(đ / đứngđắn))
+    :op2(c / chínhxác
+        :degree(r / rất)
+        :domain(null / t1)))
+
+
+::id 14-20-2 ::date 2024-09-27T09:18:48 ::annotator user10
+::snt - thế ông làm gì với những ngôi sao ?
+
+(l / làm
+    :modality(t / thế)
+    :agent(ô / ông)
+    :goal(s / sao
+        :classifier(n1 / ngôi))
+    :theme(a / amr-unknown))
+
+
+::id 14-21-1 ::date 2024-09-27T09:19:43 ::annotator user10
+::snt - ta làm gì à ?
+
+(l / làm
+    :agent(t / ta)
+    :modality(à / à)
+    :theme(a2 / amr-unknown))
+
+
+::id 14-22-1 ::date 2024-09-27T09:20:13 ::annotator user10
+::snt - vâng .
+
+(v / vâng)
+
+
+::id 14-23-1 ::date 2024-09-27T09:20:26 ::annotator user10
+::snt - chẳng làm gì sất .
+
+(l / làm
+    :theme(g / gì)
+    :modality(s / sất)
+    :polarity(null / -))
+
+
+::id 14-24-1 ::date 2024-09-27T09:20:33 ::annotator user10
+::snt ta chiếm hữu chúng .
+
+(c / chiếm hữu
+    :agent(t / ta)
+    :theme(c1 / chúng))
+
+
+::id 14-24-2 ::date 2024-09-27T09:20:37 ::annotator user10
+::snt - ông chiếm hữu những ngôi sao ?
+
+(c / chiếm hữu
+    :agent(ô / ông)
+    :patient(s / sao
+        :classifier(n1 / ngôi))
+    :mode interrogative(null / -))
+
+
+::id 14-25-1 ::date 2024-09-27T09:21:00 ::annotator user10
+::snt - phải .
+
+(p / phải)
+
+
+::id 14-26-1 ::date 2024-09-27T09:21:04 ::annotator user10
+::snt - nhưng tôi biết một ông vua cũng ...
+
+(c1 / contrast-01
+    :ARG2(b / biết
+        :pivot(t / tôi)
+        :goal(ô / ông
+            :compound(v / vua)
+            :quant(null / 1))
+        :modality(c / cũng)))
+
+
+::id 14-27-1 ::date 2024-09-27T09:21:07 ::annotator user10
+::snt - các ông vua không chiếm hữu gì cả .
+
+(c1 / chiếm hữu
+    :agent(ô / ông
+        :compound(v / vua))
+    :theme(g / gì)
+    :degree(c2 / cả)
+    :polarity(null / -))
+
+
+::id 14-28-1 ::date 2024-09-27T09:21:11 ::annotator user10
+::snt họ chỉ " trị vì " ở trên , thế thôi .
+
+(t / trị vì
+    :agent(h / họ)
+    :degree(c / chỉ)
+    :location(t1 / trên
+        :prep(ở / ở))
+    :modality(t2 / thế
+        :compound(t3 / thôi)))
+
+
+::id 14-28-2 ::date 2024-09-27T09:21:14 ::annotator user10
+::snt rất khác nhau .
+
+(k / khác
+    :degree(r / rất)
+    :compared-to(n / nhau))
+
+
+::id 14-28-3 ::date 2024-09-27T09:21:18 ::annotator user10
+::snt - thế việc sở hữu những ngôi sao giúp gì cho ông ?
+
+(g / giúp
+    :modality(t / thế)
+    :pivot(v / việc
+        :mod(s / sở hữu
+            :theme(s1 / sao
+                :classifier(n1 / ngôi))
+            :pivot(null / ô)))
+    :beneficiary(ô / ông)
+    :theme(a / amr-unknown))
+
+
+::id 14-29-1 ::date 2024-09-27T09:21:25 ::annotator user10
+::snt - nó giúp ta giàu .
+
+(g / giúp
+    :pivot(n / nó)
+    :result(g1 / giàu
+        :pivot(t / ta)))
+
+
+::id 14-29-2 ::date 2024-09-27T09:21:28 ::annotator user10
+::snt - giàu giúp ông được gì ?
+
+(g1 / giúp
+    :pivot(g / giàu
+        :pivot-of(null / ô))
+    :beneficiary(đ / được
+        :beneficiary:arg0(ô / ông)
+        :theme(a / amr-unknown)))
+
+
+::id 14-30-1 ::date 2024-09-27T09:21:31 ::annotator user10
+::snt - mua những ngôi sao khác , nếu có người tìm thấy nữa .
+
+(m / mua
+    :theme(s / sao
+        :classifier(n1 / ngôi)
+        :mod(k / khác))
+    :condition(c / có
+        :result(t / tìm
+            :agent(n3 / người)
+            :compound(t1 / thấy)
+            :theme(null / s))
+        :time(n4 / nữa)))
+
+
+::id 14-31-1 ::date 2024-09-27T09:21:35 ::annotator user10
+::snt cái ông này , ông hoàng nhỏ nghĩ thầm , ông ta lý sự hơi giống tay bợm nhậu của mình .
+
+(n2 / nghĩ
+    :agent(ô1 / ông hoàng
+        :mod(n1 / nhỏ))
+    :compound(t / thầm)
+    :topic(l / lý sự
+        :agent(ô / ông
+            :mod(n / này))
+        :manner(r / resemble-01
+            :degree(h / hơi)
+            :compared-to(t2 / tay
+                :compound(b / bợm
+                    :compound(n3 / nhậu))
+                :poss(null / ô1)))))
+
+
+::id 14-32-1 ::date 2024-09-27T09:21:39 ::annotator user10
+::snt tuy thế em vẫn hỏi thêm :
+
+(c / contrast-01
+    :ARG2(h / hỏi
+        :agent(e / em)
+        :manner(v / vẫn)
+        :compound(t1 / thêm)))
+
+
+::id 14-33-1 ::date 2024-09-27T09:21:43 ::annotator user10
+::snt - làm thế nào người ta sở hữu những ngôi sao ?
+
+(l / làm
+    :purpose(s / sở hữu
+        :pivot(n / người ta)
+        :theme(s1 / sao
+            :classifier(n2 / ngôi)))
+    :manner(a / amr-unknown)
+    :agent(null / n))
+
+
+::id 14-34-1 ::date 2024-09-27T09:21:46 ::annotator user10
+::snt - chúng của ai nào ?
+
+(c / chúng
+    :modality(n / nào)
+    :poss(a / amr-unknown))
+
+
+::id 14-35-1 ::date 2024-09-27T09:21:52 ::annotator user10
+::snt nhà doanh nghiệp vặn lại , sửng cồ .
+
+(v / vặn
+    :agent(n / nhà
+        :compound(d / doanh nghiệp))
+    :compound(l / lại)
+    :manner(s / sửng cồ))
+
+
+::id 14-35-2 ::date 2024-09-27T09:21:54 ::annotator user10
+::snt - tôi không biết .
+
+(b / biết
+    :pivot(t / tôi)
+    :polarity(null / -))
+
+
+::id 14-36-1 ::date 2024-09-27T09:21:59 ::annotator user10
+::snt không của ai cả .
+
+(c / của
+    :poss(a / ai)
+    :modality(c1 / cả)
+    :polarity(null / -))
+
+
+::id 14-36-2 ::date 2024-09-27T09:22:01 ::annotator user10
+::snt - thế thì chúng là của ta , bởi ta nghĩ tới trước nhất .
+
+(c / chúng
+    :modality(t / thế thì)
+    :poss(t1 / ta)
+    :reason(n / nghĩ
+        :time(t4 / trước nhất)
+        :theme(null / c)
+        :pivot(null / t)))
+
+
+::id 14-36-3 ::date 2024-09-27T09:22:05 ::annotator user10
+::snt - chỉ thế là đủ ư ?
+
+(đ / đủ
+    :domain(t / thế
+        :degree(c / chỉ))
+    :mode interrogative(null / -))
+
+
+::id 14-37-1 ::date 2024-09-27T09:22:08 ::annotator user10
+::snt - chắc rồi .
+
+(c / chắc
+    :modality(r / rồi))
+
+
+::id 14-38-1 ::date 2024-09-27T09:22:13 ::annotator user10
+::snt khi chú tìm thấy một viên kim cương không là của ai cả , thì nó là của chú .
+
+(null / k1
+    :condition(t / tìm
+        :agent(c / chú)
+        :compound(t1 / thấy)
+        :theme(k1 / kim cương
+            :poss(a / ai
+                :degree(c2 / cả)
+                :polarity(null / -))
+            :quant(null / 1
+                :classifier(v / viên))))
+    :poss(null / c))
+
+
+::id 14-38-2 ::date 2024-09-27T09:22:15 ::annotator user10
+::snt khi chú tìm thấy một hòn đảo không phải là của ai cả , thì hòn đảo ấy là của chú .
+
+(null / đ
+    :condition(t / tìm
+        :agent(c / chú)
+        :compound(t1 / thấy)
+        :theme(đ / đảo
+            :poss(a / ai
+                :degree(c2 / cả)
+                :polarity(null / -))
+            :quant(null / 1
+                :classifier(h / hòn))))
+    :mod(ấ / ấy)
+    :poss(null / c))
+
+
+::id 14-38-3 ::date 2024-09-27T09:22:19 ::annotator user10
+::snt và ta có được những ngôi sao kia , vì chưa hề có ai trước ta nghĩ đến việc chiếm hữu chúng .
+
+(a / and
+    :op2(c / có
+        :pivot(t / ta)
+        :theme(s / sao
+            :classifier(n1 / ngôi)
+            :mod(k / kia))
+        :cause(n2 / nghĩ
+            :pivot(c2 / có
+                :pivot-of(a / ai)
+                :time(t1 / trước
+                    :mod(null / t))
+                :polarity(null / -))
+            :topic(v2 / việc
+                :mod(c3 / chiếm hữu
+                    :theme(null / s))))))
+
+
+::id 14-38-4 ::date 2024-09-27T09:22:24 ::annotator user10
+::snt - điều này thì đúng , ông hoàng nhỏ nói .
+
+(n2 / nói
+    :topic(đ1 / đúng
+        :domain(đ / điều
+            :mod(n / này)))
+    :agent(ô / ông hoàng
+        :mod(n1 / nhỏ)))
+
+
+::id 14-39-1 ::date 2024-09-27T09:22:28 ::annotator user10
+::snt ông dùng chúng để làm gì ?
+
+(d / dùng
+    :agent(ô / ông)
+    :theme(c / chúng)
+    :purpose(l / làm
+        :topic(a / amr-unknown)
+        :agent(null / ô)))
+
+
+::id 14-39-2 ::date 2024-09-27T09:22:32 ::annotator user10
+::snt - ta quản lý chúng .
+
+(q / quản lý
+    :agent(t / ta)
+    :theme(c / chúng))
+
+
+::id 14-40-1 ::date 2024-09-27T09:22:35 ::annotator user10
+::snt ta đếm đi rồi ta đếm lại chúng , nhà doanh nghiệp nói .
+
+(n1 / nói
+    :agent(n / nhà
+        :compound(d / doanh nghiệp))
+    :topic(a / and
+        :op1(đ / đếm
+            :agent(t / ta)
+            :manner(đ1 / đi)
+            :theme(null / c))
+        :op2(đ2 / đếm
+            :manner(l / lại)
+            :theme(c / chúng)
+            :agent(null / t))))
+
+
+::id 14-40-2 ::date 2024-09-27T09:22:38 ::annotator user10
+::snt khó đấy .
+
+(k / khó
+    :modality(đ / đấy))
+
+
+::id 14-40-3 ::date 2024-09-27T09:22:40 ::annotator user10
+::snt nhưng ta là một người đứng đắn !
+
+(c / contrast-01
+    :ARG2(n1 / người
+        :domain(t / ta)
+        :mod(đ / đứng đắn)
+        :quant(null / 1)))
+
+
+::id 14-40-4 ::date 2024-09-27T09:22:43 ::annotator user10
+::snt ông hoàng nhỏ vẫn chưa bằng lòng :
+
+(b / bằng lòng
+    :pivot(ô / ông hoàng
+        :mod(n / nhỏ))
+    :manner(v / vẫn)
+    :polarity(null / -))
+
+
+::id 14-41-1 ::date 2024-09-27T09:22:50 ::annotator user10
+::snt - tôi đấy ư , nếu tôi có một chiếc khăn quàng , tôi quàng nó vào cổ và mang nó đi .
+
+(a / and
+    :op1(t / tôi
+        :modality(đ / đấy
+            :compound(ư / ư)))
+    :op2(a2 / and
+        :condition(c / có
+            :theme(k / khăn quàng
+                :quant(null / 1
+                    :classifier(c1 / chiếc)))
+            :pivot(null / t))
+        :op1(q / quàng
+            :goal(c2 / cổ
+                :prep(v / vào)
+                :part-of(null / t))
+            :patient(null / k)
+            :agent(null / t))
+        :op2(m1 / mang
+            :patient(null / k)
+            :accompanier(null / t)
+            :agent(null / t))))
+
+
+::id 14-42-1 ::date 2024-09-27T09:23:03 ::annotator user10
+::snt tôi , nếu tôi có một bông hoa , tôi có thể hái bông hoa đó và mang nó đi .
+
+(p / possible-01
+    :condition(c / có
+        :pivot(t1 / tôi)
+        :theme(h / hoa
+            :quant(null / 1
+                :classifier(b / bông))))
+    :agent(a / and
+        :op1(h1 / hái
+            :patient(h2 / hoa
+                :classifier(b1 / bông)
+                :mod(đ / đó))
+            :agent-of(null / t1))
+        :op2(m1 / mang
+            :agent-of(null / t1)
+            :patient(null / h2)
+            :accompanier(null / t1))))
+
+
+::id 14-42-2 ::date 2024-09-27T09:23:05 ::annotator user10
+::snt còn ông đâu có thể hái các ngôi sao !
+
+(c4 / contrast-01
+    :ARG2(p / possible-01
+        :manner(h / hái
+            :agent(ô / ông)
+            :patient(s / sao
+                :classifier(n / ngôi)))
+        :polarity(null / -)))
+
+
+::id 14-42-3 ::date 2024-09-27T09:23:08 ::annotator user10
+::snt - không , nhưng ta có thể bỏ chúng vào ngân hàng .
+
+(c3 / contrast-01
+    :ARG1(k / không)
+    :ARG2(p / possible-01
+        :agent(b / bỏ
+            :agent-of(t / ta)
+            :patient(c1 / chúng)
+            :location(n1 / ngân hàng
+                :prep(v / vào)))))
+
+
+::id 14-43-1 ::date 2024-09-27T09:23:12 ::annotator user10
+::snt - nghĩa là thế nào ?
+
+(n / nghĩa là
+    :manner(a / amr-unknown))
+
+
+::id 14-44-1 ::date 2024-09-27T09:23:17 ::annotator user10
+::snt - nghĩa là ta viết trên một tờ giấy con số ngôi sao của ta .
+
+(n / nghĩa là
+    :manner(v / viết
+        :agent(t / ta)
+        :location(g / giấy
+            :prep(t1 / trên)
+            :quant(null / 1
+                :classifier(t2 / tờ)))
+        :theme(c / con số
+            :mod(s / sao
+                :classifier(n1 / ngôi)
+                :poss(null / t)))))
+
+
+::id 14-45-1 ::date 2024-09-27T09:23:25 ::annotator user10
+::snt sau đó ta khoá chặt mẩu giấy ấy trong một cái tủ .
+
+(k / khoá
+    :agent(t / ta)
+    :manner(c / chặt)
+    :theme(m / mẩu
+        :mod(g / giấy)
+        :mod(ấ / ấy))
+    :location(t2 / tủ
+        :prep(t1 / trong)
+        :quant(null / 1
+            :classifier(c1 / cái))))
+
+
+::id 14-45-2 ::date 2024-09-27T09:23:28 ::annotator user10
+::snt - chỉ thế thôi à ?
+
+(t / thế
+    :degree(c / chỉ)
+    :modality(t1 / thôi)
+    :modality(à / à)
+    :mode interrogative(null / -))
+
+
+::id 14-46-1 ::date 2024-09-27T09:23:32 ::annotator user10
+::snt - thế đủ rồi .
+
+(đ / đủ
+    :domain(t / thế)
+    :modality(r / rồi))
+
+
+::id 14-47-1 ::date 2024-09-27T09:23:35 ::annotator user10
+::snt buồn cười thật , ông hoàng nhỏ nghĩ thầm .
+
+(n1 / nghĩ
+    :topic(b / buồn cười
+        :modality(t / thật))
+    :pivot(ô / ông hoàng
+        :mod(n / nhỏ))
+    :compound(t1 / thầm))
+
+
+::id 14-48-1 ::date 2024-09-27T09:23:39 ::annotator user10
+::snt có vẻ nên thơ đấy .
+
+(c / có
+    :theme(v / vẻ
+        :mod(n / nên thơ))
+    :modality(đ / đấy))
+
+
+::id 14-48-2 ::date 2024-09-27T09:23:41 ::annotator user10
+::snt nhưng mà không đứng đắn lắm đâu .
+
+(c / contrast-01
+    :ARG2(đ / đứng đắn
+        :degree(l / lắm)
+        :modality(đ1 / đâu)
+        :polarity(null / -)))
+
+
+::id 14-48-3 ::date 2024-09-27T09:23:44 ::annotator user10
+::snt ông hoàng nhỏ nghĩ về việc đứng đắn rất khác với những người lớn .
+
+(n1 / nghĩ
+    :pivot(ô / ông hoàng
+        :mod(n / nhỏ))
+    :topic(v1 / việc
+        :mod(đ / đứng đắn))
+    :manner(k / khác
+        :degree(r / rất)
+        :compared-to(n3 / người lớn)))
+
+
+::id 14-49-1 ::date 2024-09-27T09:23:48 ::annotator user10
+::snt - tôi , em lại nói , tôi có một bông hoa mà hôm nào cũng tưới .
+
+(n / nói
+    :agent(e / em)
+    :manner(l / lại)
+    :topic(c / có
+        :theme(h / hoa
+            :theme-of(t2 / tưới
+                :modality(c1 / cũng)
+                :patient(null / h)
+                :frequency(r / rate-entity-91
+                    :time(t3 / temporal-quantity
+                        :unit(h1 / hôm
+                            :mod(n1 / nào))))
+                :agent(null / e))
+            :quant(null / 1
+                :classifier(b / bông)))
+        :pivot(null / e)))
+
+
+::id 14-50-1 ::date 2024-09-27T09:23:52 ::annotator user10
+::snt tôi có ba quả núi lửa mà tuần nào tôi cũng nạo vét .
+
+(c / có
+    :pivot(t / tôi)
+    :theme(n / núi lửa
+        :theme-of(n2 / nạo vét
+            :modality(c1 / cũng)
+            :agent(null / t)
+            :frequency(r / rate-entity-91
+                :time(t4 / temporal-quantity
+                    :unit(t1 / tuần
+                        :mod(n1 / nào)))))
+        :quant(null / 3
+            :classifier(q / quả))))
+
+
+::id 14-50-2 ::date 2024-09-27T09:23:54 ::annotator user10
+::snt tôi cũng nạo vét cả quả núi lửa đã tắt .
+
+(n / nạo vét
+    :agent(t / tôi)
+    :modality(c / cũng)
+    :patient(n1 / núi lửa
+        :classifier(q / quả)
+        :patient-of(t1 / tắt
+            :tense(đ / đã)
+            :patient(null / n))))
+
+
+::id 14-50-3 ::date 2024-09-27T09:23:56 ::annotator user10
+::snt biết đâu đấy !
+
+(b / biết đâu đấy
+    :mode interrogative(null / -))
+
+
+::id 14-50-4 ::date 2024-09-27T09:24:00 ::annotator user10
+::snt cái đó giúp ích cho các quả núi lửa , và giúp ích cho bông hoa của tôi , nên tôi có chúng .
+
+(c5 / có
+    :pivot(t1 / tôi)
+    :reason(a / and
+        :op1(g / giúp ích
+            :theme(c / cái
+                :mod(đ / đó))
+            :beneficiary(n / núi lửa
+                :classifier(q / quả))
+            :op2(g1 / giúp ích
+                :beneficiary(h / hoa
+                    :classifier(b / bông)
+                    :poss(t / tôi))
+                :theme(null / c))))
+    :theme(null / c))
+
+
+::id 14-50-5 ::date 2024-09-27T09:24:03 ::annotator user10
+::snt nhưng ông chẳng giúp ích gì cho những ngôi sao cả ...
+
+(c3 / contrast-01
+    :ARG2(g / giúp ích
+        :agent(ô / ông)
+        :polarity(c / chẳng)
+        :theme(g1 / gì)
+        :goal(s / sao
+            :classifier(n2 / ngôi))))
+
+
+::id 14-50-6 ::date 2024-09-27T09:24:07 ::annotator user10
+::snt nhà doanh nghiệp mở miệng nhưng chẳng biết trả lời ra sao cả , và ông hoàng nhỏ ra đi .
+
+(a / and
+    :op2(r1 / ra
+        :agent(ô / ông hoàng
+            :mod(n2 / nhỏ))
+        :compound(đ / đi))
+    :op1(c3 / contrast-01
+        :ARG1(m / mở miệng
+            :agent(n / nhà
+                :compound(d / doanh nghiệp)))
+        :ARG2(b / biết
+            :topic(t / trả lời
+                :manner(r / ra
+                    :compound(s / sao)
+                    :degree(c1 / cả)))
+            :agent(null / n)
+            :polarity(null / -))))
+
+
+::id 14-51-1 ::date 2024-09-27T09:24:11 ::annotator user10
+::snt những người lớn nhất định là những người hoàn toàn kỳ quái .
+
+(n4 / người
+    :domain(n1 / người lớn
+        :mod(n2 / nhất định))
+    :mod(k / kỳ quái
+        :degree(h / hoàn toàn)))
+
+
+::id 14-52-1 ::date 2024-09-27T09:24:15 ::annotator user10
+::snt em nghĩ thầm một cách đơn giản như vậy trong suốt cuộc hành trình .
+
+(n / nghĩ
+    :pivot(e / em)
+    :compound(t / thầm)
+    :manner(m / một cách
+        :mod(đ / đơn giản
+            :compared-to(v / vậy)
+            :degree(e2 / e2)))
+    :setting(c / cuộc
+        :prep(t1 / trong)
+        :time(s / suốt)
+        :mod(h / hành trình)))
+
+
+::id 14-52-2 ::date 2024-09-27T09:24:17 ::annotator user10
+::snt hành tinh thứ năm rất lạ .
+
+(l / lạ
+    :domain(h / hành tinh
+        :ord(o / ordinal-entity
+            :value(null / 5)))
+    :degree(r / rất))
+
+
+::id 15-1-1 ::date 2024-09-27T09:24:24 ::annotator user10
+::snt nó là cái bé nhất trong số các hành tinh .
+
+(c / cái
+    :domain(n / nó)
+    :mod(b / bé
+        :degree(n1 / nhất)
+        :compared-to(s / số
+            :prep(t / trong)
+            :mod(h / hành tinh))))
+
+
+::id 15-1-2 ::date 2024-09-27T09:24:26 ::annotator user10
+::snt ở đấy chỉ đủ chỗ cho một cây cột đèn và một người thắp đèn .
+
+(đ1 / đủ
+    :mod(c / chỉ)
+    :location(c1 / chỗ)
+    :goal(a / and
+        :theme(c4 / cột
+            :compound(đ2 / đèn)
+            :quant(null / 1
+                :classifier(c3 / cây)))
+        :op2(p / person
+            :agent-of(t / thắp
+                :patient(đ3 / đèn))
+            :quant(null / 1))))
+
+
+::id 15-1-3 ::date 2024-09-27T09:24:41 ::annotator user10
+::snt ông hoàng nhỏ nghĩ mãi nhưng không thể nào hiểu được tại sao , đâu đó trong bầu trời , trên một hành tinh không nhà cửa , không dân cư , lại có một cây cột đèn và một người thắp đèn để làm chi .
+
+(c7 / contrast-01
+    :ARG1(n1 / nghĩ
+        :pivot(ô / ông hoàng
+            :mod(n / nhỏ))
+        :manner(m / mãi))
+    :ARG2(p / possible-01 
+        :pivot(h / hiểu
+            :manner(đ / được)
+            :pivot-of(null / ô)
+            :cause(a / amr-unkonown
+                :result(c / có
+                    :manner(l / lại)
+                    :purpose(l1 / làm chi)
+                    :theme(a2 / and
+                        :op1(c2 / cột
+                            :compound(đ2 / đèn)
+                            :quant(null / 1
+                                :classifier(c1 / cây)))
+                        :op2(p2 / person
+                            :agent-of(t3 / thắp
+                                :patient(đ3 / đèn))
+                            :quant(null / 1)))
+                    :location(r / relative-position
+                        :op1(b / bầu trời
+                            :prep(t1 / trong))
+                        :op2(h1 / hành tinh
+                            :prep(t2 / trên)
+                            :mod(a3 / and
+                                :op1(n4 / nhà cửa
+                                    :polarity(null / -))
+                                :op2(d / dân cư
+                                    :polarity(null / -)))
+                            :quant(null / 1))))))
+        :polarity(null / -)))
+
+
+::id 15-1-4 ::date 2024-09-27T09:24:45 ::annotator user10
+::snt tuy vậy em tự bảo :
+
+:contrast(c / contrast-01
+    :pivot(e / em)
+    :ARG2(t1 / tự
+        :compound(b / bảo)))
+
+
+::id 15-1-5 ::date 2024-09-27T09:24:47 ::annotator user10
+::snt - rất có thể người này là vô lý .
+
+(p / possible-01
+    :degree(r / rất)
+    :domain(v / vô lý
+        :domain-of(n / người
+            :mod(n1 / này))))
+
+
+::id 15-2-1 ::date 2024-09-27T09:24:52 ::annotator user10
+::snt tuy thế ông ta còn ít vô lý hơn ông vua , ít vô lý hơn kẻ khoác lác , ít vô lý hơn nhà doanh nghiệp , ít vô lý hơn tay bợm nhậu .
+
+(c2 / contrast-01
+    :ARG2(v / vô lý
+        :domain(ô / ông
+            :mod(t2 / ta))
+        :modality(c / còn)
+        :degree(í / ít)
+        :degree(h / hơn)
+        :compared-to(a /  and
+            :op1(ô1 / ông
+                :compound(v1 / vua))
+            :op2(k / kẻ
+                :mod(k1 / khoác lác))
+            :op3(n / nhà
+                :compound(d / doanh nghiệp))
+            :op4(t3 / tay
+                :mod(b / bợm
+                    :compound(n1 / nhậu))))))
+
+
+::id 15-2-2 ::date 2024-09-27T09:24:55 ::annotator user10
+::snt ít ra công việc ông ta làm còn có một ý nghĩa .
+
+(c2 / có
+    :modality(í / ít ra)
+    :topic(c / công việc
+        :mod(l / làm
+            :agent(ô / ông
+                :mod(t / ta))))
+    :modality(c1 / còn)
+    :result(ý / ý nghĩa))
+
+
+::id 15-2-3 ::date 2024-09-27T09:24:57 ::annotator user10
+::snt khi ông ta thắp cây đèn của mình , như là ông ta sinh thêm một ngôi sao hay một bông hoa .
+
+(t1 / thắp
+    :time(k / khi)
+    :agent(ô / ông
+        :mod(t / ta))
+    :patient-of(đ / đèn
+        :classifier(c / cây)
+        :poss(null / ô))
+    :topic(r / resemble-01
+        :compared-to(s / sinh
+            :compound(t3 / thêm)
+            :agent(null / ô)
+            :result(o / or
+                :op1(s1 / sao
+                    :quant(null / 1
+                        :classifier(n1 / ngôi)))
+                :op2(h1 / hoa
+                    :quant(null / 1
+                        :classifier(b / bông)))))
+        :degree(e / equal)))
+
+
+::id 15-2-4 ::date 2024-09-27T09:25:03 ::annotator user10
+::snt khi ông ta tắt cây đèn , ông ta ru bông hoa hay ngôi sao ấy ngủ .
+
+(r / ru
+    :time(t1 / tắt
+        :agent(ô / ông
+            :mod(t / ta)))
+    :purpose(n1 / ngủ
+        :agent(null / o))
+    :agent(null / ô)
+    :theme(o / or
+        :op1(h / hoa
+            :classifier(b / bông))
+        :op2(s / sao
+            :classifier(n / ngôi)
+            :mod(ấ / ấy))))
+
+
+::id 15-2-5 ::date 2024-09-27T09:25:06 ::annotator user10
+::snt ấy là một công việc rất đẹp chứ .
+
+(c / công việc
+    :domain(ấ / ấy)
+    :mod(đ / đẹp
+        :degree(r / rất)))
+
+
+::id 15-2-6 ::date 2024-09-27T09:25:08 ::annotator user10
+::snt việc ấy mới thật sự là có ích là vì nó đẹp .
+
+(c / có ích
+    :domain(v / việc
+        :mod(ấ / ấy))
+    :degree(t / thật sự)
+    :reason(đ / đẹp
+        :domain(null / v)))
+
+
+::id 15-2-7 ::date 2024-09-27T09:25:11 ::annotator user10
+::snt khi đến gần tinh cầu , em kính trọng chào người thắp đèn :
+
+(c / chào
+    :time(đ / đến
+        :degree(g / gần)
+        :location(t / tinh cầu)
+        :agent(null / e))
+    :agent(e / em)
+    :manner(k1 / kính trọng)
+    :goal(p / person
+        :agent-of(t1 / thắp)
+        :patient(đ1 / đèn)))
+
+
+::id 15-3-1 ::date 2024-09-27T09:25:14 ::annotator user10
+::snt chúc một ngày tốt lành .
+
+(c / chúc
+    :topic(n / ngày
+        :mod(t / tốt lành)
+        :quant(null / 1)))
+
+
+::id 15-4-1 ::date 2024-09-27T09:25:18 ::annotator user10
+::snt tại sao ông tắt đèn đi ?
+
+(t1 / tắt
+    :agent(ô / ông)
+    :patient(đ / đèn)
+    :manner(đ1 / đi)
+    :reason(a / amr-unkonown))
+
+
+::id 15-4-2 ::date 2024-09-27T09:25:28 ::annotator user10
+::snt - đó là điều lệnh , người thắp đèn trả lời .
+
+(t1 / trả lời
+    :topic(đ1 / điều lệnh
+        :domain(đ / đó))
+    :agent(n / người
+        :agent-of(t / thắp
+            :patient(đ2 / đèn))))
+
+
+::id 15-5-1 ::date 2024-09-27T09:25:41 ::annotator user10
+::snt chúc một ngày tốt lành .
+
+(c / chúc
+    :topic(n / ngày
+        :mod(t / tốt lành)
+        :quant(null / 1)))
+
+
+::id 15-5-2 ::date 2024-09-27T09:25:43 ::annotator user10
+::snt - điều lệnh gì vậy ?
+
+(đ / điều lệnh
+    :domain(a / amr-unknown))
+
+
+::id 15-6-1 ::date 2024-09-27T09:25:47 ::annotator user10
+::snt - là tắt đèn đi .
+
+(t / tắt
+    :patient(đ / đèn)
+    :mode imperative(null / -))
+
+
+::id 15-7-1 ::date 2024-09-27T09:25:51 ::annotator user10
+::snt chúc một buổi tối tốt lành .
+
+(c / chúc
+    :topic(b / buổi
+        :compound(t / tối)
+        :mod(t1 / tốt lành)
+        :quant(null / 1)))
+
+
+::id 15-7-2 ::date 2024-09-27T09:25:54 ::annotator user10
+::snt và ông ta lại thắp đèn lên .
+
+(a / and
+    :op2(t1 / thắp
+        :agent(ô / ông
+            :mod(t / ta))
+        :manner(l / lại)
+        :patient(đ / đèn)
+        :manner(l1 / lên)))
+
+
+::id 15-8-1 ::date 2024-09-27T09:25:57 ::annotator user10
+::snt - nhưng tại sao ông lại vừa thắp đèn lên ?
+
+(c / contrast-01
+    :ARG2(t1 / thắp
+        :agent(ô / ông)
+        :manner(l / lại)
+        :patient(đ / đèn)
+        :manner(l1 / lên)
+        :cause(a / amr-unknown)))
+
+
+::id 15-9-1 ::date 2024-09-27T09:26:01 ::annotator user10
+::snt - điều lệnh mà , người thắp đèn trả lời .
+
+(t1 / trả lời
+    :topic(đ / điều lệnh
+        :modality(m / mà))
+    :agent(n / người
+        :agent-of(t / thắp
+            :patient(đ1 / đèn))))
+
+
+::id 15-10-1 ::date 2024-09-27T09:26:04 ::annotator user10
+::snt - tôi không hiểu , ông hoàng nhỏ nói .
+
+(n1 / nói
+    :topic(h / hiểu
+        :polarity(null / -)
+        :pivot(null / ô))
+    :agent(ô / ông hoàng
+        :mod(n / nhỏ)))
+
+
+::id 15-11-1 ::date 2024-09-27T09:26:07 ::annotator user10
+::snt - chẳng có gì mà hiểu cả , người thắp đèn nói .
+
+(n1 / nói
+    :topic(c1 / có
+        :theme(g / gì)
+        :degree(m / mà)
+        :purpose(h / hiểu)
+        :polarity(null / -))
+    :agent(n / người
+        :agent-of(t / thắp
+            :patient(đ / đèn))))
+
+
+::id 15-12-1 ::date 2024-09-27T09:26:12 ::annotator user10
+::snt điều lệnh là điều lệnh .
+
+(đ1 / điều lệnh
+    :domain(đ / điều lệnh))
+
+
+::id 15-12-2 ::date 2024-09-27T09:26:15 ::annotator user10
+::snt chúc một ngày tốt lành .
+
+(c / chúc
+    :topic(n / ngày
+        :mod(t / tốt lành)
+        :quant(null / 1)))
+
+
+::id 15-12-3 ::date 2024-09-27T09:26:20 ::annotator user10
+::snt rồi ông ta tắt cây đèn .
+
+(a / and
+    :op2(t1 / tắt
+        :agent(ô / ông
+            :mod(t / ta))
+        :patient(đ / đèn
+            :classifier(c / cây))))
+
+
+::id 15-13-1 ::date 2024-09-27T08:56:14 ::annotator user10
+::snt và ông ta thấm mồ hôi trên trán bằng một chiếc mùi soa ca rô đỏ .
+
+(a / and
+    :op2(t1 / thấm
+        :agent(ô / ông
+            :mod(t / ta))
+        :patient(m / mồ hôi
+            :source(t3 / trán
+                :prep(t2 / trên)
+                :poss(null / ô)))
+        :instrument(m2 / mùi soa
+            :mod(c1 / ca rô)
+            :mod(đ / đỏ)
+            :quant(null / 1
+                :classifier(c / chiếc)))))
+
+
+::id 15-14-1 ::date 2024-09-27T08:56:18 ::annotator user10
+::snt - nghề của ta làm đây thật kinh khủng .
+
+(k / kinh khủng
+    :domain(n / nghề
+        :mod(l / làm
+            :agent(t / ta)
+            :location(đ / đây)))
+    :degree(t1 / thật))
+
+
+::id 15-15-1 ::date 2024-09-27T08:56:22 ::annotator user10
+::snt xưa kia thì nó còn có lý .
+
+(c1 / có lý
+    :time(x / xưa
+        :compound(k / kia))
+    :domain(n / nó)
+    :modality(c / còn))
+
+
+::id 15-15-2 ::date 2024-09-27T08:56:25 ::annotator user10
+::snt sáng ta tắt , tối ta thắp .
+
+(a / and
+    :op1(t1 / tắt
+        :agent(t / ta)
+        :time(d / date-entity
+            :dayperiod(s / sáng)))
+    :op2(t4 / thắp
+        :agent(null / t)
+        :time(d2 / date-entity 
+            :dayperiod(t2 / tối))))
+
+
+::id 15-15-3 ::date 2024-09-27T08:56:28 ::annotator user10
+::snt phần còn lại ta nghỉ , phần đêm còn lại ta ngủ ...
+
+(a / and
+    :op1(c / còn
+        :theme(p / phần)
+        :compound(l / lại)
+        :purpose(n / nghỉ
+            :pivot(t / ta)))
+    :op2(c1 / còn
+        :theme(p1 / phần
+            :part-of(đ / đêm))
+        :compound(l1 / lại)
+        :purpose(n1 / ngủ
+            :pivot(null / t))))
+
+
+::id 15-15-4 ::date 2024-09-27T08:56:32 ::annotator user10
+::snt - nhưng sau đó điều lệnh thay đổi sao ?
+
+(c / contrast-01
+    :ARG2(t / thay đổi
+        :time(s / sau
+            :mod(đ / đó))
+        :theme(đ1 / điều lệnh)
+        :mode interrogative(null / -)))
+
+
+::id 15-16-1 ::date 2024-09-27T08:55:30 ::annotator user10
+::snt - điều lệnh không thay đổi , người thắp đèn nói .
+
+(n1 / nói
+    :topic(t / thay đổi
+        :theme(đ / điều lệnh)
+        :polarity(null / -))
+    :agent(n / người
+        :patient-of(t1 / thắp
+            :patient(đ1 / đèn))))
+
+

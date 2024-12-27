@@ -1,0 +1,6 @@
+# ::snt đây là bản sao của bức tranh đó
+(b / bản_sao
+    :domain (đ / đây)
+    :poss (t / tranh
+              :classifier (b2 / bức)
+              :domain (đ2 / đó)))
