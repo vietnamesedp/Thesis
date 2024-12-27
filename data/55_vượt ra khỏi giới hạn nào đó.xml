@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<VNCLASS id="vượt ra khỏi giới hạn nào đó">
+	<MEMBERS>
+		<MEMBER name="vượt" sense="vượt"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="vượt-55">
+			<MEMBERS>
+				<MEMBER name="áp đảo" sense="áp đảo"/>
+				<MEMBER name="ăn đứt" sense="ăn đứt"/>
+				<MEMBER name="cách biệt" sense="cách biệt"/>
+				<MEMBER name="dẫn đầu" sense="dẫn đầu"/>
+				<MEMBER name="vượt trội" sense="vượt trội"/>
+				<MEMBER name="vượt" sense="vượt"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Co-Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Attribute">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Theme V Co-Theme {in} Attribute">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="ThemRole" value="Co-Theme"/>
+						<syntaxItems accepted="" type="NoType" value="{in}"/>
+						<syntaxItems accepted="" type="ThemRole" value="Attribute"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="exceed" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Theme"/>
+								<args type="ThemRole" optional="false" value="Co-Theme"/>
+								<args type="ThemRole" optional="false" value="Attribute"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>chúng tôi đã vượt giới hạn trong chi tiêu</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

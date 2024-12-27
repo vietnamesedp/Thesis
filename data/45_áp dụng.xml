@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<VNCLASS id="áp dụng">
+	<MEMBERS>
+		<MEMBER name="áp dụng" sense="áp dụng"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="áp dụng-45">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="áp dụng-45.1">
+					<MEMBERS>
+						<MEMBER name="áp dụng" sense="áp dụng"/>
+						<MEMBER name="ấn định" sense="ấn định"/>
+						<MEMBER name="triển khai" sense="triển khai"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Predicate">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Theme Predicate &lt;+vc_to_inf&gt;">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+								<syntaxItems accepted="" type="ThemRole" value="Predicate &lt;+vc_to_inf&gt;"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="use" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+										<args type="ThemRole" optional="false" value="Predicate"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Họ đã áp dụng kĩ thuật mới vào sản xuất</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="áp dụng-45.2">
+					<MEMBERS>
+						<MEMBER name="dùng" sense="dùng"/>
+						<MEMBER name="sử dụng" sense="sử dụng"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Predicate">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Theme Predicate &lt;+vc_to_inf&gt;">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+								<syntaxItems accepted="" type="ThemRole" value="Predicate &lt;+vc_to_inf&gt;"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="use" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+										<args type="ThemRole" optional="false" value="Predicate"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Họ dùng tiếng Anh để giao tiếp</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="áp dụng-45.3">
+					<MEMBERS>
+						<MEMBER name="ứng dụng" sense="ứng dụng"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Theme ADV">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+								<syntaxItems accepted="" type="NoType" value="ADV"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="use" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+										<args type="ThemRole" optional="false" value="Predicate"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Anh ấy ứng dụng kĩ thuật nội soi rất tốt</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

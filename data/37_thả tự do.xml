@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<VNCLASS id="thả tự do">
+	<MEMBERS>
+		<MEMBER name="buông" sense="buông"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="buông-37">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="buông-37.1">
+					<MEMBERS>
+						<MEMBER name="buông" sense="buông"/>
+						<MEMBER name="giăng" sense="giăng"/>
+						<MEMBER name="phóng" sense="phóng"/>
+						<MEMBER name="thả" sense="thả"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Source">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="V Source">
+							<SYNTAX>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Source"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="true" value="Cause"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="free" negative="+">
+									<ARGS>
+										<args type="Event" optional="false" value="start(E)"/>
+										<args type="ThemRole" optional="true" value="Theme"/>
+										<args type="ThemRole" optional="false" value="Source"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="free" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="end(E)"/>
+										<args type="ThemRole" optional="true" value="Theme"/>
+										<args type="ThemRole" optional="false" value="Source"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Thả tù binh</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="buông-37.2">
+					<MEMBERS>
+						<MEMBER name="ân xá" sense="ân xá"/>
+						<MEMBER name="ban bố" sense="ban bố"/>
+						<MEMBER name="giải phóng" sense="giải phóng"/>
+						<MEMBER name="phóng thích" sense="phóng thích"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Cause">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Source">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Cause V Source">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Cause"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Source"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Cause"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="free" negative="+">
+									<ARGS>
+										<args type="Event" optional="false" value="start(E)"/>
+										<args type="ThemRole" optional="true" value="Theme"/>
+										<args type="ThemRole" optional="false" value="Source"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="free" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="end(E)"/>
+										<args type="ThemRole" optional="true" value="Theme"/>
+										<args type="ThemRole" optional="false" value="Source"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Chính phủ ân xá cho phạm nhân</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<VNCLASS id="tập hợp">
+	<MEMBERS>
+		<MEMBER name="tập hợp" sense="tập hợp"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="tập hợp-73">
+			<MEMBERS>
+				<MEMBER name="tích lũy" sense="tích lũy"/>
+				<MEMBER name="thu" sense="thu"/>
+				<MEMBER name="tổng hợp" sense="tổng hợp"/>
+				<MEMBER name="tập hợp" sense="tập hợp"/>
+				<MEMBER name="nhóm" sense="nhóm"/>
+				<MEMBER name="tụ họp" sense="tụ họp"/>
+				<MEMBER name="triệu tập" sense="triệu tập"/>
+				<MEMBER name="..." sense="..."/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent V Theme">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="cause" negative="-">
+							<ARGS>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="Event" optional="false" value="E"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="together" negative="+">
+							<ARGS>
+								<args type="Event" optional="false" value="start(E)"/>
+								<args type="Event" optional="false" value="Theme_i"/>
+								<args type="Event" optional="false" value="Theme_j"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="together" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="end(E)"/>
+								<args type="Event" optional="false" value="Theme_i"/>
+								<args type="Event" optional="false" value="Theme_j"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Giáo viên tập hợp học sinh</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

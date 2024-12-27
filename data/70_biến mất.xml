@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<VNCLASS id="biến mất">
+	<MEMBERS>
+		<MEMBER name="biến mất" sense="biến mất"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="biến mất-70">
+			<MEMBERS>
+				<MEMBER name="biến mất" sense="biến mất"/>
+				<MEMBER name="mất" sense="mất"/>
+				<MEMBER name="mất toi" sense="mất toi"/>
+				<MEMBER name="mất hút" sense="mất hút"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Patient">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Patient V">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Patient"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="disappear" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Patient"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Một bản thảo có giá trị đã biến mất</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

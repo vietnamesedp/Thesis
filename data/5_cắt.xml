@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<VNCLASS id="cắt">
+	<MEMBERS>
+		<MEMBER name="cắt" sense="cắt"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="cắt-5">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="cắt-5.1">
+					<MEMBERS>
+						<MEMBER name="cắt" sense="cắt"/>
+						<MEMBER name="xén" sense="xén"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Theme">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="manner" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="Event" optional="false" value="Motion"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="contact" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="true" value="Instrument"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="degradation_material_integrity" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="result(E)"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Cô ấy đang cắt cỏ</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="cắt-5.2">
+					<MEMBERS>
+						<MEMBER name="chặt" sense="chặt"/>
+						<MEMBER name="chẻ" sense="chẻ"/>
+						<MEMBER name="chẽ" sense="chẽ"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Theme">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="manner" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="Event" optional="false" value="Motion"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="contact" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="degradation_material_integrity" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="result(E)"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>anh ấy đang chặt mía</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

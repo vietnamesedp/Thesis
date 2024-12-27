@@ -1,0 +1,282 @@
+<?xml version="1.0" ?>
+<VNCLASS id="cư trú">
+	<MEMBERS>
+		<MEMBER name="cư trú" sense="cư trú"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="cư trú-16">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="cư trú-16.1">
+					<MEMBERS>
+						<MEMBER name="cư trú" sense="cư trú"/>
+						<MEMBER name="lưu trú" sense="lưu trú"/>
+						<MEMBER name="tạm trú" sense="tạm trú"/>
+						<MEMBER name="thường trú" sense="thường trú"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Location">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Theme V {{+loc}} Location">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="NoType" value="{{+loc}}"/>
+								<syntaxItems accepted="" type="ThemRole" value="Location"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="exist" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="Prep" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="E"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+										<args type="ThemRole" optional="false" value="Location"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>họ đang cư trú ở nước ngoài</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="cư trú-16.2">
+					<MEMBERS>
+						<MEMBER name="hồi cư" sense="hồi cư"/>
+						<MEMBER name="ngụ cư" sense="ngụ cư"/>
+						<MEMBER name="quần tụ" sense="quần tụ"/>
+						<MEMBER name="tụ cư" sense="tụ cư"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Location">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Theme V {{+loc}} Location">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="NoType" value="{{+loc}}"/>
+								<syntaxItems accepted="" type="ThemRole" value="Location"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="exist" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="Prep" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="E"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+										<args type="ThemRole" optional="false" value="Location"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>gia đình bác tôi đang ngụ cư ở quả đồi bên kia</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="cư trú-16.3">
+					<MEMBERS>
+						<MEMBER name="di cư" sense="di cư"/>
+						<MEMBER name="tản cư" sense="tản cư"/>
+						<MEMBER name="ti tản" sense="ti tản"/>
+						<MEMBER name="di dân" sense="di dân"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Location">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Theme V {{+loc}} Location">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="NoType" value="{{+loc}}"/>
+								<syntaxItems accepted="" type="ThemRole" value="Location"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="exist" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="Prep" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="E"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+										<args type="ThemRole" optional="false" value="Location"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Gia đình họ đã di cư vào Nam</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="cư trú-16.4">
+					<MEMBERS>
+						<MEMBER name="an cư" sense="an cư"/>
+						<MEMBER name="định cư" sense="định cư"/>
+						<MEMBER name="tạm cư" sense="tạm cư"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Location">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Theme V {{+loc}} Location">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="NoType" value="{{+loc}}"/>
+								<syntaxItems accepted="" type="ThemRole" value="Location"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="exist" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="Prep" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="E"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+										<args type="ThemRole" optional="false" value="Location"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>họ an cư ở Tây Nguyên</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="cư trú-16.5">
+					<MEMBERS>
+						<MEMBER name="ngụ" sense="ngụ"/>
+						<MEMBER name="trọ" sense="trọ"/>
+						<MEMBER name="trú" sense="trú"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Location">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Theme V {{+loc}} Location">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="NoType" value="{{+loc}}"/>
+								<syntaxItems accepted="" type="ThemRole" value="Location"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="exist" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="Prep" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="E"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+										<args type="ThemRole" optional="false" value="Location"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Tôi trọ ở nhà một người quen</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="cư trú-16.6">
+					<MEMBERS>
+						<MEMBER name="nương náu" sense="nương náu"/>
+						<MEMBER name="sinh sống" sense="sinh sống"/>
+						<MEMBER name="tá túc" sense="tá túc"/>
+						<MEMBER name="trú ẩn" sense="trú ẩn"/>
+						<MEMBER name="trú chân" sense="trú chân"/>
+						<MEMBER name="trú ngụ" sense="trú ngụ"/>
+						<MEMBER name="trú quân" sense="trú quân"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Location">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Theme V {{+loc}} Location">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="NoType" value="{{+loc}}"/>
+								<syntaxItems accepted="" type="ThemRole" value="Location"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="exist" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="Prep" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="E"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+										<args type="ThemRole" optional="false" value="Location"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>người đàn bà ấy đã nương náu nơi cửa chùa</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

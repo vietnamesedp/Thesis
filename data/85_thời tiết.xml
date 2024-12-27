@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<VNCLASS id="thời tiết">
+	<MEMBERS>
+		<MEMBER name="thời tiết" sense="thời tiết"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="thời tiết-84">
+			<MEMBERS>
+				<MEMBER name="mưa" sense="mưa"/>
+				<MEMBER name="đóng băng" sense="đóng băng"/>
+			</MEMBERS>
+			<THEMROLES/>
+			<FRAMES>
+				<FRAME description="(it) ([+be]) V">
+					<SYNTAX>
+						<syntaxItems accepted="" type="NoType" value="(it)"/>
+						<syntaxItems accepted="" type="NoType" value="([+be])"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="weather" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="Event" optional="false" value="Weather_type"/>
+								<args type="ThemRole" optional="true" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Trời đang mưa</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

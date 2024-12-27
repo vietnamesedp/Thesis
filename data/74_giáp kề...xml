@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<VNCLASS id="giáp kề..">
+	<MEMBERS>
+		<MEMBER name="giao" sense="giao"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="giao-74">
+			<MEMBERS>
+				<MEMBER name="tiếp giáp" sense="tiếp giáp"/>
+				<MEMBER name="giao" sense="giao"/>
+				<MEMBER name="giáp" sense="giáp"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Co-Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Theme V Co-Theme">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="ThemRole" value="Co-Theme"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="contact" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Theme"/>
+								<args type="ThemRole" optional="false" value="Co-Theme"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="exist" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="exist" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Co-Theme"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Ý giáp với Pháp</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

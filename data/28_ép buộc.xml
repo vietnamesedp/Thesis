@@ -1,0 +1,141 @@
+<?xml version="1.0" ?>
+<VNCLASS id="ép buộc">
+	<MEMBERS>
+		<MEMBER name="áp đặt" sense="áp đặt"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="áp đặt-28">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="áp đặt-28.1">
+					<MEMBERS>
+						<MEMBER name="áp đặt" sense="áp đặt"/>
+						<MEMBER name="cấm đoán" sense="cấm đoán"/>
+						<MEMBER name="gò ép" sense="gò ép"/>
+						<MEMBER name="ngăn cấm" sense="ngăn cấm"/>
+						<MEMBER name="ràng buộc" sense="ràng buộc"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Patient">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Result">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Patient Result &lt;+oc_to_inf&gt;">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Patient"/>
+								<syntaxItems accepted="" type="ThemRole" value="Result &lt;+oc_to_inf&gt;"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="force" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+										<args type="ThemRole" optional="false" value="Result"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Bà cấm đoán cô con gái không được qua lại với anh</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="áp đặt -28.2">
+					<MEMBERS>
+						<MEMBER name="bắt ép" sense="bắt ép"/>
+						<MEMBER name="buộc" sense="buộc"/>
+						<MEMBER name="ép" sense="ép"/>
+						<MEMBER name="hoói thúc" sense="hoói thúc"/>
+						<MEMBER name="thúc ép" sense="thúc ép"/>
+						<MEMBER name="thúc giục" sense="thúc giục"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Patient">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Patient">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Patient"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="force" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+										<args type="ThemRole" optional="true" value="Result"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Họ bắt ép tôi</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="áp đặt -28.3">
+					<MEMBERS>
+						<MEMBER name="cưỡng bức" sense="cưỡng bức"/>
+						<MEMBER name="cưỡng ép" sense="cưỡng ép"/>
+						<MEMBER name="ép buộc" sense="ép buộc"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Patient">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Result">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Patient Result &lt;+oc_to_inf&gt;">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Patient"/>
+								<syntaxItems accepted="" type="ThemRole" value="Result &lt;+oc_to_inf&gt;"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="force" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+										<args type="ThemRole" optional="false" value="Result"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Chúng cưỡng bức thanh niên trong làng đi lính</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

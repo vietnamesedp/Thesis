@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<VNCLASS id="yêu cầu">
+	<MEMBERS>
+		<MEMBER name="yêu cầu" sense="yêu cầu"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="yêu cầu-62">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="yêu cầu-62.1">
+					<MEMBERS>
+						<MEMBER name="đòi hỏi" sense="đòi hỏi"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Pivot">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Pivot V Theme">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Pivot"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="necessitate" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="E"/>
+										<args type="ThemRole" optional="false" value="Pivot"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+										<args type="ThemRole" optional="true" value="Source"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Sự thành công đòi hỏi sự chăm chỉ</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="yêu cầu-62.2">
+					<MEMBERS>
+						<MEMBER name="khuyến nghị" sense="khuyến nghị"/>
+						<MEMBER name="đề nghị" sense="đề nghị"/>
+						<MEMBER name="khuyết cáo" sense="khuyết cáo"/>
+						<MEMBER name="đề xuất" sense="đề xuất"/>
+						<MEMBER name="kiến nghị" sense="kiến nghị"/>
+						<MEMBER name="yêu cầu" sense="yêu cầu"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Pivot">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Pivot V Theme &lt;+np_to_inf&gt;">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Pivot"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme &lt;+np_to_inf&gt;"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="require" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="E"/>
+										<args type="ThemRole" optional="false" value="Pivot"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+										<args type="ThemRole" optional="true" value="Source"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Tôi yêu cầu tòa xử lại vụ án</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="yêu cầu-62.3">
+					<MEMBERS>
+						<MEMBER name="cần" sense="cần"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Pivot">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Pivot V Theme &lt;+sc_to_inf&gt;">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Pivot"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme &lt;+sc_to_inf&gt;"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="require" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="E"/>
+										<args type="ThemRole" optional="false" value="Pivot"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+										<args type="ThemRole" optional="true" value="Source"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Lễ hội cần được tổ chức</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

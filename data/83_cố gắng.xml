@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<VNCLASS id="cố gắng">
+	<MEMBERS>
+		<MEMBER name="cố gắng" sense="cố gắng"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="cố gắng-83">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="cố gắng-83.1">
+					<MEMBERS>
+						<MEMBER name="cố" sense="cố"/>
+						<MEMBER name="cố công" sense="cố công"/>
+						<MEMBER name="cố gắng" sense="cố gắng"/>
+						<MEMBER name="muốn" sense="muốn"/>
+						<MEMBER name="ra sức" sense="ra sức"/>
+						<MEMBER name="chủ động" sense="chủ động"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Theme &lt;+sc_to_inf&gt;">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme &lt;+sc_to_inf&gt;"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="attempt" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Nó cố ăn hết bát cơm</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="cố gắng-83.2">
+					<MEMBERS>
+						<MEMBER name="ráng" sense="ráng"/>
+						<MEMBER name="cắn răng" sense="cắn răng"/>
+						<MEMBER name="bóp bụng" sense="bóp bụng"/>
+						<MEMBER name="đành" sense="đành"/>
+						<MEMBER name="định bụng" sense="định bụng"/>
+						<MEMBER name="gắng gượng" sense="gắng gượng"/>
+						<MEMBER name="nén lòng" sense="nén lòng"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Theme &lt;+np_omit_ing&gt;">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme &lt;+np_omit_ing&gt;"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="attempt" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Nó ráng chịu đau</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<VNCLASS id="đặt hàng">
+	<MEMBERS>
+		<MEMBER name="Đặt hàng" sense="Đặt hàng"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="Đặt hàng-84">
+			<MEMBERS>
+				<MEMBER name="đặt hàng" sense="đặt hàng"/>
+				<MEMBER name="gọi" sense="gọi"/>
+				<MEMBER name="yêu cầu" sense="yêu cầu"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent V ">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="command" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="ThemRole" optional="true" value="Recipient"/>
+								<args type="ThemRole" optional="true" value="Topic"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Chị ấy đã đặt hàng</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

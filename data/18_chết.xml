@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<VNCLASS id="chết">
+	<MEMBERS>
+		<MEMBER name="chết" sense="chết"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="chết-18">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="chết-18.1">
+					<MEMBERS>
+						<MEMBER name="chết non" sense="chết non"/>
+						<MEMBER name="sảy" sense="sảy"/>
+						<MEMBER name="sẩy" sense="sẩy"/>
+						<MEMBER name="chết yểu" sense="chết yểu"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Patient">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Patient V">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Patient"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="disappear" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>đứa bé nhà đó chết non</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="chết-18.2">
+					<MEMBERS>
+						<MEMBER name="chết" sense="chết"/>
+						<MEMBER name="chết đuối" sense="chết đuối"/>
+						<MEMBER name="lâm nạn" sense="lâm nạn"/>
+						<MEMBER name="thiệt mạng" sense="thiệt mạng"/>
+						<MEMBER name="thương vong" sense="thương vong"/>
+						<MEMBER name="tử nạn" sense="tử nạn"/>
+						<MEMBER name="đi" sense="đi"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Patient">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Patient V">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Patient"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="disappear" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>228 hành khách đã chết</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="chết-18.3">
+					<MEMBERS>
+						<MEMBER name="qua đời" sense="qua đời"/>
+						<MEMBER name="sạt nghiệp" sense="sạt nghiệp"/>
+						<MEMBER name="tắt thở" sense="tắt thở"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Patient">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Patient V">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Patient"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="disappear" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>người bệnh đã tắt thở</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="chết-18.4">
+					<MEMBERS>
+						<MEMBER name="bỏ mạng" sense="bỏ mạng"/>
+						<MEMBER name="hy sinh" sense="hy sinh"/>
+						<MEMBER name="hi sinh" sense="hi sinh"/>
+						<MEMBER name="liều mạng" sense="liều mạng"/>
+						<MEMBER name="quên mình" sense="quên mình"/>
+						<MEMBER name="quyết tử" sense="quyết tử"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Patient">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Location">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Patient V {{+loc}} Location">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Patient"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="NoType" value="{{+loc}}"/>
+								<syntaxItems accepted="" type="ThemRole" value="Location"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="disappear" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="Prep" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="E"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+										<args type="ThemRole" optional="false" value="Location"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>ông ta đã bỏ mạng ở ngoài chiến trường</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

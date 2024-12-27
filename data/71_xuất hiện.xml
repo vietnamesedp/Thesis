@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<VNCLASS id="xuất hiện">
+	<MEMBERS>
+		<MEMBER name="xuất hiện" sense="xuất hiện"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="xuất hiện-71">
+			<MEMBERS>
+				<MEMBER name="công bố" sense="công bố"/>
+				<MEMBER name="ra đời" sense="ra đời"/>
+				<MEMBER name="ra lò" sense="ra lò"/>
+				<MEMBER name="ra mắt" sense="ra mắt"/>
+				<MEMBER name="trình làng" sense="trình làng"/>
+				<MEMBER name="xuất hiện" sense="xuất hiện"/>
+				<MEMBER name="hiện hữu" sense="hiện hữu"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Theme V">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="appear" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Con tàu xuất hiện</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

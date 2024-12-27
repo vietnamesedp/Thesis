@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<VNCLASS id="cộng">
+	<MEMBERS>
+		<MEMBER name="cộng" sense="cộng"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="cộng-54">
+			<MEMBERS>
+				<MEMBER name="cộng" sense="cộng"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent V Theme">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="calculate" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="ThemRole" optional="false" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>tôi cộng tiền hàng</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+			<SUBCLASSES/>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

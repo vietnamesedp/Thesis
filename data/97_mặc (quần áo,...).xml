@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<VNCLASS id="mặc (quần áo,...)">
+	<MEMBERS>
+		<MEMBER name="mặc" sense="mặc"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="mặc-97">
+			<MEMBERS>
+				<MEMBER name="mặc" sense="mặc"/>
+				<MEMBER name="khoác" sense="khoác"/>
+				<MEMBER name="choàng" sense="choàng"/>
+				<MEMBER name="diện" sense="diện"/>
+				<MEMBER name="đội" sense="đội"/>
+				<MEMBER name="đeo" sense="đeo"/>
+				<MEMBER name="đi ..." sense="đi ..."/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent V Theme">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="wear" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="E"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="ThemRole" optional="false" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Học sinh mặc đồng phục</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

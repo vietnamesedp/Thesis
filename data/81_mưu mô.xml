@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<VNCLASS id="mưu mô">
+	<MEMBERS>
+		<MEMBER name="mưu mô" sense="mưu mô"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="mưu mô-81">
+			<MEMBERS>
+				<MEMBER name="mưu mô" sense="mưu mô"/>
+				<MEMBER name="âm mưu" sense="âm mưu"/>
+				<MEMBER name="mưu toan" sense="mưu toan"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent V Theme &lt;+sc_to_inf&gt;">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="ThemRole" value="Theme &lt;+sc_to_inf&gt;"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="conspire" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="ThemRole" optional="false" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Bọn họ đang mưu mô làm phản</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+			<SUBCLASSES/>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

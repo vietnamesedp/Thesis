@@ -1,0 +1,301 @@
+<?xml version="1.0" ?>
+<VNCLASS id="giết">
+	<MEMBERS>
+		<MEMBER name="giết" sense="giết"/>
+		<MEMBER name="tự sát" sense="tự sát"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="giết-3.1">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="giết-3.1-1">
+					<MEMBERS>
+						<MEMBER name="giết thịt" sense="giết thịt"/>
+						<MEMBER name="làm thịt" sense="làm thịt"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Patient">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Patient">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Patient"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="alive" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="start(E)"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="alive" negative="+">
+									<ARGS>
+										<args type="Event" optional="false" value="result(E)"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Nhà tôi giết thịt một con bò</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="giết-3.1-2">
+					<MEMBERS>
+						<MEMBER name="chém giết" sense="chém giết"/>
+						<MEMBER name="giết hại" sense="giết hại"/>
+						<MEMBER name="cố sát" sense="cố sát"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Patient">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent &lt;+Plural&gt; V Patient">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent &lt;+Plural&gt;"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Patient"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="alive" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="start(E)"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="alive" negative="+">
+									<ARGS>
+										<args type="Event" optional="false" value="result(E)"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Bọn chúng chém giết người vô tội</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="giết-3.1-3">
+					<MEMBERS>
+						<MEMBER name="đầu độc" sense="đầu độc"/>
+						<MEMBER name="sát hại" sense="sát hại"/>
+						<MEMBER name="treo cổ" sense="treo cổ"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Patient">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Instrument">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Patient {with} Instrument">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Patient"/>
+								<syntaxItems accepted="" type="NoType" value="{with}"/>
+								<syntaxItems accepted="" type="ThemRole" value="Instrument"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="harmed" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="use" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Instrument"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Tên giết người đầu độc nạn nhân bằng thạch tín</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="giết-3.1-4">
+					<MEMBERS>
+						<MEMBER name="bức tử" sense="bức tử"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Patient">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Patient">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Patient"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="alive" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="start(E)"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="alive" negative="+">
+									<ARGS>
+										<args type="Event" optional="false" value="result(E)"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Hắn đã bức tử cô ấy</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="giết-3.1-5">
+					<MEMBERS>
+						<MEMBER name="xử tử" sense="xử tử"/>
+						<MEMBER name="thanh trừng" sense="thanh trừng"/>
+						<MEMBER name="hành quyết" sense="hành quyết"/>
+						<MEMBER name="hành hình" sense="hành hình"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Patient">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Patient">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Patient"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="alive" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="start(E)"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="alive" negative="+">
+									<ARGS>
+										<args type="Event" optional="false" value="result(E)"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Họ đã xử tử tên giết người</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+		<VNCLASS id="tự sát-3.2">
+			<MEMBERS>
+				<MEMBER name="tự sát" sense="tự sát"/>
+				<MEMBER name="tự thiêu" sense="tự thiêu"/>
+				<MEMBER name="tự tử" sense="tự tử"/>
+				<MEMBER name="tự vẫn" sense="tự vẫn"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent V">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="cause" negative="-">
+							<ARGS>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="Event" optional="false" value="E"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="alive" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="start(E)"/>
+								<args type="ThemRole" optional="true" value="Patient"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="alive" negative="+">
+							<ARGS>
+								<args type="Event" optional="false" value="result(E)"/>
+								<args type="ThemRole" optional="true" value="Patient"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Hắn đã tự sát</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

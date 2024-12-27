@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<VNCLASS id="giấu">
+	<MEMBERS>
+		<MEMBER name="che đậy" sense="che đậy"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="che đậy-49">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="che đậy-49.1">
+					<MEMBERS>
+						<MEMBER name="che giấu" sense="che giấu"/>
+						<MEMBER name="bưng bít" sense="bưng bít"/>
+						<MEMBER name="che đậy" sense="che đậy"/>
+						<MEMBER name="ém nhẹm" sense="ém nhẹm"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Patient">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent &lt;+plural&gt; V Patient">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent &lt;+plural&gt;"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Patient"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="visible" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="start(E)"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="visible" negative="+">
+									<ARGS>
+										<args type="Event" optional="false" value="end(E)"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="Prep" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="E"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+										<args type="ThemRole" optional="true" value="Beneficiary"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>bọn chúng che giấu mọi tội lỗi</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="che đậy-49.2">
+					<MEMBERS>
+						<MEMBER name="giấu giếm" sense="giấu giếm"/>
+						<MEMBER name="giấu" sense="giấu"/>
+						<MEMBER name="tránh mặt" sense="tránh mặt"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Patient">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Patient">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Patient"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="visible" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="start(E)"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="visible" negative="+">
+									<ARGS>
+										<args type="Event" optional="false" value="end(E)"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="Prep" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="E"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+										<args type="ThemRole" optional="true" value="Beneficiary"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Ông ấy giấu diếm của cải</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

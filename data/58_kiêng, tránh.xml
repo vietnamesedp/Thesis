@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<VNCLASS id="kiêng, tránh">
+	<MEMBERS>
+		<MEMBER name="tránh" sense="tránh"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="tránh-58">
+			<MEMBERS>
+				<MEMBER name="tránh" sense="tránh"/>
+				<MEMBER name="kiêng" sense="kiêng"/>
+				<MEMBER name="né" sense="né"/>
+				<MEMBER name="lánh" sense="lánh"/>
+				<MEMBER name="kiềm chế" sense="kiềm chế"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent V {together}">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="NoType" value="{together}"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="abstain" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="ThemRole" optional="true" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Hai xe tránh nhau</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<VNCLASS id="kết hợp và đính kèm">
+	<MEMBERS>
+		<MEMBER name="nối" sense="nối"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="nối-8">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="nối-8.1">
+					<MEMBERS>
+						<MEMBER name="chắp nối" sense="chắp nối"/>
+						<MEMBER name="ghép nối" sense="ghép nối"/>
+						<MEMBER name="kết nối" sense="kết nối"/>
+						<MEMBER name="nối" sense="nối"/>
+						<MEMBER name="nối kết" sense="nối kết"/>
+						<MEMBER name="nối liền" sense="nối liền"/>
+						<MEMBER name="pha trộn" sense="pha trộn"/>
+						<MEMBER name="ráp nối" sense="ráp nối"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Patient">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Patient">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Patient"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="attached" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="end(E)"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+										<args type="ThemRole" optional="true" value="Instrument"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Anh ta nối dây điện</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="nối-8.2">
+					<MEMBERS>
+						<MEMBER name="chêm" sense="chêm"/>
+						<MEMBER name="dính" sense="dính"/>
+						<MEMBER name="thòng" sense="thòng"/>
+						<MEMBER name="trám" sense="trám"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Patient">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Patient">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Patient"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="attached" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="end(E)"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+										<args type="ThemRole" optional="true" value="Instrument"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Ông tôi đang chêm cán cuốc</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="nối-8.3">
+					<MEMBERS>
+						<MEMBER name="cài" sense="cài"/>
+						<MEMBER name="đính" sense="đính"/>
+						<MEMBER name="gài" sense="gài"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Patient">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Co-Patient">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Patient {to on onto} Co-Patient">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Patient"/>
+								<syntaxItems accepted="" type="NoType" value="{to on onto}"/>
+								<syntaxItems accepted="" type="ThemRole" value="Co-Patient"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="together" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="end(E)"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+										<args type="ThemRole" optional="false" value="Co-Patient"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="attached" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="end(E)"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+										<args type="ThemRole" optional="false" value="Instrument"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="attached" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="end(E)"/>
+										<args type="ThemRole" optional="false" value="Co-Patient"/>
+										<args type="ThemRole" optional="false" value="Instrument"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>em bé cài hoa lên tóc mẹ</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

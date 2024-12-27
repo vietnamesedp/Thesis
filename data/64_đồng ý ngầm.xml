@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<VNCLASS id="đồng ý ngầm">
+	<MEMBERS>
+		<MEMBER name="quy phục" sense="quy phục"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="quy phục-64">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="quy phục-64.1">
+					<MEMBERS>
+						<MEMBER name="quy phục" sense="quy phục"/>
+						<MEMBER name="khuất phục" sense="khuất phục"/>
+						<MEMBER name="hàng phục" sense="hàng phục"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Co-Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Co-Agent">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Co-Agent"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="yield" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Co-Agent"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Quân xâm lược quy phục quân triều đình</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="quy phục-64.2">
+					<MEMBERS>
+						<MEMBER name="bằng lòng" sense="bằng lòng"/>
+						<MEMBER name="hài lòng" sense="hài lòng"/>
+						<MEMBER name="ưng thuận" sense="ưng thuận"/>
+						<MEMBER name="ưng ý" sense="ưng ý"/>
+						<MEMBER name="vừa lòng" sense="vừa lòng"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Theme &lt;+sc_to_inf&gt;">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme &lt;+sc_to_inf&gt;"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="yield" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Nhà vua bằng lòng ở cùng phòng với dân thường</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

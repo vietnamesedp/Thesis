@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<VNCLASS id="tồn tại của âm thanh">
+	<MEMBERS>
+		<MEMBER name="tồn_tại_của_âm_thanh" sense="tồn_tại_của_âm_thanh"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="tồn_tại_của_âm_thanh-94">
+			<MEMBERS>
+				<MEMBER name="vang" sense="vang"/>
+				<MEMBER name="âm vang" sense="âm vang"/>
+				<MEMBER name="ngân" sense="ngân"/>
+				<MEMBER name="vọng" sense="vọng"/>
+				<MEMBER name="cuộn" sense="cuộn"/>
+				<MEMBER name="vang lên" sense="vang lên"/>
+				<MEMBER name="vang vọng" sense="vang vọng"/>
+				<MEMBER name="..." sense="..."/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Theme V">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="exist" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Tiếng chuông vang vọng</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

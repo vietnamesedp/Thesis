@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+<VNCLASS id="tương tác xã hội">
+	<MEMBERS>
+		<MEMBER name="gặp mặt" sense="gặp mặt"/>
+		<MEMBER name="cộng tác" sense="cộng tác"/>
+		<MEMBER name="cạnh tranh" sense="cạnh tranh"/>
+		<MEMBER name="kết hôn" sense="kết hôn"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="cộng tác-98.1">
+			<MEMBERS>
+				<MEMBER name="hợp tác" sense="hợp tác"/>
+				<MEMBER name="tương tác" sense="tương tác"/>
+				<MEMBER name="giao tiếp" sense="giao tiếp"/>
+				<MEMBER name="thỏa hiệp" sense="thỏa hiệp"/>
+				<MEMBER name="đồng tình" sense="đồng tình"/>
+				<MEMBER name="tương tác" sense="tương tác"/>
+				<MEMBER name="kết hợp" sense="kết hợp"/>
+				<MEMBER name=".." sense=".."/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Co-Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent V {with} Co-Agent ">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="NoType" value="{with}"/>
+						<syntaxItems accepted="" type="ThemRole" value="Co-Agent"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="social_interaction" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="ThemRole" optional="false" value="Co-Agent"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Anh cộng tác với mấy tòa soạn</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+			<SUBCLASSES/>
+		</VNCLASS>
+		<VNCLASS id="kết hôn-98.2">
+			<MEMBERS>
+				<MEMBER name="kết hôn" sense="kết hôn"/>
+				<MEMBER name="hẹn hò" sense="hẹn hò"/>
+				<MEMBER name="ôm" sense="ôm"/>
+				<MEMBER name="hôn" sense="hôn"/>
+				<MEMBER name="cưới" sense="cưới"/>
+				<MEMBER name="ăn hỏi" sense="ăn hỏi"/>
+				<MEMBER name="..." sense="..."/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent &lt;+plural&gt; V">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent &lt;+plural&gt;"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="social_interaction" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="Event" optional="false" value="Agent_i"/>
+								<args type="Event" optional="false" value="Agent_j"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Họ đã kết hôn với nhau</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+			<SUBCLASSES/>
+		</VNCLASS>
+		<VNCLASS id="gặp mặt-98.3">
+			<MEMBERS>
+				<MEMBER name="gặp" sense="gặp"/>
+				<MEMBER name="thăm" sense="thăm"/>
+				<MEMBER name="hẹn" sense="hẹn"/>
+				<MEMBER name="xem mắt" sense="xem mắt"/>
+				<MEMBER name="đoàn tụ" sense="đoàn tụ"/>
+				<MEMBER name="..." sense="..."/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Co-Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent V {with} Co-Agent">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="NoType" value="{with}"/>
+						<syntaxItems accepted="" type="ThemRole" value="Co-Agent"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="social_interaction" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="ThemRole" optional="false" value="Co-Agent"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Gặp người quen</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+			<SUBCLASSES/>
+		</VNCLASS>
+		<VNCLASS id="cạnh tranh-98.4">
+			<MEMBERS>
+				<MEMBER name="đấu" sense="đấu"/>
+				<MEMBER name="cạnh tranh" sense="cạnh tranh"/>
+				<MEMBER name="tranh giành" sense="tranh giành"/>
+				<MEMBER name="chạy đua" sense="chạy đua"/>
+				<MEMBER name="ganh đua" sense="ganh đua"/>
+				<MEMBER name="giành giật" sense="giành giật"/>
+				<MEMBER name=".." sense=".."/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Co-Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent V {with} Co-Agent">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="NoType" value="{with}"/>
+						<syntaxItems accepted="" type="ThemRole" value="Co-Agent"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="social_interaction" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="ThemRole" optional="false" value="Co-Agent"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Sản phẩm trong nước cạnh tranh với sản phẩm  nước ngoài</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

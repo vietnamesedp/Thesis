@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<VNCLASS id="hiến dâng">
+	<MEMBERS>
+		<MEMBER name="cống hiến" sense="cống hiến"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="cống hiến-66">
+			<MEMBERS>
+				<MEMBER name="hiến" sense="hiến"/>
+				<MEMBER name="cống hiến" sense="cống hiến"/>
+				<MEMBER name="hiến dâng" sense="hiến dâng"/>
+				<MEMBER name="phó thác" sense="phó thác"/>
+				<MEMBER name="gửi gắm" sense="gửi gắm"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Goal">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent V Theme {to} Goal">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+						<syntaxItems accepted="" type="NoType" value="{to}"/>
+						<syntaxItems accepted="" type="ThemRole" value="Goal"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="dedicate" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="ThemRole" optional="false" value="Theme"/>
+								<args type="ThemRole" optional="false" value="Goal"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Họ đã cống hiến tuổi xuân cho nghệ thuật</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

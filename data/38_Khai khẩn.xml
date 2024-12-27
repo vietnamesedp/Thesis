@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<VNCLASS id="Khai khẩn">
+	<MEMBERS>
+		<MEMBER name="khai khẩn" sense="khai khẩn"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="khai khẩn-38">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="khai khẩn-38.1">
+					<MEMBERS>
+						<MEMBER name="khai khẩn" sense="khai khẩn"/>
+						<MEMBER name="khai phá" sense="khai phá"/>
+						<MEMBER name="khám phá" sense="khám phá"/>
+						<MEMBER name="tìm tòi" sense="tìm tòi"/>
+						<MEMBER name="mở mang" sense="mở mang"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Theme">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="discover" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+										<args type="ThemRole" optional="true" value="Source"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Họ khai khẩn đất hoang</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="khai khẩn-38.2">
+					<MEMBERS>
+						<MEMBER name="thám hiểm" sense="thám hiểm"/>
+						<MEMBER name="du khảo" sense="du khảo"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Theme">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="discover" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+										<args type="ThemRole" optional="true" value="Source"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>đoàn khách du lịch đang thám hiểm đại dương</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

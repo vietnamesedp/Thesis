@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<VNCLASS id="trạng thái bên trong cơ thể">
+	<MEMBERS>
+		<MEMBER name="trạng_thái_bên_trong_cơ_thể" sense="trạng_thái_bên_trong_cơ_thể"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="trạng_thái_bên_trong_cơ_thể-93">
+			<MEMBERS>
+				<MEMBER name="rùng mình" sense="rùng mình"/>
+				<MEMBER name="co giật" sense="co giật"/>
+				<MEMBER name="quằn quại" sense="quằn quại"/>
+				<MEMBER name="run rẩy" sense="run rẩy"/>
+				<MEMBER name="co rúm" sense="co rúm"/>
+				<MEMBER name="..." sense="..."/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Experiencer">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Experiencer V">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Experiencer"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="body_reflex" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="E"/>
+								<args type="ThemRole" optional="false" value="Experiencer"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="involuntary" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="E"/>
+								<args type="ThemRole" optional="false" value="Experiencer"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Cô bé co rúm người lại</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

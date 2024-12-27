@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<VNCLASS id="chỉ ra">
+	<MEMBERS>
+		<MEMBER name="chỉ điểm" sense="chỉ điểm"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="chỉ điểm-35">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="chỉ điểm-35.1">
+					<MEMBERS>
+						<MEMBER name="chỉ điểm" sense="chỉ điểm"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Cause">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Recipient">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Cause V {to} Recipient">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Cause"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="NoType" value="{to}"/>
+								<syntaxItems accepted="" type="ThemRole" value="Recipient"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="indicate" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Cause"/>
+										<args type="ThemRole" optional="false" value="Recipient"/>
+										<args type="ThemRole" optional="true" value="Topic"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Nó đã chỉ điểm cho giặc</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="chỉ điểm-35.2">
+					<MEMBERS>
+						<MEMBER name="bóc trần" sense="bóc trần"/>
+						<MEMBER name="lật tẩy" sense="lật tẩy"/>
+						<MEMBER name="phanh phui" sense="phanh phui"/>
+						<MEMBER name="phơi bày" sense="phơi bày"/>
+						<MEMBER name="vạch mặt" sense="vạch mặt"/>
+						<MEMBER name="vạch trần" sense="vạch trần"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Cause">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Topic">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Cause V Topic &lt;-sentential&gt;">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Cause"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Topic &lt;-sentential&gt;"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="indicate" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Cause"/>
+										<args type="ThemRole" optional="true" value="Recipient"/>
+										<args type="ThemRole" optional="false" value="Topic"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>chị đã lật tẩy bộ mặt gian dối của hắn</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<VNCLASS id="học">
+	<MEMBERS>
+		<MEMBER name="học" sense="học"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="học-1">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="học-1.1">
+					<MEMBERS>
+						<MEMBER name="học" sense="học"/>
+						<MEMBER name="học hành" sense="học hành"/>
+						<MEMBER name="học tập" sense="học tập"/>
+						<MEMBER name="luyện tập" sense="luyện tập"/>
+						<MEMBER name="luyện" sense="luyện"/>
+						<MEMBER name="ôn" sense="ôn"/>
+						<MEMBER name="ôn luyện" sense="ôn luyện"/>
+						<MEMBER name="ôn tập" sense="ôn tập"/>
+						<MEMBER name="tập luyện" sense="tập luyện"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Topic">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Topic">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Topic"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="transfer_info" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="true" value="Source"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Topic"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Học sinh đang học bài</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="học-1.2">
+					<MEMBERS>
+						<MEMBER name="bắt chước" sense="bắt chước"/>
+						<MEMBER name="học lỏm" sense="học lỏm"/>
+						<MEMBER name="nhái" sense="nhái"/>
+						<MEMBER name="nhại" sense="nhại"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Topic">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="V Topic">
+							<SYNTAX>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Topic"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="transfer_info" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="true" value="Source"/>
+										<args type="ThemRole" optional="true" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Topic"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Học lỏm mấy câu tiếng Anh</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="học-1.3">
+					<MEMBERS>
+						<MEMBER name="học hỏi" sense="học hỏi"/>
+						<MEMBER name="chắt lọc" sense="chắt lọc"/>
+						<MEMBER name="định hình" sense="định hình"/>
+						<MEMBER name="lĩnh hỗi" sense="lĩnh hỗi"/>
+						<MEMBER name="lãnh hội" sense="lãnh hội"/>
+						<MEMBER name="rèn giũa" sense="rèn giũa"/>
+						<MEMBER name="mài giũa" sense="mài giũa"/>
+						<MEMBER name="thu nạp" sense="thu nạp"/>
+						<MEMBER name="tích lũy" sense="tích lũy"/>
+						<MEMBER name="tiếp thụ" sense="tiếp thụ"/>
+						<MEMBER name="trau dồi" sense="trau dồi"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Topic">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="V Topic">
+							<SYNTAX>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Topic"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="transfer_info" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="true" value="Source"/>
+										<args type="ThemRole" optional="true" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Topic"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>lĩnh hội kiến thức</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<VNCLASS id="giúp đỡ">
+	<MEMBERS>
+		<MEMBER name="giúp" sense="giúp"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="giúp-30">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="giúp-30.1">
+					<MEMBERS>
+						<MEMBER name="cứu trợ" sense="cứu trợ"/>
+						<MEMBER name="giải cứu" sense="giải cứu"/>
+						<MEMBER name="tiếp tế" sense="tiếp tế"/>
+						<MEMBER name="trợ giúp" sense="trợ giúp"/>
+						<MEMBER name="viện trợ" sense="viện trợ"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Beneficiary">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Beneficiary">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Beneficiary"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="help" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Beneficiary"/>
+										<args type="ThemRole" optional="true" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>các cấp lãnh đạo cứu trợ đồng bào lũ lụt</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="giúp-30.2">
+					<MEMBERS>
+						<MEMBER name="bao bọc" sense="bao bọc"/>
+						<MEMBER name="giúp" sense="giúp"/>
+						<MEMBER name="nâng đỡ" sense="nâng đỡ"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Beneficiary">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Beneficiary Theme &lt;+oc_to_inf&gt;">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Beneficiary"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme &lt;+oc_to_inf&gt;"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="help" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Beneficiary"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>nó giúp tôi trông nhà</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<VNCLASS id="giới hạn">
+	<MEMBERS>
+		<MEMBER name="giới hạn" sense="giới hạn"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="giới hạn-32">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="giới hạn-32.1">
+					<MEMBERS>
+						<MEMBER name="giới hạn" sense="giới hạn"/>
+						<MEMBER name="hạn định" sense="hạn định"/>
+						<MEMBER name="dự tính" sense="dự tính"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Cause">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Patient">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Cause V Patient">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Cause"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Patient"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="limit" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Cause"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+										<args type="ThemRole" optional="true" value="Goal"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>thầy giáo đã giới hạn đề tài</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="giới hạn-32.2">
+					<MEMBERS>
+						<MEMBER name="hạn chế" sense="hạn chế"/>
+						<MEMBER name="giảm thiểu" sense="giảm thiểu"/>
+						<MEMBER name="kiềm chế" sense="kiềm chế"/>
+						<MEMBER name="ngăn chặn" sense="ngăn chặn"/>
+						<MEMBER name="kìm hãm" sense="kìm hãm"/>
+						<MEMBER name="trấn áp." sense="trấn áp."/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Cause">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Patient">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Cause V Patient">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Cause"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Patient"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="limit" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Cause"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+										<args type="ThemRole" optional="true" value="Goal"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>tôi đã giảm thiểu mọi khoản chi phí</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

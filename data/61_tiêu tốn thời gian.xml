@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<VNCLASS id="tiêu tốn thời gian">
+	<MEMBERS>
+		<MEMBER name="tốn" sense="tốn"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="tốn-61">
+			<MEMBERS>
+				<MEMBER name="tốn" sense="tốn"/>
+				<MEMBER name="lãng phí" sense="lãng phí"/>
+				<MEMBER name="bỏ lỡ" sense="bỏ lỡ"/>
+				<MEMBER name="dùng" sense="dùng"/>
+				<MEMBER name="giết chết" sense="giết chết"/>
+				<MEMBER name="trì hoãn" sense="trì hoãn"/>
+				<MEMBER name="..." sense="..."/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent V Duration">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="NoType" value="Duration"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="spend" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="Event" optional="false" value="Duration"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="do" negative="-">
+							<ARGS>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="Event" optional="false" value="E"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Tôi đã tốn 5 tiếng đồng hồ</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

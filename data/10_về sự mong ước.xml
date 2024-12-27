@@ -1,0 +1,229 @@
+<?xml version="1.0" ?>
+<VNCLASS id="về sự mong ước">
+	<MEMBERS>
+		<MEMBER name="chờ" sense="chờ"/>
+		<MEMBER name="ước" sense="ước"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="ước-10.1">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="ước-10.1-1">
+					<MEMBERS>
+						<MEMBER name="mong ước" sense="mong ước"/>
+						<MEMBER name="ước mong" sense="ước mong"/>
+						<MEMBER name="ước mơ" sense="ước mơ"/>
+						<MEMBER name="ước muốn" sense="ước muốn"/>
+						<MEMBER name="ước nguyện" sense="ước nguyện"/>
+						<MEMBER name="ước vọng" sense="ước vọng"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Experiencer">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Experiencer V Theme">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Experiencer"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="desire" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="E"/>
+										<args type="ThemRole" optional="false" value="Experiencer"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Cô ấy mong ước một cuộc sống hạnh phúc</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="ước-10.1-2">
+					<MEMBERS>
+						<MEMBER name="ao ước" sense="ao ước"/>
+						<MEMBER name="ham muốn" sense="ham muốn"/>
+						<MEMBER name="hoài vọng" sense="hoài vọng"/>
+						<MEMBER name="khao khát" sense="khao khát"/>
+						<MEMBER name="khát khao" sense="khát khao"/>
+						<MEMBER name="khát vọng" sense="khát vọng"/>
+						<MEMBER name="mơ" sense="mơ"/>
+						<MEMBER name="mơ ước" sense="mơ ước"/>
+						<MEMBER name="thèm khát" sense="thèm khát"/>
+						<MEMBER name="ước ao" sense="ước ao"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Experiencer">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Experiencer V Theme">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Experiencer"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="desire" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="E"/>
+										<args type="ThemRole" optional="false" value="Experiencer"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Tôi ao ước một cuộc sống gia đình hạnh phúc</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="ước-10.1-3">
+					<MEMBERS>
+						<MEMBER name="hi vọng" sense="hi vọng"/>
+						<MEMBER name="hy vọng" sense="hy vọng"/>
+						<MEMBER name="kì vọng" sense="kì vọng"/>
+						<MEMBER name="kỳ vọng" sense="kỳ vọng"/>
+						<MEMBER name="mong" sense="mong"/>
+						<MEMBER name="mong đợi" sense="mong đợi"/>
+						<MEMBER name="mong chờ" sense="mong chờ"/>
+						<MEMBER name="mong mỏi" sense="mong mỏi"/>
+						<MEMBER name="mong muốn" sense="mong muốn"/>
+						<MEMBER name="trông đợi" sense="trông đợi"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Experiencer">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Experiencer V Theme &lt;+sc_to_inf&gt;">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Experiencer"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme &lt;+sc_to_inf&gt;"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="desire" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="E"/>
+										<args type="ThemRole" optional="false" value="Experiencer"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>tôi hy vọng gặp lại anh</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+		<VNCLASS id="chờ-10.2">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="ước-10.2-1">
+					<MEMBERS>
+						<MEMBER name="trông chờ" sense="trông chờ"/>
+						<MEMBER name="trông mong" sense="trông mong"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Experiencer">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Experiencer V Theme">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Experiencer"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="desire" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="E"/>
+										<args type="ThemRole" optional="false" value="Experiencer"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Tôi trông chờ ngày hội ngộ</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="ước-10.2-2">
+					<MEMBERS>
+						<MEMBER name="chờ" sense="chờ"/>
+						<MEMBER name="chờ chực" sense="chờ chực"/>
+						<MEMBER name="chờ đợi" sense="chờ đợi"/>
+						<MEMBER name="chờ mong" sense="chờ mong"/>
+						<MEMBER name="đợi chờ" sense="đợi chờ"/>
+						<MEMBER name="đợi" sense="đợi"/>
+						<MEMBER name="mong ngóng" sense="mong ngóng"/>
+						<MEMBER name="ngóng chờ" sense="ngóng chờ"/>
+						<MEMBER name="ngóng" sense="ngóng"/>
+						<MEMBER name="ngóng trông" sense="ngóng trông"/>
+						<MEMBER name="trông ngóng" sense="trông ngóng"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Experiencer">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Experiencer V Theme">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Experiencer"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="desire" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="E"/>
+										<args type="ThemRole" optional="false" value="Experiencer"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>tôi đang chờ tàu</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

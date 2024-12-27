@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<VNCLASS id="thanh toán">
+	<MEMBERS>
+		<MEMBER name="chuyển khoản" sense="chuyển khoản"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="chuyển khoản-26">
+			<MEMBERS>
+				<MEMBER name="chuyển khoản" sense="chuyển khoản"/>
+				<MEMBER name="chi trả" sense="chi trả"/>
+				<MEMBER name="bồi thường" sense="bồi thường"/>
+				<MEMBER name="chi" sense="chi"/>
+				<MEMBER name="bồi hoàn" sense="bồi hoàn"/>
+				<MEMBER name="đặt cọc" sense="đặt cọc"/>
+				<MEMBER name="đền bù" sense="đền bù"/>
+				<MEMBER name="hoàn" sense="hoàn"/>
+				<MEMBER name="hoàn trả" sense="hoàn trả"/>
+				<MEMBER name="nộp" sense="nộp"/>
+				<MEMBER name="tạm chi" sense="tạm chi"/>
+				<MEMBER name="tạm ứng" sense="tạm ứng"/>
+				<MEMBER name="thanh tóa" sense="thanh tóa"/>
+				<MEMBER name="trả" sense="trả"/>
+				<MEMBER name="ứng" sense="ứng"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Asset">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Recipient">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent V Asset {for} Recipient">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="ThemRole" value="Asset"/>
+						<syntaxItems accepted="" type="NoType" value="{for}"/>
+						<syntaxItems accepted="" type="ThemRole" value="Recipient"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="transfer" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="true" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="transfer" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Asset"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="has_possession" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="start(E)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="ThemRole" optional="false" value="Asset"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="has_possession" negative="+">
+							<ARGS>
+								<args type="Event" optional="false" value="start(E)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="ThemRole" optional="true" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="has_possession" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="end(E)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="ThemRole" optional="true" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="has_possession" negative="+">
+							<ARGS>
+								<args type="Event" optional="false" value="end(E)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="ThemRole" optional="false" value="Asset"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="value" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="E"/>
+								<args type="ThemRole" optional="true" value="Theme"/>
+								<args type="ThemRole" optional="false" value="Asset"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Anh ấy chi trả lương cho công nhận</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

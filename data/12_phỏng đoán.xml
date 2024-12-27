@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<VNCLASS id="phỏng đoán">
+	<MEMBERS>
+		<MEMBER name="đoán" sense="đoán"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="đoán-12">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="đoán-12.1">
+					<MEMBERS>
+						<MEMBER name="dự cảm" sense="dự cảm"/>
+						<MEMBER name="dự đoán" sense="dự đoán"/>
+						<MEMBER name="dự liệu" sense="dự liệu"/>
+						<MEMBER name="giả định" sense="giả định"/>
+						<MEMBER name="lập luận" sense="lập luận"/>
+						<MEMBER name="nhận định" sense="nhận định"/>
+						<MEMBER name="nhìn nhận" sense="nhìn nhận"/>
+						<MEMBER name="phân tích" sense="phân tích"/>
+						<MEMBER name="phân đoán" sense="phân đoán"/>
+						<MEMBER name="phỏng đoán" sense="phỏng đoán"/>
+						<MEMBER name="suy diễn" sense="suy diễn"/>
+						<MEMBER name="suy đoán" sense="suy đoán"/>
+						<MEMBER name="suy luận" sense="suy luận"/>
+						<MEMBER name="ước định" sense="ước định"/>
+						<MEMBER name="ước lượng" sense="ước lượng"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Theme &lt;+that_comp&gt;">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme &lt;+that_comp&gt;"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="believe" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+										<args type="ThemRole" optional="true" value="Predicate"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>tôi dự đoán giá vàng sẽ tăng cao</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="đoán-12.2">
+					<MEMBERS>
+						<MEMBER name="đoán" sense="đoán"/>
+						<MEMBER name="đoán định" sense="đoán định"/>
+						<MEMBER name="lường" sense="lường"/>
+						<MEMBER name="tiên đoán" sense="tiên đoán"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Predicate">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Theme (to) (be) Predicate">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+								<syntaxItems accepted="" type="NoType" value="(to)"/>
+								<syntaxItems accepted="" type="NoType" value="(be)"/>
+								<syntaxItems accepted="" type="ThemRole" value="Predicate"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="believe" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+										<args type="ThemRole" optional="false" value="Predicate"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>anh tiên đoán mọi việc đều đúng</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

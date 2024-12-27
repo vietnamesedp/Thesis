@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<VNCLASS id="chuyển động bên trong cơ thể">
+	<MEMBERS>
+		<MEMBER name="chuyển_động_bên_trong_cơ_thể" sense="chuyển_động_bên_trong_cơ_thể"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="chuyển_động_bên_trong_cơ_thể-92">
+			<MEMBERS>
+				<MEMBER name="lắc lư" sense="lắc lư"/>
+				<MEMBER name="đu đưa" sense="đu đưa"/>
+				<MEMBER name="uốn éo" sense="uốn éo"/>
+				<MEMBER name="chao đảo" sense="chao đảo"/>
+				<MEMBER name="co giật" sense="co giật"/>
+				<MEMBER name="sốt ruột" sense="sốt ruột"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent V">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="body_motion" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Ông đang sốt ruột lắm</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

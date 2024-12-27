@@ -1,0 +1,170 @@
+<?xml version="1.0" ?>
+<VNCLASS id="tìm kiếm">
+	<MEMBERS>
+		<MEMBER name="tìm kiếm" sense="tìm kiếm"/>
+		<MEMBER name="lục lọi" sense="lục lọi"/>
+		<MEMBER name="truy lùng" sense="truy lùng"/>
+		<MEMBER name="săn" sense="săn"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="săn-99.1">
+			<MEMBERS>
+				<MEMBER name="săn" sense="săn"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent V Theme">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="search" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="ThemRole" optional="true" value="Location"/>
+								<args type="ThemRole" optional="false" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Ông ta săn thú rừng</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+			<SUBCLASSES/>
+		</VNCLASS>
+		<VNCLASS id="tìm kiếm-99.2">
+			<MEMBERS>
+				<MEMBER name="kiếm" sense="kiếm"/>
+				<MEMBER name="tìm kiếm" sense="tìm kiếm"/>
+				<MEMBER name="dò" sense="dò"/>
+				<MEMBER name="thăm dò" sense="thăm dò"/>
+				<MEMBER name="khám xét" sense="khám xét"/>
+				<MEMBER name="phá án" sense="phá án"/>
+				<MEMBER name="điều tra" sense="điều tra"/>
+				<MEMBER name="giám định" sense="giám định"/>
+				<MEMBER name="khám nghiệm" sense="khám nghiệm"/>
+				<MEMBER name="kiểm định" sense="kiểm định"/>
+				<MEMBER name="kiểm tra" sense="kiểm tra"/>
+				<MEMBER name="rà soát" sense="rà soát"/>
+				<MEMBER name="thanh tra" sense="thanh tra"/>
+				<MEMBER name="xác minh" sense="xác minh"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="V Theme">
+					<SYNTAX>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="search" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="true" value="Agent"/>
+								<args type="ThemRole" optional="true" value="Location"/>
+								<args type="ThemRole" optional="false" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Kiếm trẻ lạc</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+			<SUBCLASSES/>
+		</VNCLASS>
+		<VNCLASS id="lục lọi-99.3">
+			<MEMBERS>
+				<MEMBER name="lục lọi" sense="lục lọi"/>
+				<MEMBER name="lục soát" sense="lục soát"/>
+				<MEMBER name="lục" sense="lục"/>
+				<MEMBER name="lục lạo" sense="lục lạo"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Location">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent V Location">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="ThemRole" value="Location"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="search" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="ThemRole" optional="false" value="Location"/>
+								<args type="ThemRole" optional="true" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Công an lục soát nhà anh ta</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+			<SUBCLASSES/>
+		</VNCLASS>
+		<VNCLASS id="truy lùng-99.4">
+			<MEMBERS>
+				<MEMBER name="truy lùng" sense="truy lùng"/>
+				<MEMBER name="truy vết" sense="truy vết"/>
+				<MEMBER name="đuổi theo" sense="đuổi theo"/>
+				<MEMBER name="bám theo" sense="bám theo"/>
+				<MEMBER name="theo dõi" sense="theo dõi"/>
+				<MEMBER name="săn lùng" sense="săn lùng"/>
+				<MEMBER name="săn tìm..." sense="săn tìm..."/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="V Theme">
+					<SYNTAX>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="search" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="true" value="Agent"/>
+								<args type="ThemRole" optional="true" value="Location"/>
+								<args type="ThemRole" optional="false" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Truy lùng tội phạm</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

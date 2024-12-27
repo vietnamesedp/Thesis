@@ -1,0 +1,307 @@
+<?xml version="1.0" ?>
+<VNCLASS id="giam">
+	<MEMBERS>
+		<MEMBER name="giam" sense="giam"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="giam-41">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="giam-41-1">
+					<MEMBERS>
+						<MEMBER name="cấm cửa" sense="cấm cửa"/>
+						<MEMBER name="cấm tiệt" sense="cấm tiệt"/>
+						<MEMBER name="giam hãm" sense="giam hãm"/>
+						<MEMBER name="đày ải" sense="đày ải"/>
+						<MEMBER name="đầy ải" sense="đầy ải"/>
+						<MEMBER name="bức hại" sense="bức hại"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Destination">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Theme {to} Destination">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+								<syntaxItems accepted="" type="NoType" value="{to}"/>
+								<syntaxItems accepted="" type="ThemRole" value="Destination"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="location" negative="+">
+									<ARGS>
+										<args type="Event" optional="false" value="start(E)"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+										<args type="ThemRole" optional="false" value="Destination"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="location" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="end(E)"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+										<args type="ThemRole" optional="false" value="Destination"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="confined" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="result(E)"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Bọn chúng giam hãm tù nhân trong ngục tối</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="giam-41.2">
+					<MEMBERS>
+						<MEMBER name="cầm giữ" sense="cầm giữ"/>
+						<MEMBER name="đày" sense="đày"/>
+						<MEMBER name="giam" sense="giam"/>
+						<MEMBER name="giam cầm" sense="giam cầm"/>
+						<MEMBER name="giam lỏng" sense="giam lỏng"/>
+						<MEMBER name="nhốt" sense="nhốt"/>
+						<MEMBER name="tống giam" sense="tống giam"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Theme">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="location" negative="+">
+									<ARGS>
+										<args type="Event" optional="false" value="start(E)"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+										<args type="ThemRole" optional="true" value="Destination"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="location" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="end(E)"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+										<args type="ThemRole" optional="true" value="Destination"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="confined" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="result(E)"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>bộ đội đang cầm giữ chân địch</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="giam-41.3">
+					<MEMBERS>
+						<MEMBER name="bắt giữ" sense="bắt giữ"/>
+						<MEMBER name="bắt" sense="bắt"/>
+						<MEMBER name="tóm" sense="tóm"/>
+						<MEMBER name="tó cổ" sense="tó cổ"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Theme">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="has_possession" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="start(E)"/>
+										<args type="ThemRole" optional="true" value="Source"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="transfer" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="has_possession" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="end(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Công an bắt kẻ gian</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="giam-41.4">
+					<MEMBERS>
+						<MEMBER name="bỏ tù" sense="bỏ tù"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Theme">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="location" negative="+">
+									<ARGS>
+										<args type="Event" optional="false" value="start(E)"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+										<args type="ThemRole" optional="true" value="Destination"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="location" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="end(E)"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+										<args type="ThemRole" optional="true" value="Destination"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="confined" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="result(E)"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>người ta đã bỏ tù hắn</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="giam-41.5">
+					<MEMBERS>
+						<MEMBER name="giam giữ" sense="giam giữ"/>
+						<MEMBER name="quản thúc" sense="quản thúc"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Destination">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Theme {to} Destination">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+								<syntaxItems accepted="" type="NoType" value="{to}"/>
+								<syntaxItems accepted="" type="ThemRole" value="Destination"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="location" negative="+">
+									<ARGS>
+										<args type="Event" optional="false" value="start(E)"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+										<args type="ThemRole" optional="false" value="Destination"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="location" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="end(E)"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+										<args type="ThemRole" optional="false" value="Destination"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="confined" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="result(E)"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>quân giặc giam giữ các chiến sĩ cách mạng trung kiên nhất tại nơi này</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

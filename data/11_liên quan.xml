@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<VNCLASS id="liên quan">
+	<MEMBERS>
+		<MEMBER name="liên quan" sense="liên quan"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="liên quan-11">
+			<MEMBERS>
+				<MEMBER name="Liên quan" sense="Liên quan"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Co-Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Theme V Co-Theme">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="ThemRole" value="Co-Theme"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="Relate " negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="E"/>
+								<args type="ThemRole" optional="false" value="Theme"/>
+								<args type="ThemRole" optional="false" value="Co-Theme"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>việc đó liên quan đến tôi</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

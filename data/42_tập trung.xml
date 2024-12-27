@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<VNCLASS id="tập trung">
+	<MEMBERS>
+		<MEMBER name="tập trung" sense="tập trung"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="tập trung-42">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="tập trung-42.1">
+					<MEMBERS>
+						<MEMBER name="chú tâm" sense="chú tâm"/>
+						<MEMBER name="chuyên chú" sense="chuyên chú"/>
+						<MEMBER name="chuyên tâm" sense="chuyên tâm"/>
+						<MEMBER name="nhập tâm" sense="nhập tâm"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Experiencer">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Experiencer V {on} Theme &lt;+sc_ing&gt;">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Experiencer"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="NoType" value="{on}"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme &lt;+sc_ing&gt;"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="concentrate" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Experiencer"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="E"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>nó chú tâm vào học hành</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="tập trung-42.2">
+					<MEMBERS>
+						<MEMBER name="Chú ý" sense="Chú ý"/>
+						<MEMBER name="lưu tâm" sense="lưu tâm"/>
+						<MEMBER name="lưu ý" sense="lưu ý"/>
+						<MEMBER name="quan tâm" sense="quan tâm"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Experiencer">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Experiencer V {on} Theme &lt;-sentential&gt;">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Experiencer"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="NoType" value="{on}"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme &lt;-sentential&gt;"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="concentrate" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Experiencer"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="E"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Tôi chú ý vào nó</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

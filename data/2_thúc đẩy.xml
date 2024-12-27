@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<VNCLASS id="thúc đẩy">
+	<MEMBERS>
+		<MEMBER name="thúc đẩy" sense="thúc đẩy"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="thúc đẩy-2">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="thúc đẩy-2.1">
+					<MEMBERS>
+						<MEMBER name="chú trọng" sense="chú trọng"/>
+						<MEMBER name="đẩy mạnh" sense="đẩy mạnh"/>
+						<MEMBER name="góp phần" sense="góp phần"/>
+						<MEMBER name="khuyến khích" sense="khuyến khích"/>
+						<MEMBER name="góp phần" sense="góp phần"/>
+						<MEMBER name="tăng cường" sense="tăng cường"/>
+						<MEMBER name="thúc đẩy" sense="thúc đẩy"/>
+						<MEMBER name="tiếp tục" sense="tiếp tục"/>
+						<MEMBER name="ưu tiên" sense="ưu tiên"/>
+						<MEMBER name="xúc tiến" sense="xúc tiến"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Theme">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="promote" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Chính phủ đẩy mạnh phong trào thi đua</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="thúc đẩy-2.2">
+					<MEMBERS>
+						<MEMBER name="hối thúc" sense="hối thúc"/>
+						<MEMBER name="thúc ép" sense="thúc ép"/>
+						<MEMBER name="thúc giục" sense="thúc giục"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Patient">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Patient [+to_inf]">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Patient [+to_inf]"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="promote" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Gia đình thúc ép cô ấy lấy chồng</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

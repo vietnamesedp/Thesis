@@ -1,0 +1,138 @@
+<?xml version="1.0" ?>
+<VNCLASS id="mang ý nghĩa dựa vào, tin tưởng">
+	<MEMBERS>
+		<MEMBER name="dựa" sense="dựa"/>
+		<MEMBER name="tin" sense="tin"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="dựa-29.1">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="dựa-29.1-1">
+					<MEMBERS>
+						<MEMBER name="phụ thuộc" sense="phụ thuộc"/>
+						<MEMBER name="lệ thuộc" sense="lệ thuộc"/>
+						<MEMBER name="trông cậy" sense="trông cậy"/>
+						<MEMBER name="trông chờ" sense="trông chờ"/>
+						<MEMBER name="nhờ" sense="nhờ"/>
+						<MEMBER name="đánh cược" sense="đánh cược"/>
+						<MEMBER name="dựa" sense="dựa"/>
+						<MEMBER name="vin" sense="vin"/>
+						<MEMBER name="ỷ lại" sense="ỷ lại"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V {on} Theme">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="NoType" value="{on}"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="depend" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>cây cỏ phụ thuộc vào thời tiết</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="bấu víu-29.1-2">
+					<MEMBERS>
+						<MEMBER name="bấu víu" sense="bấu víu"/>
+						<MEMBER name="dựa dẫm" sense="dựa dẫm"/>
+						<MEMBER name="đánh cuộc" sense="đánh cuộc"/>
+						<MEMBER name="nương nhờ" sense="nương nhờ"/>
+						<MEMBER name="nương tựa" sense="nương tựa"/>
+						<MEMBER name="vịn" sense="vịn"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V {on} Theme">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="NoType" value="{on}"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="depend" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Nó dựa dẫm vào bố mẹ</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+		<VNCLASS id="tin-29.2">
+			<MEMBERS>
+				<MEMBER name="tin" sense="tin"/>
+				<MEMBER name="tin tưởng" sense="tin tưởng"/>
+				<MEMBER name="tin cậy" sense="tin cậy"/>
+				<MEMBER name="tín nhiệm" sense="tín nhiệm"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent V Theme">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="believe" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="ThemRole" optional="false" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Tôi tin bạn bè</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<VNCLASS id="thành lập">
+	<MEMBERS>
+		<MEMBER name="thành lập" sense="thành lập"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="thành lập-90">
+			<MEMBERS>
+				<MEMBER name="thành lập" sense="thành lập"/>
+				<MEMBER name="xây dựng" sense="xây dựng"/>
+				<MEMBER name="tạo" sense="tạo"/>
+				<MEMBER name="..." sense="..."/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent V Theme">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="begin" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="E"/>
+								<args type="ThemRole" optional="false" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="cause" negative="-">
+							<ARGS>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="Event" optional="false" value="E"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Họ đã thành lập công ty</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

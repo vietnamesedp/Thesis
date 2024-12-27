@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<VNCLASS id="hòa giải, giải quyết">
+	<MEMBERS>
+		<MEMBER name="giải quyết" sense="giải quyết"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="giải quyết-56">
+			<MEMBERS>
+				<MEMBER name="hòa giải" sense="hòa giải"/>
+				<MEMBER name="giải quyết" sense="giải quyết"/>
+				<MEMBER name="quyết định" sense="quyết định"/>
+				<MEMBER name="tán thành" sense="tán thành"/>
+				<MEMBER name="đồng ý" sense="đồng ý"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent &lt;+plural&gt; V">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent &lt;+plural&gt;"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="agree" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="result(E)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="ThemRole" optional="true" value="Goal"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Bọn họ đã hòa giải</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+			<SUBCLASSES/>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

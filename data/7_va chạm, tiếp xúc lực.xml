@@ -1,0 +1,264 @@
+<?xml version="1.0" ?>
+<VNCLASS id="va chạm, tiếp xúc lực">
+	<MEMBERS>
+		<MEMBER name="chạm" sense="chạm"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="chạm-7">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="chạm-7.1">
+					<MEMBERS>
+						<MEMBER name="bạt tai" sense="bạt tai"/>
+						<MEMBER name="cào cấu" sense="cào cấu"/>
+						<MEMBER name="cắn xé" sense="cắn xé"/>
+						<MEMBER name="cấu véo" sense="cấu véo"/>
+						<MEMBER name="cấu xé" sense="cấu xé"/>
+						<MEMBER name="chém" sense="chém"/>
+						<MEMBER name="đánh" sense="đánh"/>
+						<MEMBER name="đạp" sense="đạp"/>
+						<MEMBER name="đấm đá" sense="đấm đá"/>
+						<MEMBER name="gí" sense="gí"/>
+						<MEMBER name="giằng" sense="giằng"/>
+						<MEMBER name="giựt" sense="giựt"/>
+						<MEMBER name="tát tai" sense="tát tai"/>
+						<MEMBER name="túm" sense="túm"/>
+						<MEMBER name="xô đẩy" sense="xô đẩy"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Patient">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Patient">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Patient"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="manner" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="Event" optional="false" value="directedmotion"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="contact" negative="+">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="manner" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="end(E)"/>
+										<args type="Event" optional="false" value="forceful"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="contact" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="end(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Anh ta vừa bạt tai thằng bé</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="chạm-7.2">
+					<MEMBERS>
+						<MEMBER name="bồi" sense="bồi"/>
+						<MEMBER name="đấm" sense="đấm"/>
+						<MEMBER name="đập" sense="đập"/>
+						<MEMBER name="giày đạp" sense="giày đạp"/>
+						<MEMBER name="huých" sense="huých"/>
+						<MEMBER name="phang" sense="phang"/>
+						<MEMBER name="tá" sense="tá"/>
+						<MEMBER name="thúc" sense="thúc"/>
+						<MEMBER name="thụi" sense="thụi"/>
+						<MEMBER name="tì" sense="tì"/>
+						<MEMBER name="vả" sense="vả"/>
+						<MEMBER name="vỗ" sense="vỗ"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Patient">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Patient">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Patient"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="manner" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="Event" optional="false" value="directedmotion"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="contact" negative="+">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="manner" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="end(E)"/>
+										<args type="Event" optional="false" value="forceful"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="contact" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="end(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Nó đấm vào mặt tôi</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="chạm-7.3">
+					<MEMBERS>
+						<MEMBER name="chạm" sense="chạm"/>
+						<MEMBER name="chúi" sense="chúi"/>
+						<MEMBER name="đâm" sense="đâm"/>
+						<MEMBER name="sâm sầm" sense="sâm sầm"/>
+						<MEMBER name="đổ nhào" sense="đổ nhào"/>
+						<MEMBER name="đỗ" sense="đỗ"/>
+						<MEMBER name="đụng" sense="đụng"/>
+						<MEMBER name="rơi" sense="rơi"/>
+						<MEMBER name="tấp" sense="tấp"/>
+						<MEMBER name="giẫm" sense="giẫm"/>
+						<MEMBER name="tông" sense="tông"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Patient">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Patient">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Patient"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="manner" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="Event" optional="false" value="directedmotion"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="contact" negative="+">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="manner" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="end(E)"/>
+										<args type="Event" optional="false" value="forceful"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="contact" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="end(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>nó chạm vào tay tôi</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="chạm-7.4">
+					<MEMBERS>
+						<MEMBER name="húc" sense="húc"/>
+						<MEMBER name="quặc" sense="quặc"/>
+						<MEMBER name="va" sense="va"/>
+						<MEMBER name="va chạm" sense="va chạm"/>
+						<MEMBER name="va đập" sense="va đập"/>
+						<MEMBER name="va quệt" sense="va quệt"/>
+						<MEMBER name="xít" sense="xít"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Theme V Loc">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="NoType" value="Loc"/>
+							</SYNTAX>
+							<SEMANTICS/>
+							<EXAMPLES>
+								<EXAMPLE>chiếc xe húc vào giải phân cách</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

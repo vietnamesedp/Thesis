@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<VNCLASS id="âm thanh được tạo ra từ động vật">
+	<MEMBERS>
+		<MEMBER name="be be" sense="be be"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="be be-48">
+			<MEMBERS>
+				<MEMBER name="be be" sense="be be"/>
+				<MEMBER name="gầm gừ" sense="gầm gừ"/>
+				<MEMBER name="hót" sense="hót"/>
+				<MEMBER name="sủa" sense="sủa"/>
+				<MEMBER name="rít" sense="rít"/>
+				<MEMBER name="ụt ịt" sense="ụt ịt"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent V">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="emit" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="Event" optional="false" value="Sound"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>con dê con đang be be</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

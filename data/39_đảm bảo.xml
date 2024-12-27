@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<VNCLASS id="đảm bảo">
+	<MEMBERS>
+		<MEMBER name="bảo đảm" sense="bảo đảm"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="bảo đảm-39">
+			<MEMBERS>
+				<MEMBER name="bảo đảm" sense="bảo đảm"/>
+				<MEMBER name="bảo vệ" sense="bảo vệ"/>
+				<MEMBER name="bắt buộc" sense="bắt buộc"/>
+				<MEMBER name="đảm bảo" sense="đảm bảo"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Cause">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Cause V Theme &lt;+oc_to_inf&gt;">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Cause"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="ThemRole" value="Theme &lt;+oc_to_inf&gt;"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="cause" negative="-">
+							<ARGS>
+								<args type="ThemRole" optional="false" value="Cause"/>
+								<args type="Event" optional="false" value="E"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="ensure" negative="-">
+							<ARGS>
+								<args type="ThemRole" optional="false" value="Theme"/>
+								<args type="ThemRole" optional="true" value="Beneficiary"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>chúng tôi đảm bảo sẽ hoàn thành nhiệm vụ</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

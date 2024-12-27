@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<VNCLASS id="cam chịu">
+	<MEMBERS>
+		<MEMBER name="cam chịu" sense="cam chịu"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="cam chịu-46">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="cam_chịu-46.1">
+					<MEMBERS>
+						<MEMBER name="cam chịu" sense="cam chịu"/>
+						<MEMBER name="nhẫn nhịn" sense="nhẫn nhịn"/>
+						<MEMBER name="nhẫn nhục" sense="nhẫn nhục"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Experiencer">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Stimulus">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Experiencer V {to} Stimulus">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Experiencer"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="NoType" value="{to}"/>
+								<syntaxItems accepted="" type="ThemRole" value="Stimulus"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="emotional_state" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="result(E)"/>
+										<args type="Event" optional="false" value="Emotion"/>
+										<args type="ThemRole" optional="false" value="Experiencer"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="in_reaction_to" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="E"/>
+										<args type="ThemRole" optional="false" value="Stimulus"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Họ cam chịu số phận</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="cam_chịu-46.2">
+					<MEMBERS>
+						<MEMBER name="chịu đựng" sense="chịu đựng"/>
+						<MEMBER name="chịu" sense="chịu"/>
+						<MEMBER name="chống chọi" sense="chống chọi"/>
+						<MEMBER name="đón nhận" sense="đón nhận"/>
+						<MEMBER name="đối diện" sense="đối diện"/>
+						<MEMBER name="đối mặt" sense="đối mặt"/>
+						<MEMBER name="đương đầu" sense="đương đầu"/>
+						<MEMBER name="gánh chịu" sense="gánh chịu"/>
+						<MEMBER name="hứng chịu" sense="hứng chịu"/>
+						<MEMBER name="nếm trải" sense="nếm trải"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Experiencer">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Stimulus">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Experiencer V {with} Stimulus">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Experiencer"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="NoType" value="{with}"/>
+								<syntaxItems accepted="" type="ThemRole" value="Stimulus"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="emotional_state" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="result(E)"/>
+										<args type="Event" optional="false" value="Emotion"/>
+										<args type="ThemRole" optional="false" value="Experiencer"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="in_reaction_to" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="E"/>
+										<args type="ThemRole" optional="false" value="Stimulus"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>ANh ấy đang chống chọi với bệnh tật</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

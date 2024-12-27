@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<VNCLASS id="chứng thực">
+	<MEMBERS>
+		<MEMBER name="công nhận" sense="công nhận"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="công nhận-80">
+			<MEMBERS>
+				<MEMBER name="chứng minh" sense="chứng minh"/>
+				<MEMBER name="chứng thực" sense="chứng thực"/>
+				<MEMBER name="chứng tỏ" sense="chứng tỏ"/>
+				<MEMBER name="công nhận" sense="công nhận"/>
+				<MEMBER name="kiểm chứng" sense="kiểm chứng"/>
+				<MEMBER name="xác định" sense="xác định"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent &lt;+plural&gt; V Theme">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent &lt;+plural&gt;"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="license" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="result(E)"/>
+								<args type="ThemRole" optional="false" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="cause" negative="-">
+							<ARGS>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="Event" optional="false" value="E"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>mọi người đều công nhận nó</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<VNCLASS id="tồn tại (dạng)">
+	<MEMBERS>
+		<MEMBER name="nở" sense="nở"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="nở-72">
+			<MEMBERS>
+				<MEMBER name="nở" sense="nở"/>
+				<MEMBER name="phình" sense="phình"/>
+				<MEMBER name="sủi bọt" sense="sủi bọt"/>
+				<MEMBER name="cháy" sense="cháy"/>
+				<MEMBER name="nảy (mầm)" sense="nảy (mầm)"/>
+				<MEMBER name="..." sense="..."/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Theme V">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="exist" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Bia sủi bọt</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

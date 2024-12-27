@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<VNCLASS id="quá trình của cơ thể">
+	<MEMBERS>
+		<MEMBER name="đại tiện" sense="đại tiện"/>
+		<MEMBER name="thở" sense="thở"/>
+		<MEMBER name="nấc" sense="nấc"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="đại tiện-15">
+			<MEMBERS>
+				<MEMBER name="đại tiện" sense="đại tiện"/>
+				<MEMBER name="đái" sense="đái"/>
+				<MEMBER name="đi ngoài" sense="đi ngoài"/>
+				<MEMBER name="đi đại tiện" sense="đi đại tiện"/>
+				<MEMBER name="đi tiêu" sense="đi tiêu"/>
+				<MEMBER name="đi tiểu" sense="đi tiểu"/>
+				<MEMBER name="ỉa" sense="ỉa"/>
+				<MEMBER name="nôn" sense="nôn"/>
+				<MEMBER name="són" sense="són"/>
+				<MEMBER name="tiết" sense="tiết"/>
+				<MEMBER name="tiểu tiện" sense="tiểu tiện"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent V">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="body_process" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="E"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="emit" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="ThemRole" optional="true" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Thằng bé đang đái</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+			<SUBCLASSES/>
+		</VNCLASS>
+		<VNCLASS id="nấc-15.2">
+			<MEMBERS>
+				<MEMBER name="nấc" sense="nấc"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent V">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="body_process" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="E"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="involuntary" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="E"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>đứa bé nấc liên tục</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+			<SUBCLASSES/>
+		</VNCLASS>
+		<VNCLASS id="thở-15.3">
+			<MEMBERS>
+				<MEMBER name="co bóp" sense="co bóp"/>
+				<MEMBER name="thở" sense="thở"/>
+				<MEMBER name="gãi" sense="gãi"/>
+				<MEMBER name="nín" sense="nín"/>
+				<MEMBER name="rặn" sense="rặn"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent V">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="body_process" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="E"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="emit" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="ThemRole" optional="true" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>con chó thở mạnh</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

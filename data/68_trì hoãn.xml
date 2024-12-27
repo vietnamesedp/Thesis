@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<VNCLASS id="trì hoãn">
+	<MEMBERS>
+		<MEMBER name="trì hoãn" sense="trì hoãn"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="trì hoãn-68">
+			<MEMBERS>
+				<MEMBER name="trì hoãn" sense="trì hoãn"/>
+				<MEMBER name="la cà" sense="la cà"/>
+				<MEMBER name="kéo dài" sense="kéo dài"/>
+				<MEMBER name="lãng phí" sense="lãng phí"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent V {over} Theme">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="NoType" value="{over}"/>
+						<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="linger" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="ThemRole" optional="false" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Cô ấy đã lãng phí hết thời gian bữa trưa</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

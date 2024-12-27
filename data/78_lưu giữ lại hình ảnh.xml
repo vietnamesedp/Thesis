@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<VNCLASS id="lưu giữ lại hình ảnh">
+	<MEMBERS>
+		<MEMBER name="ghi" sense="ghi"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="ghi-78">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="ghi-78.1">
+					<MEMBERS>
+						<MEMBER name="ghi" sense="ghi"/>
+						<MEMBER name="ghi chép" sense="ghi chép"/>
+						<MEMBER name="sao chép" sense="sao chép"/>
+						<MEMBER name="chụp" sense="chụp"/>
+						<MEMBER name="vẽ" sense="vẽ"/>
+						<MEMBER name="nhân bản" sense="nhân bản"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Destination">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Theme {{+loc | +dest_conf}} Destination">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+								<syntaxItems accepted="" type="NoType" value="{{+loc | +dest_conf}}"/>
+								<syntaxItems accepted="" type="ThemRole" value="Destination"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="created_image" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="result(E)"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="Prep" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="end(E)"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+										<args type="ThemRole" optional="false" value="Destination"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Thư kí ghi chép bài phát biểu vào hồ sơ</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="ghi-78.2">
+					<MEMBERS>
+						<MEMBER name="khắc" sense="khắc"/>
+						<MEMBER name="in" sense="in"/>
+						<MEMBER name="tạc" sense="tạc"/>
+						<MEMBER name="đánh dấu" sense="đánh dấu"/>
+						<MEMBER name="sơn" sense="sơn"/>
+						<MEMBER name="xăm" sense="xăm"/>
+						<MEMBER name="thêu" sense="thêu"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Destination">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Destination {with} Theme">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Destination"/>
+								<syntaxItems accepted="" type="NoType" value="{with}"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="created_image" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="result(E)"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="location" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="end(E)"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+										<args type="ThemRole" optional="false" value="Destination"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Anh ấy khắc lên đá tên của mình</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<VNCLASS id="chăm sóc, chải chuốt (cơ thể)">
+	<MEMBERS>
+		<MEMBER name="trang điểm" sense="trang điểm"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="trang điểm-96">
+			<MEMBERS>
+				<MEMBER name="chải" sense="chải"/>
+				<MEMBER name="tắm" sense="tắm"/>
+				<MEMBER name="gội" sense="gội"/>
+				<MEMBER name="trang điểm" sense="trang điểm"/>
+				<MEMBER name="đánh phấn" sense="đánh phấn"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Patient">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent V Patient &lt;+refl&gt;">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="ThemRole" value="Patient &lt;+refl&gt;"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="take_care_of" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="ThemRole" optional="false" value="Patient"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Các diễn viên đang đánh phấn</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

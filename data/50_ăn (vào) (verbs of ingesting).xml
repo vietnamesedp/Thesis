@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<VNCLASS id="ăn (vào) (verbs of ingesting)">
+	<MEMBERS>
+		<MEMBER name="ăn" sense="ăn"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="ăn-50">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="ăn-50.2">
+					<MEMBERS>
+						<MEMBER name="ăn trầu" sense="ăn trầu"/>
+						<MEMBER name="ăn" sense="ăn"/>
+						<MEMBER name="ăn chay" sense="ăn chay"/>
+						<MEMBER name="ăn đủ" sense="ăn đủ"/>
+						<MEMBER name="ăn vã" sense="ăn vã"/>
+						<MEMBER name="nâng cốc" sense="nâng cốc"/>
+						<MEMBER name="nhâm nhi" sense="nhâm nhi"/>
+						<MEMBER name="nhấm nháp" sense="nhấm nháp"/>
+						<MEMBER name="nốc" sense="nốc"/>
+						<MEMBER name="uống" sense="uống"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Patient">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Patient">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Patient"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="take_in" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Tôi ăn cơm</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="đớp-50.3">
+					<MEMBERS>
+						<MEMBER name="đớp" sense="đớp"/>
+						<MEMBER name="ngậm" sense="ngậm"/>
+						<MEMBER name="nhai" sense="nhai"/>
+						<MEMBER name="nhồi" sense="nhồi"/>
+						<MEMBER name="nuốt" sense="nuốt"/>
+						<MEMBER name="nuốt chửng" sense="nuốt chửng"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Patient">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="V Patient">
+							<SYNTAX>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Patient"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="take_in" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="true" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>nuốt viên thuốc</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

@@ -1,0 +1,187 @@
+<?xml version="1.0" ?>
+<VNCLASS id="rút lui">
+	<MEMBERS>
+		<MEMBER name="giã từ" sense="giã từ"/>
+		<MEMBER name="thoát li" sense="thoát li"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="giã từ-36.1">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="giã từ-36.1-1">
+					<MEMBERS>
+						<MEMBER name="giã từ" sense="giã từ"/>
+						<MEMBER name="giải nghệ" sense="giải nghệ"/>
+						<MEMBER name="rút lui" sense="rút lui"/>
+						<MEMBER name="từ chức" sense="từ chức"/>
+						<MEMBER name="từ giã" sense="từ giã"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Source">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V {of} Source">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="NoType" value="{of}"/>
+								<syntaxItems accepted="" type="ThemRole" value="Source"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="renege" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Source"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>quân địch rút lui khỏi trận địa</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="giã từ-361.-2">
+					<MEMBERS>
+						<MEMBER name="rời" sense="rời"/>
+						<MEMBER name="lui" sense="lui"/>
+						<MEMBER name="lùi" sense="lùi"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Source">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V {of} Source">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="NoType" value="{of}"/>
+								<syntaxItems accepted="" type="ThemRole" value="Source"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="renege" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Source"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>chúng tôi vừa rời ghế nhà trường</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+		<VNCLASS id="thoát li-36.2">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="thoát li-36.2-1">
+					<MEMBERS>
+						<MEMBER name="thoát li" sense="thoát li"/>
+						<MEMBER name="thoát ly" sense="thoát ly"/>
+						<MEMBER name="xa rời" sense="xa rời"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Source">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="V Source">
+							<SYNTAX>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Source"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="true" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="location" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="start(E)"/>
+										<args type="ThemRole" optional="false" value="Source"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="location" negative="+">
+									<ARGS>
+										<args type="Event" optional="false" value="end(E)"/>
+										<args type="ThemRole" optional="false" value="Source"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>thoát li cảnh đồng ruộng thôn quê</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="thoát li-36.2-2">
+					<MEMBERS>
+						<MEMBER name="giải ngũ" sense="giải ngũ"/>
+						<MEMBER name="nghỉ việc" sense="nghỉ việc"/>
+						<MEMBER name="thôi việc" sense="thôi việc"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="location" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="start(E)"/>
+										<args type="ThemRole" optional="true" value="Source"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="location" negative="+">
+									<ARGS>
+										<args type="Event" optional="false" value="end(E)"/>
+										<args type="ThemRole" optional="true" value="Source"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>anh ấy đã giải ngũ</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

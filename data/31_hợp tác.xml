@@ -1,0 +1,140 @@
+<?xml version="1.0" ?>
+<VNCLASS id="hợp tác">
+	<MEMBERS>
+		<MEMBER name="hợp tác" sense="hợp tác"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="hợp tác-31">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="hợp tác-31.1">
+					<MEMBERS>
+						<MEMBER name="hợp lực" sense="hợp lực"/>
+						<MEMBER name="chung lưng" sense="chung lưng"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent &lt;+plural&gt; V Theme &lt;+sc_ing&gt;">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent &lt;+plural&gt;"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme &lt;+sc_ing&gt;"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="cooperate" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="Event" optional="false" value="Agent_i"/>
+										<args type="Event" optional="false" value="Agent_j"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Hai nước hợp lực chống kẻ thù chung</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="hợp tác-31.2">
+					<MEMBERS>
+						<MEMBER name="đàm phán" sense="đàm phán"/>
+						<MEMBER name="hợp tác" sense="hợp tác"/>
+						<MEMBER name="thương lượng" sense="thương lượng"/>
+						<MEMBER name="thương thảo" sense="thương thảo"/>
+						<MEMBER name="thương thuyết" sense="thương thuyết"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Co-Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V {with} Co-Agent Theme &lt;+sc_ing&gt;">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="NoType" value="{with}"/>
+								<syntaxItems accepted="" type="ThemRole" value="Co-Agent"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme &lt;+sc_ing&gt;"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="cooperate" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Co-Agent"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>bên A hợp tác với bên B nhập khẩu hàng hoá</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="hợp tác-31.3">
+					<MEMBERS>
+						<MEMBER name="cộng tác" sense="cộng tác"/>
+						<MEMBER name="tham gia" sense="tham gia"/>
+						<MEMBER name="đồng hành" sense="đồng hành"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Co-Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V {with} Co-Agent {at} Theme &lt;+sc_ing&gt;">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="NoType" value="{with}"/>
+								<syntaxItems accepted="" type="ThemRole" value="Co-Agent"/>
+								<syntaxItems accepted="" type="NoType" value="{at}"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme &lt;+sc_ing&gt;"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="cooperate" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Co-Agent"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>anh cộng tác với vài tờ báo để viết bài</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

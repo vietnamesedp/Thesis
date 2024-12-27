@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<VNCLASS id="sinh nở">
+	<MEMBERS>
+		<MEMBER name="sinh" sense="sinh"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="sinh-17">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="sinh-17.1">
+					<MEMBERS>
+						<MEMBER name="chuyển dạ" sense="chuyển dạ"/>
+						<MEMBER name="có thai" sense="có thai"/>
+						<MEMBER name="đầu thai" sense="đầu thai"/>
+						<MEMBER name="sinh đẻ" sense="sinh đẻ"/>
+						<MEMBER name="sinh nở" sense="sinh nở"/>
+						<MEMBER name="sinh sản" sense="sinh sản"/>
+						<MEMBER name="sinh trưởng" sense="sinh trưởng"/>
+						<MEMBER name="thai nghén" sense="thai nghén"/>
+						<MEMBER name="thụ thai" sense="thụ thai"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Cause">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Cause V Theme">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Cause"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="exist" negative="+">
+									<ARGS>
+										<args type="Event" optional="false" value="start(E)"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="exist" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="result(E)"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="nonagentive_cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Cause"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Cô ấy đã có thai</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="sinh-17.2">
+					<MEMBERS>
+						<MEMBER name="chửa" sense="chửa"/>
+						<MEMBER name="đẻ" sense="đẻ"/>
+						<MEMBER name="mổ" sense="mổ"/>
+						<MEMBER name="vượt cạn" sense="vượt cạn"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Theme">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="give_birth" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="end(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Patient"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>con gà đang đẻ trứng</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

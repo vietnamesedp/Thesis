@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<VNCLASS id="gây ra (sự việc, hiện tượng)">
+	<MEMBERS>
+		<MEMBER name="gây ra" sense="gây ra"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="gây ra-79">
+			<MEMBERS>
+				<MEMBER name="gây ra" sense="gây ra"/>
+				<MEMBER name="khởi phát" sense="khởi phát"/>
+				<MEMBER name="khởi xướng" sense="khởi xướng"/>
+				<MEMBER name="tạo" sense="tạo"/>
+				<MEMBER name="khiến" sense="khiến"/>
+				<MEMBER name="gây" sense="gây"/>
+				<MEMBER name="phát động" sense="phát động"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Cause">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Cause V Theme">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Cause"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="exist" negative="+">
+							<ARGS>
+								<args type="Event" optional="false" value="start(E)"/>
+								<args type="ThemRole" optional="false" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="exist" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="result(E)"/>
+								<args type="ThemRole" optional="false" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="nonagentive_cause" negative="-">
+							<ARGS>
+								<args type="ThemRole" optional="false" value="Cause"/>
+								<args type="Event" optional="false" value="E"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Bất bình đẳng gây ra xung đột</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

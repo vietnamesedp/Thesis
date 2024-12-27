@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<VNCLASS id="đánh giá, phán quyết">
+	<MEMBERS>
+		<MEMBER name="chê" sense="chê"/>
+		<MEMBER name="phán quyết" sense="phán quyết"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="phán quyết-9.1">
+			<MEMBERS>
+				<MEMBER name="định tội" sense="định tội"/>
+				<MEMBER name="luận tội" sense="luận tội"/>
+				<MEMBER name="phán xét" sense="phán xét"/>
+				<MEMBER name="phán xử" sense="phán xử"/>
+				<MEMBER name="tuyên đọc" sense="tuyên đọc"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent V Theme">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="declare" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="ThemRole" optional="false" value="Theme"/>
+								<args type="ThemRole" optional="true" value="Attribute"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Bà ta đã buộc tội chị</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+			<SUBCLASSES/>
+		</VNCLASS>
+		<VNCLASS id="chê-9.2">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="chê-9.2-1">
+					<MEMBERS>
+						<MEMBER name="bài bác" sense="bài bác"/>
+						<MEMBER name="bênh vực" sense="bênh vực"/>
+						<MEMBER name="chê bai" sense="chê bai"/>
+						<MEMBER name="chỉ trích" sense="chỉ trích"/>
+						<MEMBER name="công kích" sense="công kích"/>
+						<MEMBER name="đả kích" sense="đả kích"/>
+						<MEMBER name="đả phá" sense="đả phá"/>
+						<MEMBER name="phản đối" sense="phản đối"/>
+						<MEMBER name="lên án" sense="lên án"/>
+						<MEMBER name="phê bình" sense="phê bình"/>
+						<MEMBER name="phê phán" sense="phê phán"/>
+						<MEMBER name="quy chụp" sense="quy chụp"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Theme">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="declare" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+										<args type="ThemRole" optional="true" value="Attribute"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Cô giá phê bình học sinh</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="chê-9.2-2">
+					<MEMBERS>
+						<MEMBER name="chửi" sense="chửi"/>
+						<MEMBER name="chửi bới" sense="chửi bới"/>
+						<MEMBER name="chửi đổng" sense="chửi đổng"/>
+						<MEMBER name="chửi mắng" sense="chửi mắng"/>
+						<MEMBER name="chửi rủa" sense="chửi rủa"/>
+						<MEMBER name="nạt nộ" sense="nạt nộ"/>
+						<MEMBER name="quát" sense="quát"/>
+						<MEMBER name="quát mắng" sense="quát mắng"/>
+						<MEMBER name="quát tháo" sense="quát tháo"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="V Theme">
+							<SYNTAX>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="declare" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="true" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+										<args type="ThemRole" optional="true" value="Attribute"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Mắng con</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<VNCLASS id="hoạt động, vị trí">
+	<MEMBERS>
+		<MEMBER name="ĐT_vị_trí" sense="ĐT_vị_trí"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="ĐT_vị_trí-91">
+			<MEMBERS>
+				<MEMBER name="ngồi" sense="ngồi"/>
+				<MEMBER name="cúi" sense="cúi"/>
+				<MEMBER name="cuộn" sense="cuộn"/>
+				<MEMBER name="nằm" sense="nằm"/>
+				<MEMBER name="quỳ" sense="quỳ"/>
+				<MEMBER name="đứng" sense="đứng"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent V">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="position" negative="+">
+							<ARGS>
+								<args type="Event" optional="false" value="start(E)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="Event" optional="false" value="Pos"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="motion" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="position" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="end(E)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="Event" optional="false" value="Pos"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Người đàn ông đang nằm</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+			<SUBCLASSES/>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

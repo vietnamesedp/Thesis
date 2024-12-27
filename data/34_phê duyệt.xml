@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<VNCLASS id="phê duyệt">
+	<MEMBERS>
+		<MEMBER name="chấp thuận" sense="chấp thuận"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="chấp thuận-34">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="chấp thuận-34.1">
+					<MEMBERS>
+						<MEMBER name="chấp thuận" sense="chấp thuận"/>
+						<MEMBER name="phê duyệt" sense="phê duyệt"/>
+						<MEMBER name="duyệt" sense="duyệt"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Theme &lt;-sentential&gt;">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme &lt;-sentential&gt;"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="approve" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>toà án đã chấp thuận đơn li dị của anh</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="chấp thuận-34.2">
+					<MEMBERS>
+						<MEMBER name="chuẩn y" sense="chuẩn y"/>
+						<MEMBER name="đồng ý" sense="đồng ý"/>
+						<MEMBER name="tán đồng" sense="tán đồng"/>
+						<MEMBER name="tán thành" sense="tán thành"/>
+						<MEMBER name="thống nhất" sense="thống nhất"/>
+						<MEMBER name="thuận tình" sense="thuận tình"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Theme &lt;-sentential&gt;">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Theme &lt;-sentential&gt;"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="approve" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Cấp trên đã chuẩn y kế hoạch này</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

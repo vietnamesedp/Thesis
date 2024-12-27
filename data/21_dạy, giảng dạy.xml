@@ -1,0 +1,244 @@
+<?xml version="1.0" ?>
+<VNCLASS id="dạy, giảng dạy">
+	<MEMBERS>
+		<MEMBER name="dạy" sense="dạy"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="dạy-21">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="dạy-21.1">
+					<MEMBERS>
+						<MEMBER name="đào tạo" sense="đào tạo"/>
+						<MEMBER name="hướng nghiệp" sense="hướng nghiệp"/>
+						<MEMBER name="tuyên giáo" sense="tuyên giáo"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Recipient">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Recipient">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Recipient"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="transfer_info" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Recipient"/>
+										<args type="ThemRole" optional="true" value="Topic"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Họ đang đào tạo chuyên gia</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="dạy-21.2">
+					<MEMBERS>
+						<MEMBER name="bồi dưỡng" sense="bồi dưỡng"/>
+						<MEMBER name="dạy" sense="dạy"/>
+						<MEMBER name="dạy học" sense="dạy học"/>
+						<MEMBER name="huấn luyện" sense="huấn luyện"/>
+						<MEMBER name="phụ đạo" sense="phụ đạo"/>
+						<MEMBER name="rèn" sense="rèn"/>
+						<MEMBER name="thực hành" sense="thực hành"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Topic">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Topic">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Topic"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="transfer_info" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="true" value="Recipient"/>
+										<args type="ThemRole" optional="false" value="Topic"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>tôi đang bồi dưỡng kiến thức</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="dạy-21.3">
+					<MEMBERS>
+						<MEMBER name="chỉnh đốn" sense="chỉnh đốn"/>
+						<MEMBER name="dạy dỗ" sense="dạy dỗ"/>
+						<MEMBER name="làm gương" sense="làm gương"/>
+						<MEMBER name="uốn nắn" sense="uốn nắn"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Recipient">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Recipient">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Recipient"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="transfer_info" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Recipient"/>
+										<args type="ThemRole" optional="true" value="Topic"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Anh ấy chỉnh đốn tổ chức</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="dạy-21.4">
+					<MEMBERS>
+						<MEMBER name="dạy bảo" sense="dạy bảo"/>
+						<MEMBER name="thuyết giáo" sense="thuyết giáo"/>
+						<MEMBER name="răn dạy" sense="răn dạy"/>
+						<MEMBER name="thấm nhuần" sense="thấm nhuần"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Recipient">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Topic">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Recipient Topic">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Recipient"/>
+								<syntaxItems accepted="" type="ThemRole" value="Topic"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="transfer_info" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Recipient"/>
+										<args type="ThemRole" optional="false" value="Topic"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>cha mẹ dạy bảo con cái điều hay, lẽ phải</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="dạy-21.5">
+					<MEMBERS>
+						<MEMBER name="giảng bài" sense="giảng bài"/>
+						<MEMBER name="chỉ bảo" sense="chỉ bảo"/>
+						<MEMBER name="hiến kế" sense="hiến kế"/>
+						<MEMBER name="mách nước" sense="mách nước"/>
+						<MEMBER name="thuyết giảng" sense="thuyết giảng"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Recipient">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Recipient">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Recipient"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="transfer_info" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Recipient"/>
+										<args type="ThemRole" optional="true" value="Topic"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>bà mách nước cho con gái</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

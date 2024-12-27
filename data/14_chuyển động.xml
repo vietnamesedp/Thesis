@@ -1,0 +1,258 @@
+<?xml version="1.0" ?>
+<VNCLASS id="chuyển động">
+	<MEMBERS>
+		<MEMBER name="chạy" sense="chạy"/>
+		<MEMBER name="nhảy" sense="nhảy"/>
+		<MEMBER name="bốc dỡ" sense="bốc dỡ"/>
+		<MEMBER name="bơi" sense="bơi"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="chạy-14.1">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="chạy-14.1-1">
+					<MEMBERS>
+						<MEMBER name="chạy" sense="chạy"/>
+						<MEMBER name="đi" sense="đi"/>
+						<MEMBER name="xuôi" sense="xuôi"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Theme V">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="Motion" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="During(E)"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Cậu bé đang chạy</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="chạy-14.1-2">
+					<MEMBERS>
+						<MEMBER name="chui lủi" sense="chui lủi"/>
+						<MEMBER name="chui rúc" sense="chui rúc"/>
+						<MEMBER name="chui nhủi" sense="chui nhủi"/>
+						<MEMBER name="lấn lút" sense="lấn lút"/>
+						<MEMBER name="trốn" sense="trốn"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Theme">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Destination">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Theme V {{+path}} Destination">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="NoType" value="{{+path}}"/>
+								<syntaxItems accepted="" type="ThemRole" value="Destination"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="motion" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="path" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Theme"/>
+										<args type="ThemRole" optional="true" value="Initial_Location"/>
+										<args type="ThemRole" optional="true" value="Trajectory"/>
+										<args type="ThemRole" optional="false" value="Destination"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Anh ta trốn ra nước ngoài</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+		<VNCLASS id="bơi-14.2">
+			<MEMBERS>
+				<MEMBER name="bơi" sense="bơi"/>
+				<MEMBER name="bơi lội" sense="bơi lội"/>
+				<MEMBER name="bơi trải" sense="bơi trải"/>
+				<MEMBER name="chèo" sense="chèo"/>
+				<MEMBER name="lặn" sense="lặn"/>
+				<MEMBER name="trượt băng" sense="trượt băng"/>
+				<MEMBER name="trượt tuyết" sense="trượt tuyết"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Theme V">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="Motion" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="During(E)"/>
+								<args type="ThemRole" optional="false" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Nó đang bơi</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+			<SUBCLASSES/>
+		</VNCLASS>
+		<VNCLASS id="bốc dỡ-14.3">
+			<MEMBERS>
+				<MEMBER name="bốc dỡ" sense="bốc dỡ"/>
+				<MEMBER name="bốc vác" sense="bốc vác"/>
+				<MEMBER name="bốc xép" sense="bốc xép"/>
+				<MEMBER name="chuyên chở" sense="chuyên chở"/>
+				<MEMBER name="giao nhận" sense="giao nhận"/>
+				<MEMBER name="khiêng vác" sense="khiêng vác"/>
+				<MEMBER name="tập kết" sense="tập kết"/>
+				<MEMBER name="thồ" sense="thồ"/>
+				<MEMBER name="vận chuyển" sense="vận chuyển"/>
+				<MEMBER name="xếp dỡ" sense="xếp dỡ"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Destination">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent V Theme {to towards} Destination">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+						<syntaxItems accepted="" type="NoType" value="{to towards}"/>
+						<syntaxItems accepted="" type="ThemRole" value="Destination"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="motion" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E0)"/>
+								<args type="ThemRole" optional="false" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="location" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="end(E0)"/>
+								<args type="ThemRole" optional="false" value="Theme"/>
+								<args type="ThemRole" optional="false" value="Destination"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="equals" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="E0"/>
+								<args type="Event" optional="false" value="E1"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="motion" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E1)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="location" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="end(E1)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="ThemRole" optional="false" value="Destination"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="cause" negative="-">
+							<ARGS>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="Event" optional="false" value="E0"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Ngựa thô hàng lên núi</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+			<SUBCLASSES/>
+		</VNCLASS>
+		<VNCLASS id="nhảy-14.5">
+			<MEMBERS>
+				<MEMBER name="nhày cẫng" sense="nhày cẫng"/>
+				<MEMBER name="nhảy cỡn" sense="nhảy cỡn"/>
+				<MEMBER name="nhãy tót" sense="nhãy tót"/>
+				<MEMBER name="nhẩy cẫng" sense="nhẩy cẫng"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Location">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Theme V {{+path}} Location">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="NoType" value="{{+path}}"/>
+						<syntaxItems accepted="" type="ThemRole" value="Location"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="motion" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="Prep" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="E"/>
+								<args type="ThemRole" optional="false" value="Theme"/>
+								<args type="ThemRole" optional="false" value="Location"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Tôi nhảy qua mương</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

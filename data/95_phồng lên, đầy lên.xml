@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<VNCLASS id="phồng lên, đầy lên">
+	<MEMBERS>
+		<MEMBER name="phồng" sense="phồng"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="phồng-95">
+			<MEMBERS>
+				<MEMBER name="phồng (lên)" sense="phồng (lên)"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Location">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Location V {with} Theme">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Location"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="NoType" value="{with}"/>
+						<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="filled_with" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Location"/>
+								<args type="ThemRole" optional="false" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Ví căng phồng tiền</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

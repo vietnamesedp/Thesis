@@ -1,0 +1,164 @@
+<?xml version="1.0" ?>
+<VNCLASS id="tiêu thụ">
+	<MEMBERS>
+		<MEMBER name="ăn tiêu" sense="ăn tiêu"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="ăn tiêu-27">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="ăn tiêu-27.1">
+					<MEMBERS>
+						<MEMBER name="ăn tiêu" sense="ăn tiêu"/>
+						<MEMBER name="ăn xài" sense="ăn xài"/>
+						<MEMBER name="tiêu xài" sense="tiêu xài"/>
+						<MEMBER name="xài" sense="xài"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Asset">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Asset">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Asset"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="exist" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="start(E)"/>
+										<args type="ThemRole" optional="false" value="Asset"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="exist" negative="+">
+									<ARGS>
+										<args type="Event" optional="false" value="end(E)"/>
+										<args type="ThemRole" optional="false" value="Asset"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="spend" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Asset"/>
+										<args type="ThemRole" optional="true" value="Goal"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Tôi xài nhiều tiền</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="ăn tiêu-27.2">
+					<MEMBERS>
+						<MEMBER name="chi tiêu" sense="chi tiêu"/>
+						<MEMBER name="tằn tiện" sense="tằn tiện"/>
+						<MEMBER name="chi dùng" sense="chi dùng"/>
+						<MEMBER name="tiêu pha" sense="tiêu pha"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Asset">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="V Asset">
+							<SYNTAX>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Asset"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="exist" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="start(E)"/>
+										<args type="ThemRole" optional="false" value="Asset"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="exist" negative="+">
+									<ARGS>
+										<args type="Event" optional="false" value="end(E)"/>
+										<args type="ThemRole" optional="false" value="Asset"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="spend" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="true" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Asset"/>
+										<args type="ThemRole" optional="true" value="Goal"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Chi tiêu một món tiền lớn</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="ăn tiêu-27.3">
+					<MEMBERS>
+						<MEMBER name="tiêu thụ" sense="tiêu thụ"/>
+						<MEMBER name="phân phối" sense="phân phối"/>
+						<MEMBER name="cung ứng" sense="cung ứng"/>
+						<MEMBER name="xuất khẩu" sense="xuất khẩu"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Asset">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Goal">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="V Asset {on} Goal &lt;+sc_ing&gt;">
+							<SYNTAX>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Asset"/>
+								<syntaxItems accepted="" type="NoType" value="{on}"/>
+								<syntaxItems accepted="" type="ThemRole" value="Goal &lt;+sc_ing&gt;"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="exist" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="start(E)"/>
+										<args type="ThemRole" optional="false" value="Asset"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="exist" negative="+">
+									<ARGS>
+										<args type="Event" optional="false" value="end(E)"/>
+										<args type="ThemRole" optional="false" value="Asset"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="spend" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="true" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Asset"/>
+										<args type="ThemRole" optional="false" value="Goal"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Tiêu thụ năng lượng để sưởi ấm</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

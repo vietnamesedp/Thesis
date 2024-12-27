@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<VNCLASS id="tách, tháo rời">
+	<MEMBERS>
+		<MEMBER name="tách" sense="tách"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="tách-76">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="tách 76.1">
+					<MEMBERS>
+						<MEMBER name="tháo" sense="tháo"/>
+						<MEMBER name="dỡ" sense="dỡ"/>
+						<MEMBER name="tháo dỡ" sense="tháo dỡ"/>
+						<MEMBER name="tách" sense="tách"/>
+						<MEMBER name="phân tách" sense="phân tách"/>
+						<MEMBER name="tách biệt" sense="tách biệt"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Patient">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Patient  V">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Patient"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="together" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="start(E)"/>
+										<args type="Event" optional="false" value="physical/abstract"/>
+										<args type="Event" optional="false" value="Patient_i"/>
+										<args type="Event" optional="false" value="Patient_j"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="apart" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="end(E)"/>
+										<args type="Event" optional="false" value="physical/abstract"/>
+										<args type="Event" optional="false" value="Patient_i"/>
+										<args type="Event" optional="false" value="Patient_j"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>cố mãy bị tháo tung ra</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="tách 76.2">
+					<MEMBERS>
+						<MEMBER name="gãy" sense="gãy"/>
+						<MEMBER name="bẻ" sense="bẻ"/>
+						<MEMBER name="cắt" sense="cắt"/>
+						<MEMBER name="cưa" sense="cưa"/>
+						<MEMBER name="chia" sense="chia"/>
+						<MEMBER name="cắn" sense="cắn"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Patient">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Patient">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Patient"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="cause" negative="-">
+									<ARGS>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="Event" optional="false" value="E"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="together" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="start(E)"/>
+										<args type="Event" optional="false" value="physical/abstract"/>
+										<args type="Event" optional="false" value="Patient_i"/>
+										<args type="Event" optional="false" value="Patient_j"/>
+									</ARGS>
+								</semanticItems>
+								<semanticItems value="apart" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="end(E)"/>
+										<args type="Event" optional="false" value="physical/abstract"/>
+										<args type="Event" optional="false" value="Patient_i"/>
+										<args type="Event" optional="false" value="Patient_j"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Tôi bẻ ngô</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

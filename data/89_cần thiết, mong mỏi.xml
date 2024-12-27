@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<VNCLASS id="cần thiết, mong mỏi">
+	<MEMBERS>
+		<MEMBER name="muốn" sense="muốn"/>
+		<MEMBER name="khao khát" sense="khao khát"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="muốn-100.1">
+			<MEMBERS>
+				<MEMBER name="muốn" sense="muốn"/>
+				<MEMBER name="cần" sense="cần"/>
+				<MEMBER name="thích" sense="thích"/>
+				<MEMBER name="ưa thích" sense="ưa thích"/>
+				<MEMBER name="ưa chuộng" sense="ưa chuộng"/>
+				<MEMBER name="ham thích" sense="ham thích"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Pivot">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Pivot V Theme">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Pivot"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="desire" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="E"/>
+								<args type="ThemRole" optional="false" value="Pivot"/>
+								<args type="ThemRole" optional="false" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>bà ấy đang cần tiền chữa bệnh</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+			<SUBCLASSES/>
+		</VNCLASS>
+		<VNCLASS id="khao khát-100.2">
+			<MEMBERS>
+				<MEMBER name="khao khát" sense="khao khát"/>
+				<MEMBER name="khát vọng" sense="khát vọng"/>
+				<MEMBER name="khát khao" sense="khát khao"/>
+				<MEMBER name="ao ước" sense="ao ước"/>
+				<MEMBER name="thèm khát" sense="thèm khát"/>
+				<MEMBER name="thèm muốn" sense="thèm muốn"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Pivot">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Pivot V Theme">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Pivot"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="desire" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="E"/>
+								<args type="ThemRole" optional="false" value="Pivot"/>
+								<args type="ThemRole" optional="false" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Khát khao tình cảm</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<VNCLASS id="ra lệnh">
+	<MEMBERS>
+		<MEMBER name="ra lệnh" sense="ra lệnh"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="ra lệnh-24">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="ra lệnh-24.1">
+					<MEMBERS>
+						<MEMBER name="ra lệnh" sense="ra lệnh"/>
+						<MEMBER name="lệnh" sense="lệnh"/>
+						<MEMBER name="hạ lệnh" sense="hạ lệnh"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Recipient">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Recipient">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Recipient"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="command" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Recipient"/>
+										<args type="ThemRole" optional="true" value="Topic"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Anh ấy ra lệnh cho mọi người</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="ra lệnh-24.2">
+					<MEMBERS>
+						<MEMBER name="chỉ đạo" sense="chỉ đạo"/>
+						<MEMBER name="đốc thúc" sense="đốc thúc"/>
+						<MEMBER name="đôn đốc" sense="đôn đốc"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Agent">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Recipient">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Topic">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Agent V Recipient Topic &lt;+oc_to_inf&gt;">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Recipient"/>
+								<syntaxItems accepted="" type="ThemRole" value="Topic &lt;+oc_to_inf&gt;"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="command" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="during(E)"/>
+										<args type="ThemRole" optional="false" value="Agent"/>
+										<args type="ThemRole" optional="false" value="Recipient"/>
+										<args type="ThemRole" optional="false" value="Topic"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>ban giám đốc chỉ đạo chúng tôi thực hiện kế hoạch</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

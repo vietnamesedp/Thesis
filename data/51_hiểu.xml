@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<VNCLASS id="hiểu">
+	<MEMBERS>
+		<MEMBER name="hiểu" sense="hiểu"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="hiểu-51">
+			<MEMBERS/>
+			<THEMROLES/>
+			<FRAMES/>
+			<SUBCLASSES>
+				<VNCLASS id="hiểu-51.1">
+					<MEMBERS>
+						<MEMBER name="am hiểu" sense="am hiểu"/>
+						<MEMBER name="am tường" sense="am tường"/>
+						<MEMBER name="hiểu biết" sense="hiểu biết"/>
+						<MEMBER name="nhận biết" sense="nhận biết"/>
+						<MEMBER name="ý thức" sense="ý thức"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Experiencer">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Stimulus">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Experiencer V Stimulus">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Experiencer"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Stimulus"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="understand" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="E"/>
+										<args type="ThemRole" optional="false" value="Experiencer"/>
+										<args type="ThemRole" optional="false" value="Stimulus"/>
+										<args type="ThemRole" optional="true" value="Attribute"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>anh ấy rất am hiểu về hội hoạ</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="hiểu-51.2">
+					<MEMBERS>
+						<MEMBER name="thông hiểu" sense="thông hiểu"/>
+						<MEMBER name="thông tỏ" sense="thông tỏ"/>
+						<MEMBER name="thấu cảm" sense="thấu cảm"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Stimulus">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description=" V Stimulus">
+							<SYNTAX>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Stimulus"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value="understand" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="E"/>
+										<args type="ThemRole" optional="true" value="Experiencer"/>
+										<args type="ThemRole" optional="false" value="Stimulus"/>
+										<args type="ThemRole" optional="true" value="Attribute"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>thông hiểu luật pháp</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+				<VNCLASS id="hiểu-51.3">
+					<MEMBERS>
+						<MEMBER name="hiểu" sense="hiểu"/>
+						<MEMBER name="mường tượng" sense="mường tượng"/>
+						<MEMBER name="tưởng" sense="tưởng"/>
+						<MEMBER name="ngỡ" sense="ngỡ"/>
+						<MEMBER name="nghĩ" sense="nghĩ"/>
+						<MEMBER name="liên tưởng" sense="liên tưởng"/>
+						<MEMBER name="hình dung" sense="hình dung"/>
+						<MEMBER name="đinh ninh" sense="đinh ninh"/>
+						<MEMBER name="chắc mẩm" sense="chắc mẩm"/>
+					</MEMBERS>
+					<THEMROLES>
+						<THEMROLE type="Experiencer">
+							<SELRESTRS/>
+						</THEMROLE>
+						<THEMROLE type="Stimulus">
+							<SELRESTRS/>
+						</THEMROLE>
+					</THEMROLES>
+					<FRAMES>
+						<FRAME description="Experiencer V Stimulus">
+							<SYNTAX>
+								<syntaxItems accepted="" type="ThemRole" value="Experiencer"/>
+								<syntaxItems accepted="" type="Verb" value="V"/>
+								<syntaxItems accepted="" type="ThemRole" value="Stimulus"/>
+							</SYNTAX>
+							<SEMANTICS>
+								<semanticItems value=" understand" negative="-">
+									<ARGS>
+										<args type="Event" optional="false" value="E"/>
+										<args type="ThemRole" optional="false" value="Experiencer"/>
+										<args type="ThemRole" optional="false" value="Stimulus"/>
+										<args type="ThemRole" optional="true" value="Attribute"/>
+									</ARGS>
+								</semanticItems>
+							</SEMANTICS>
+							<EXAMPLES>
+								<EXAMPLE>Tôi hiểu sai đầu bài</EXAMPLE>
+							</EXAMPLES>
+						</FRAME>
+					</FRAMES>
+				</VNCLASS>
+			</SUBCLASSES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

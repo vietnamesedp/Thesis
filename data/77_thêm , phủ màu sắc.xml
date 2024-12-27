@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<VNCLASS id="thêm , phủ màu sắc">
+	<MEMBERS>
+		<MEMBER name="tô" sense="tô"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="tô-77">
+			<MEMBERS>
+				<MEMBER name="tô" sense="tô"/>
+				<MEMBER name="vẽ" sense="vẽ"/>
+				<MEMBER name="nhuộm" sense="nhuộm"/>
+				<MEMBER name="sơn" sense="sơn"/>
+				<MEMBER name="quét" sense="quét"/>
+				<MEMBER name="phết" sense="phết"/>
+				<MEMBER name="phủ" sense="phủ"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Patient">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent V Patient">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="ThemRole" value="Patient"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="cause" negative="-">
+							<ARGS>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="Event" optional="false" value="E"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="apply_material" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Material"/>
+								<args type="ThemRole" optional="false" value="Patient"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="covered" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="result(E)"/>
+								<args type="ThemRole" optional="false" value="Material"/>
+								<args type="ThemRole" optional="false" value="Patient"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>người thợ nhuộm tấm vải</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+			<SUBCLASSES/>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>

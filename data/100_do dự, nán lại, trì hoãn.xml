@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<VNCLASS id="do dự, nán lại, trì hoãn">
+	<MEMBERS>
+		<MEMBER name="nán lại" sense="nán lại"/>
+		<MEMBER name="trì hoãn" sense="trì hoãn"/>
+	</MEMBERS>
+	<THEMROLES/>
+	<FRAMES/>
+	<SUBCLASSES>
+		<VNCLASS id="nán lại-100.1">
+			<MEMBERS>
+				<MEMBER name="nán lại" sense="nán lại"/>
+				<MEMBER name="nấn ná" sense="nấn ná"/>
+				<MEMBER name="do dự" sense="do dự"/>
+				<MEMBER name="la cà" sense="la cà"/>
+				<MEMBER name="lảng vảng" sense="lảng vảng"/>
+				<MEMBER name="lần chần" sense="lần chần"/>
+				<MEMBER name="lần nữa" sense="lần nữa"/>
+				<MEMBER name="ngần ngừ" sense="ngần ngừ"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Location">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent V {{+loc}} Location">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="NoType" value="{{+loc}}"/>
+						<syntaxItems accepted="" type="ThemRole" value="Location"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="linger" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="ThemRole" optional="true" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+						<semanticItems value="Prep" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="E"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="ThemRole" optional="false" value="Location"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Con mèo lảng vảng quanh mâm cơm</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+			<SUBCLASSES/>
+		</VNCLASS>
+		<VNCLASS id="trì hoãn-100.2">
+			<MEMBERS>
+				<MEMBER name="hoãn" sense="hoãn"/>
+				<MEMBER name="trì hoãn" sense="trì hoãn"/>
+				<MEMBER name="lùi lại" sense="lùi lại"/>
+			</MEMBERS>
+			<THEMROLES>
+				<THEMROLE type="Agent">
+					<SELRESTRS/>
+				</THEMROLE>
+				<THEMROLE type="Theme">
+					<SELRESTRS/>
+				</THEMROLE>
+			</THEMROLES>
+			<FRAMES>
+				<FRAME description="Agent V Theme">
+					<SYNTAX>
+						<syntaxItems accepted="" type="ThemRole" value="Agent"/>
+						<syntaxItems accepted="" type="Verb" value="V"/>
+						<syntaxItems accepted="" type="ThemRole" value="Theme"/>
+					</SYNTAX>
+					<SEMANTICS>
+						<semanticItems value="delay" negative="-">
+							<ARGS>
+								<args type="Event" optional="false" value="during(E)"/>
+								<args type="ThemRole" optional="false" value="Agent"/>
+								<args type="ThemRole" optional="false" value="Theme"/>
+							</ARGS>
+						</semanticItems>
+					</SEMANTICS>
+					<EXAMPLES>
+						<EXAMPLE>Nhà gái hoãn đám cưới</EXAMPLE>
+					</EXAMPLES>
+				</FRAME>
+			</FRAMES>
+		</VNCLASS>
+	</SUBCLASSES>
+</VNCLASS>
